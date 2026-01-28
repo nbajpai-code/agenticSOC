@@ -45,3 +45,7 @@ graph TD
     - `state.py`: Defines the shared application state.
     - `agents/`: Agent implementations (prompts and logic).
     - `tools/`: Tool definitions.
+ 
+## EC COUNCIL GITHUB
+
+- https://github.com/ec-council-learning/Agentic-AI-for-Cybersecurity
