@@ -49,3 +49,7 @@ graph TD
 ## EC COUNCIL GITHUB
 
 - https://github.com/ec-council-learning/Agentic-AI-for-Cybersecurity
+
+## LANGSMITH HUB
+
+- https://smith.langchain.com/hub/hardkothari/prompt-maker
