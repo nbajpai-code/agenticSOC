@@ -13,4 +13,5 @@
   - https://www.okta.com/resources/whitepaper-how-to-prove-the-roi-of-cybersecurity/?gad_campaignid=20383065739&gad_source=1&gbraid=0AAAAACww3aG2HInATHoxZPsdJC3rObkJk&gclid=Cj0KCQiAyvHLBhDlARIsAHxl6xrmF3skkMjvVM5MuSpqQt_-jvaEotW6OYD-q10RiNkqZE9XkvG8_MMaAuIoEALw_wcB&utm_campaign=amer_mult_usa_all_wf-all_dg-ao_a-wf_search_google_text_kw_attack-mitigation_utm2&utm_id=aNK4z000000kAkuGAE&utm_medium=cpc&utm_source=google
   - https://start.paloaltonetworks.com/modernize-your-soc-playbook?utm_source=google-jg-amer-cortex-socf-siem&utm_medium=paid_search&utm_campaign=google-cortex-xsiam-amer-multi-lead_gen-en-non_brand&utm_content=7014u000001kW1mAAE&utm_term=cybersecurity%20compliance&cq_plac=&cq_net=g&gad_source=1&gad_campaignid=21711491264&gbraid=0AAAAADHVeKkpsMWPFZJkH9Fn0UbSyCTTg&gclid=Cj0KCQiAyvHLBhDlARIsAHxl6xqifO-DlDPTX3GkqtJ_qTAKR8r-3CuzN7A78vILeZrnsN2H0hHsJ5waAhLGEALw_wcB
   - A Framework for Evaluating Emerging Cyberattack Capabilities of AI: https://arxiv.org/pdf/2503.11917
+  - https://github.com/rabbidave/ZeroDay.Tools
     
