@@ -7,4 +7,5 @@
   - https://arxiv.org/html/2504.20493v1#:~:text=Recent%20research%20has%20uncovered%20a,improving%20security%20in%20reasoning%20LLMs.
   - https://www.anthropic.com/research/small-samples-poison#:~:text=Large%20language%20models%20(LLMs)%20can%20be%20poisoned,*%20**Bypassing%20safety%20guardrails**%20Bypassing%20safety%20guardrails
   - https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-lan#:~:text=Recent%20advancements%20in%20large%20language,an%20elevated%20risk%20of%20threat.
+  - https://github.com/GraySwanAI/nanoGCG
     
