@@ -14,4 +14,13 @@
   - https://start.paloaltonetworks.com/modernize-your-soc-playbook?utm_source=google-jg-amer-cortex-socf-siem&utm_medium=paid_search&utm_campaign=google-cortex-xsiam-amer-multi-lead_gen-en-non_brand&utm_content=7014u000001kW1mAAE&utm_term=cybersecurity%20compliance&cq_plac=&cq_net=g&gad_source=1&gad_campaignid=21711491264&gbraid=0AAAAADHVeKkpsMWPFZJkH9Fn0UbSyCTTg&gclid=Cj0KCQiAyvHLBhDlARIsAHxl6xqifO-DlDPTX3GkqtJ_qTAKR8r-3CuzN7A78vILeZrnsN2H0hHsJ5waAhLGEALw_wcB
   - A Framework for Evaluating Emerging Cyberattack Capabilities of AI: https://arxiv.org/pdf/2503.11917
   - https://github.com/rabbidave/ZeroDay.Tools
+  - https://openrouter.ai/models
+  - https://www.jeremyjordan.me/autoencoders/
+  - Auditing language models for hidden objectives: https://arxiv.org/abs/2503.10965
+  - Neural Networks: https://www.3blue1brown.com/topics/neural-networks
+  - On the biology of the large language models: https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+  - Mixture of Experts in Large Language Models: https://arxiv.org/abs/2507.11181
+  - Model context protocol: https://modelcontextprotocol.io/docs/getting-started/intro
+  - Paypal agenttic adoption - https://developer.paypal.com/community/blog/accelerating-agentic-payments
+  - Ghidra Software Reverse Engineering Framework: https://github.com/NationalSecurityAgency/ghidra
     
