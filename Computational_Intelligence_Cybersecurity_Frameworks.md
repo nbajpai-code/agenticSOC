@@ -31,6 +31,52 @@ Tools that provide the data and mechanisms for AI models to interact with the se
 *   **[PEfile](https://github.com/erocarrera/pefile)**: Parse and analyze Portable Executable (PE) files. Essential for extracting features for malware classifiers.
 *   **[Angr](https://angr.io/)**: A multi-architecture binary analysis toolkit. useful for symbolic execution and automated vulnerability discovery.
 
+## 🐜 Evolutionary & Swarm Intelligence Frameworks
+
+Computational Intelligence tools for simulation, optimization, and evolving defensive strategies.
+
+| Framework | Description | Cybersecurity Use Cases |
+| :--- | :--- | :--- |
+| **[NetLogo](https://ccl.northwestern.edu/netlogo/)** | Agent-based modeling environment. | Simulating botnet spread, social engineering dynamics, and red/blue team interactions. |
+| **[WEKA](https://www.cs.waikato.ac.nz/ml/weka/)** | Data Mining workbench (Java-based). | Classic platform for testing algorithms on intrusion detection datasets (NSL-KDD). |
+| **[ACOTSP](https://github.com/topics/ant-colony-optimization)** | Ant Colony Optimization for TSP. | Routing optimization in secure networks, finding optimal attack/defense paths. |
+| **[DEAP](https://github.com/DEAP/deap)** | Distributed Evolutionary Algorithms in Python. | Evolving malware signatures for testing, optimizing feature selection for IDSs. |
+| **[PyEvolve](http://pyevolve.sourceforge.net/)** | Evolutionary computation framework. | Genetic algorithm applications in cryptanalysis and system hardening. |
+| **[ECF](http://ecf.zemris.fer.hr/)** | Evolutionary Computation Framework (C++). | High-performance evolutionary runs for complex security parameter tuning. |
+
+## 🧬 Reinforcement Learning & Neuroevolution
+
+Frameworks for training autonomous agents that learn from the environment.
+
+*   **[OpenAI Gym](https://gymnasium.farama.org/)** (now Gymnasium): The standard interface for Reinforcement Learning. Used to build "Cyber Gyms" where agents learn to defend networks against simulated attackers.
+*   **[NEAT-Python](https://neat-python.readthedocs.io/)**: NeuroEvolution of Augmenting Topologies. Evolve neural networks that can adaptively detect novel mutation-based malware.
+*   **[NEAT-Java](https://github.com/schrum2/NEAT-Java)**: Java implementation of NEAT.
+*   **[PyRIT](https://github.com/Azure/PyRIT)**: Python Risk Identification Tool for generative AI red teaming (Microsoft), relevant for agent evaluation.
+
+## 🧠 Google DeepMind & The "Agentic SOC"
+
+Insights into how Google DeepMind is pioneering the comprehensive **Agentic Security Operations Center (SOC)**.
+
+### The Shift: Assistive → Agentic
+Traditional AI is *assistive* (copilots, summarization). **Agentic AI** is capable of independent reasoning, planning, and action execution to achieve high-level security goals.
+
+### Key Frameworks & Innovations
+1.  **[Secure AI Framework (SAIF) 2.0](https://safety.google/cybersecurity-advancements/saif/)**:
+    *   Expanded to address risks from *autonomous agents*.
+    *   Includes an **Agent Risk Map** to identify threats across the deployment lifecycle.
+2.  **CodeMender**:
+    *   An AI agent powered by **Gemini DeepThink** models.
+    *   **Capabilities**: Autonomously finds *and* fixes vulnerabilities in codebases.
+    *   **Self-Healing**: Validates its own fixes to ensure no functional regressions.
+3.  **Project Mariner**:
+    *   Uses natural language to assign AI agents for complex research and planning tasks, simulating human analyst workflows.
+
+### Agentic SOC Roles
+DeepMind envisions a SOC staffed by specialized AI agents working in concert:
+*   **Autonomous Triage Agent**: Analyzes alerts, enriches data with threat intel, and recommends actions.
+*   **Proactive Threat Hunter**: Actively searches for hidden threats using heuristics and historical patterns.
+*   **Dynamic Detection Engineer**: Continuously writes and tests new detection rules based on the evolving threat landscape.
+
 ## 🏭 Integrated AI-Enabled Security Frameworks
 
 Platforms that are incorporating AI/CI capabilities out-of-the-box.
