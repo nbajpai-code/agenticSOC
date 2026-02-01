@@ -1,0 +1,35 @@
+name: Update Cybersecurity Frontiers
+
+on:
+  schedule:
+    # Run every Tuesday at 08:00 UTC
+    - cron: '0 8 * * 2'
+  workflow_dispatch:
+
+jobs:
+  update-frontiers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install arxiv feedparser pytz
+
+      - name: Fetch Frontier Updates
+        run: python papers/fetch_frontiers.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update cyber frontiers tracker [skip ci]"
+          file_pattern: 'CYBERSECURITY_FRONTIERS.md'
