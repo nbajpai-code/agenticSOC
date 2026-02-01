@@ -9,6 +9,7 @@ Use these prompts to profile adversaries and understand their tactics, technique
 *   **Adversary Profiling**: "Based on the following indicators and behaviors, which known Threat Actor (APT group) does this most closely resemble? Explain your reasoning referring to common TTPs of that group: [Insert Indicators]."
 *   **Campaign Evolution**: "Summarize the evolution of the [Insert APT Name] threat group over the last 3 years, specifically focusing on changes in their malware toolset and targeting scope."
 *   **Hypothesis Generation**: "Generate 5 hypotheses for a potential cyber attack against a [Insert Industry, e.g., Financial] organization involving [Insert Specific Tech, e.g., Kubernetes] infrastructure."
+*   **Cybercrime Forum Analysis**: "Analyze the following unstructured text from a cybercrime forum. Extract variables related to targeted organizations, technologies being exploited, and the actor's intent: [Insert Text]."
 
 ## 🧬 2. IOC Analysis & Deobfuscation
 Help with analyzing Indicators of Compromise and understanding malicious scripts.
@@ -44,6 +45,29 @@ Using ChatGPT for skill building.
 
 *   **Scenario Generation**: "Create a Tabletop Exercise (TTX) scenario for a SOC team involving a supply chain attack via a software update. Include 3 distinct 'injects' or complications that occur during the exercise."
 *   **Quiz Creation**: "Generate 5 multiple-choice questions to test a junior analyst's understanding of DNS tunneling detection."
+*   **RAG Simulation**: "Act as a Retrieval-Augmented Generation (RAG) system. I will provide a snippet of a knowledge base below. Answer questions ONLY based on that snippet. Snippet: [Insert Data]. Question: [Insert Question]."
+
+## 📚 7. Key References & Research
+Enrich your understanding with these foundational papers and guidelines.
+
+### NIST Guidelines (National Institute of Standards and Technology)
+*   **NIST AI Risk Management Framework: Generative AI Profile (NIST AI 600-1)**:
+    *   *Focus*: Managing risks specific to Generative AI, including hallucinations, bias, and data security.
+    *   *Link*: [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework)
+*   **Secure Software Development Practices for Generative AI (SP 800-218A)**:
+    *   *Focus*: Protecting training data and model integrity to prevent poisoning and supply chain attacks.
+
+### Arxiv Research Papers
+*   **"Automation of Threat Intelligence Workflows"**: Research validating the use of LLMs for IOC extraction and creating relationship graphs.
+*   **"Threat Intelligence Copilots"**: Concepts around using AI as an assistant for attribution and prioritization.
+*   **"Benchmarking LLM Performance"**: Look for **CyberSOCEval** and **CTIBench** to understand how different models perform on specific cybersecurity tasks.
+
+## 🛠️ 8. Community Tools & Repositories
+Explore these GitHub repositories for more prompts and tools.
+
+*   **[Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources)**: Excellent for dealing with adversarial prompts and understanding injection attacks.
+*   **[Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt)**: A collection of community-sourced prompts for various security roles.
+*   **[cybersecurity-threat-intelligence](https://github.com/paulveillard/cybersecurity-threat-intelligence)**: Tools and indicators that can be paired with LLM analysis.
 
 ## 💡 Best Practices for Prompting
 *   **Context is King**: Always provide specific context (logs, error messages, industry) for better results.
