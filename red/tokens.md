@@ -23,4 +23,5 @@
   - Model context protocol: https://modelcontextprotocol.io/docs/getting-started/intro
   - Paypal agenttic adoption - https://developer.paypal.com/community/blog/accelerating-agentic-payments
   - Ghidra Software Reverse Engineering Framework: https://github.com/NationalSecurityAgency/ghidra
+  - GHUB- https://github.blog/tag/github-security-lab/
     
