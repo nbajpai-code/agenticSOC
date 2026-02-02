@@ -1,9 +1,16 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-02-01 19:40:31 UTC
+**Last Updated:** 2026-02-02 09:50:56 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
+## [Notepad++ Supply Chain Hack Conducted by China via Hosting Provider](https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/)
+**Date:** Mon, 02 Feb 2026 09:18:18 +0000
+
+<p>The likely state-sponsored threat actor had access to the hosting provider for months and targeted only certain Notepad++ customers.</p>
+<p>The post <a href="https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/">Notepad++ Supply Chain Hack Conducted by China via Hosting Provider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
 ## [eScan Antivirus Delivers Malware in Supply Chain Attack](https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/)
 **Date:** Sat, 31 Jan 2026 15:00:00 +0000
 
