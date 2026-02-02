@@ -1,0 +1,35 @@
+name: Update Telecom Security Protocols
+
+on:
+  schedule:
+    # Run every Wednesday at 08:00 UTC
+    - cron: '0 8 * * 3'
+  workflow_dispatch:
+
+jobs:
+  update-telecom-security:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install arxiv feedparser pytz
+
+      - name: Fetch Telecom Updates
+        run: python papers/fetch_telecom_security.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update telecom security tracker [skip ci]"
+          file_pattern: 'TELECOM_SECURITY_PROTOCOLS.md'
