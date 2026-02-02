@@ -1,0 +1,35 @@
+name: Update Threat Modeling Frameworks
+
+on:
+  schedule:
+    # Run every Friday at 08:00 UTC
+    - cron: '0 8 * * 5'
+  workflow_dispatch:
+
+jobs:
+  update-threat-modeling:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install arxiv feedparser pytz
+
+      - name: Fetch Updates
+        run: python papers/fetch_threat_modeling.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update threat modeling frameworks [skip ci]"
+          file_pattern: 'THREAT_MODELING_FRAMEWORKS.md'
