@@ -57,3 +57,8 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 2.  **Self-Healing Infrastructure**: Startups like Kestrel and Gomboc are focusing on fixing root causes, not just blocking attacks.
 3.  **Agent Identity is Critical**: With agents taking actions, "Machine Identity" (CyberArk/Venafi) becomes the new perimeter.
 4.  **Data is the AI Moat**: Cisco/Splunk and Palo Alto/Chronosphere deals prove that having the *data* to train and feed agents is the ultimate competitive advantage.
+
+
+## Weekly Updates (2026-02-03)
+- **2026-01-28** [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/) - *Security News | TechCrunch*
+- **2026-02-03** [RADICL Raises $31 Million for vSOC](https://www.securityweek.com/radicl-raises-31-million-for-vsoc/) - *SecurityWeek*
