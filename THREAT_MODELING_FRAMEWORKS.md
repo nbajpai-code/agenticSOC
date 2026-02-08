@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-02-02 03:04:01 UTC*
+*Last Updated: 2026-02-06 08:50:57 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [WiFiPenTester: Advancing Wireless Ethical Hacking with Governed GenAI](http://arxiv.org/abs/2601.23092v1) (2026-01-30)
-*   [Stealthy Poisoning Attacks Bypass Defenses in Regression Settings](http://arxiv.org/abs/2601.22308v1) (2026-01-29)
-*   [ICL-EVADER: Zero-Query Black-Box Evasion Attacks on In-Context Learning and Their Defenses](http://arxiv.org/abs/2601.21586v1) (2026-01-29)
-*   [LAMP: Learning Universal Adversarial Perturbations for Multi-Image Tasks via Pre-trained Models](http://arxiv.org/abs/2601.21220v1) (2026-01-29)
-*   [Securing AI Agents in Cyber-Physical Systems: A Survey of Environmental Interactions, Deepfake Threats, and Defenses](http://arxiv.org/abs/2601.20184v1) (2026-01-28)
+*   [Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy](http://arxiv.org/abs/2602.05877v1) (2026-02-05)
+*   [Beware Untrusted Simulators -- Reward-Free Backdoor Attacks in Reinforcement Learning](http://arxiv.org/abs/2602.05089v1) (2026-02-04)
+*   [PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM](http://arxiv.org/abs/2602.04927v1) (2026-02-04)
+*   [Byzantine Machine Learning: MultiKrum and an optimal notion of robustness](http://arxiv.org/abs/2602.03899v1) (2026-02-03)
+*   [Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks](http://arxiv.org/abs/2602.03284v1) (2026-02-03)
 
 ### 📰 Latest News
-*   [Aisy Launches Out of Stealth to Transform Vulnerability Management](https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/) (Fri, 30 Jan 2026 15:00:46 +0000)
+No related news found this week.
