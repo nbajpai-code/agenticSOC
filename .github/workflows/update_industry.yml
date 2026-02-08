@@ -1,0 +1,36 @@
+name: Update Industry Analysis
+
+on:
+  schedule:
+    # Run every 4 weeks (roughly monthly)
+    # cron: '0 0 1 * *' runs at 00:00 on day-of-month 1.
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  update-industry:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser pytz
+
+      - name: Fetch Industry Updates
+        run: python papers/fetch_industry_updates.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: monthly industry analysis update [skip ci]"
+          file_pattern: 'industry.md'

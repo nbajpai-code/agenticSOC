@@ -75,3 +75,10 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **[NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)** – *US Government standard for AI safety.*
 - **[Wiz AI Security Research](https://www.wiz.io/research)** – *Cloud-centric AI security findings.*
 - **[Microsoft AI Red Team Guidelines](https://learn.microsoft.com/en-us/security/ai-red-teaming)** – *Best practices for testing agent robustness.*
+
+## Latest Industry Updates
+- **2026-02-04** [State of AI Agent Security 2026 Report: When Adoption Outpaces Control](https://www.gravitee.io/blog/state-of-ai-agent-security-2026-report-when-adoption-outpaces-control) - *Gravitee.io Blog*
+- **2026-01-22** [Gravitee 4.10: One Control Point to Secure & Govern AI Agents, MCP, and LLMs](https://www.gravitee.io/blog/gravitee-4.10-one-control-point-to-secure-govern-ai-agents-mcp-and-llms) - *Gravitee.io Blog*
+- **2026-01-22** [MCP Proxy: Unified Governance for Agents Tools](https://www.gravitee.io/blog/mcp-proxy-unified-governance-for-agents-tools) - *Gravitee.io Blog*
+- **2026-01-22** [LLM Proxy: One Front Door to Multiple LLM Providers](https://www.gravitee.io/blog/llm-proxy-one-front-door-to-multiple-llm-providers) - *Gravitee.io Blog*
+- **2026-01-20** [Distributed sync process for more resilient gateways](https://www.gravitee.io/blog/distributed-sync-process-for-more-resilient-gateways) - *Gravitee.io Blog*
