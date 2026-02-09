@@ -1,48 +1,34 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-02-02 09:50:56 UTC
+**Last Updated:** 2026-02-09 10:03:21 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Notepad++ Supply Chain Hack Conducted by China via Hosting Provider](https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/)
-**Date:** Mon, 02 Feb 2026 09:18:18 +0000
+## [Living off the AI: The Next Evolution of Attacker Tradecraft](https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/)
+**Date:** Fri, 06 Feb 2026 12:00:00 +0000
 
-<p>The likely state-sponsored threat actor had access to the hosting provider for months and targeted only certain Notepad++ customers.</p>
-<p>The post <a href="https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/">Notepad++ Supply Chain Hack Conducted by China via Hosting Provider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [eScan Antivirus Delivers Malware in Supply Chain Attack](https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/)
-**Date:** Sat, 31 Jan 2026 15:00:00 +0000
-
-<p>Hackers compromised a MicroWorld Technologies update server and fed a malicious file to eScan customers.</p>
-<p>The post <a href="https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/">eScan Antivirus Delivers Malware in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. </p>
+<p>The post <a href="https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Aisy Launches Out of Stealth to Transform Vulnerability Management](https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/)
-**Date:** Fri, 30 Jan 2026 15:00:46 +0000
+## [In Other News: Record DDoS, Epstein’s Hacker, ESET Product Vulnerabilities](https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/)
+**Date:** Fri, 06 Feb 2026 12:00:00 +0000
 
-<p>Aisy has emerged from stealth mode with $2.3 million in seed funding for its AI-assisted platform.</p>
-<p>The post <a href="https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/">Aisy Launches Out of Stealth to Transform Vulnerability Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [175,000 Exposed Ollama Hosts Could Enable LLM Abuse](https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/)
-**Date:** Fri, 30 Jan 2026 14:34:13 +0000
-
-<p>Among them, 23,000 hosts were persistently responsible for the majority of activity observed over 293 days of scanning.</p>
-<p>The post <a href="https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/">175,000 Exposed Ollama Hosts Could Enable LLM Abuse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Ivanti Patches Exploited EPMM Zero-Days](https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/)
-**Date:** Fri, 30 Jan 2026 08:32:35 +0000
+## [Airrived Emerges From Stealth With $6.1 Million in Funding](https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/)
+**Date:** Fri, 06 Feb 2026 09:40:59 +0000
 
-<p>The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/">Ivanti Patches Exploited EPMM Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>
+<p>The post <a href="https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [LLMs Hijacked, Monetized in ‘Operation Bizarre Bazaar’](https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/)
-**Date:** Thu, 29 Jan 2026 15:01:24 +0000
+## [Critical SmarterMail Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/)
+**Date:** Fri, 06 Feb 2026 07:50:23 +0000
 
-<p>An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization.</p>
-<p>The post <a href="https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/">LLMs Hijacked, Monetized in &#8216;Operation Bizarre Bazaar&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>
+<p>The post <a href="https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
