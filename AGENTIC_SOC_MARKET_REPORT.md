@@ -62,3 +62,7 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 ## Weekly Updates (2026-02-03)
 - **2026-01-28** [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/) - *Security News | TechCrunch*
 - **2026-02-03** [RADICL Raises $31 Million for vSOC](https://www.securityweek.com/radicl-raises-31-million-for-vsoc/) - *SecurityWeek*
+
+
+## Weekly Updates (2026-02-09)
+- **2026-02-06** [Airrived Emerges From Stealth With $6.1 Million in Funding](https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/) - *SecurityWeek*
