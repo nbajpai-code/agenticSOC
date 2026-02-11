@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-02-04 08:36:52 UTC*
+*Last Updated: 2026-02-11 08:43:40 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](http://arxiv.org/abs/2601.17549v1) (2026-01-24)
