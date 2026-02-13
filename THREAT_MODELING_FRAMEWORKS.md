@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-02-06 08:50:57 UTC*
+*Last Updated: 2026-02-13 08:50:52 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy](http://arxiv.org/abs/2602.05877v1) (2026-02-05)
-*   [Beware Untrusted Simulators -- Reward-Free Backdoor Attacks in Reinforcement Learning](http://arxiv.org/abs/2602.05089v1) (2026-02-04)
-*   [PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM](http://arxiv.org/abs/2602.04927v1) (2026-02-04)
-*   [Byzantine Machine Learning: MultiKrum and an optimal notion of robustness](http://arxiv.org/abs/2602.03899v1) (2026-02-03)
-*   [Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks](http://arxiv.org/abs/2602.03284v1) (2026-02-03)
+*   [Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP](http://arxiv.org/abs/2602.11327v1) (2026-02-11)
+*   [CVPL: A Geometric Framework for Post-Hoc Linkage Risk Assessment in Protected Tabular Data](http://arxiv.org/abs/2602.11015v1) (2026-02-11)
+*   [The Role of Learning in Attacking Intrusion Detection Systems](http://arxiv.org/abs/2602.10299v1) (2026-02-10)
+*   [Autonomous Action Runtime Management(AARM):A System Specification for Securing AI-Driven Actions at Runtime](http://arxiv.org/abs/2602.09433v1) (2026-02-10)
+*   [AD$^2$: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems](http://arxiv.org/abs/2602.10160v1) (2026-02-10)
 
 ### 📰 Latest News
 No related news found this week.
