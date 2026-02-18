@@ -99,14 +99,14 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-02-11 08:43:40 UTC*
+*Last Updated: 2026-02-18 08:40:29 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication](http://arxiv.org/abs/2602.12059v1) (2026-02-12)
 *   [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](http://arxiv.org/abs/2601.17549v1) (2026-01-24)
 *   [Reference-frame-independent Quantum secure direct communication](http://arxiv.org/abs/2601.08238v1) (2026-01-13)
 *   [zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy](http://arxiv.org/abs/2512.21048v1) (2025-12-24)
 *   [Private Virtual Tree Networks for Secure Multi-Tenant Environments Based on the VIRGO Overlay Network](http://arxiv.org/abs/2512.15915v1) (2025-12-17)
-*   [Mage: Cracking Elliptic Curve Cryptography with Cross-Axis Transformers](http://arxiv.org/abs/2512.12483v3) (2025-12-13)
 
 ### 📰 Latest News
 No telecom-specific news found this week.
