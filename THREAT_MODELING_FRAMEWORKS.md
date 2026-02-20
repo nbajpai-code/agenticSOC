@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-02-13 08:50:52 UTC*
+*Last Updated: 2026-02-20 08:49:11 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP](http://arxiv.org/abs/2602.11327v1) (2026-02-11)
-*   [CVPL: A Geometric Framework for Post-Hoc Linkage Risk Assessment in Protected Tabular Data](http://arxiv.org/abs/2602.11015v1) (2026-02-11)
-*   [The Role of Learning in Attacking Intrusion Detection Systems](http://arxiv.org/abs/2602.10299v1) (2026-02-10)
-*   [Autonomous Action Runtime Management(AARM):A System Specification for Securing AI-Driven Actions at Runtime](http://arxiv.org/abs/2602.09433v1) (2026-02-10)
-*   [AD$^2$: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems](http://arxiv.org/abs/2602.10160v1) (2026-02-10)
+*   [Large-scale online deanonymization with LLMs](http://arxiv.org/abs/2602.16800v1) (2026-02-18)
+*   [Is Mamba Reliable for Medical Imaging?](http://arxiv.org/abs/2602.16723v1) (2026-02-16)
+*   [interID -- An Ecosystem-agnostic Verifier-as-a-Service with OpenID Connect Bridge](http://arxiv.org/abs/2602.14871v1) (2026-02-16)
+*   [Assessing the Case for Africa-Centric AI Safety Evaluations](http://arxiv.org/abs/2602.13757v1) (2026-02-14)
+*   [OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage](http://arxiv.org/abs/2602.13477v1) (2026-02-13)
 
 ### 📰 Latest News
-No related news found this week.
+*   [Cogent Security Raises $42 Million for AI-Driven Vulnerability Management](https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/) (Wed, 18 Feb 2026 14:47:07 +0000)
