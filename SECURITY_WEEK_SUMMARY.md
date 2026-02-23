@@ -1,41 +1,48 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-02-16 09:54:52 UTC
+**Last Updated:** 2026-02-23 09:55:07 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Google Patches First Actively Exploited Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/)
-**Date:** Mon, 16 Feb 2026 07:54:15 +0000
+## [Critical Grandstream Phone Vulnerability Exposes Calls to Interception](https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/)
+**Date:** Sat, 21 Feb 2026 12:00:00 +0000
 
-<p>A Chrome 145 update fixes CVE-2026-2441, a vulnerability that can likely be exploited for arbitrary code execution.</p>
-<p>The post <a href="https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/">Google Patches First Actively Exploited Chrome Zero-Day of 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney’s $2.7M Fine](https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/)
-**Date:** Fri, 13 Feb 2026 15:01:16 +0000
-
-<p>Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/">In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney&#8217;s $2.7M Fine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. </p>
+<p>The post <a href="https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/">Critical Grandstream Phone Vulnerability Exposes Calls to Interception</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release](https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/)
-**Date:** Fri, 13 Feb 2026 11:01:15 +0000
+## [In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI](https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/)
+**Date:** Fri, 20 Feb 2026 15:30:00 +0000
 
-<p>Exploitation attempts target CVE-2026-1731, a critical unauthenticated remote code execution flaw in BeyondTrust Remote Support.</p>
-<p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/">BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/)
-**Date:** Fri, 13 Feb 2026 10:36:04 +0000
-
-<p>Disclosed at the end of January, the SolarWinds vulnerability was likely exploited as a zero-day since December 2025.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/">CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Other noteworthy stories that might have slipped under the radar: Axonius lays off employees, Abu Dhabi conference data leak, HackerOne addresses AI concerns.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/">In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/)
-**Date:** Thu, 12 Feb 2026 16:15:00 +0000
+## [BeyondTrust Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/)
+**Date:** Fri, 20 Feb 2026 12:29:46 +0000
 
-<p>Developers must view AI as a collaborator to be closely monitored, rather than an autonomous entity to be unleashed. Without such a mindset, crippling tech debt is inevitable.</p>
-<p>The post <a href="https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/">How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks.</p>
+<p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/">BeyondTrust Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025](https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/)
+**Date:** Fri, 20 Feb 2026 11:05:26 +0000
+
+<p>The FBI has confirmed that the Ploutus malware, which has been around for over a decade, is still being used in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/">FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Chip Testing Giant Advantest Hit by Ransomware](https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/)
+**Date:** Fri, 20 Feb 2026 09:31:29 +0000
+
+<p>The company is investigating whether any customer or employee data was stolen by hackers.</p>
+<p>The post <a href="https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/">Chip Testing Giant Advantest Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence](https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/)
+**Date:** Fri, 20 Feb 2026 07:06:15 +0000
+
+<p>The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot.</p>
+<p>The post <a href="https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/">PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
