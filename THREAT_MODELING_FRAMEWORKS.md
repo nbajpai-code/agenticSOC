@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-02-20 08:49:11 UTC*
+*Last Updated: 2026-02-27 08:49:19 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Large-scale online deanonymization with LLMs](http://arxiv.org/abs/2602.16800v1) (2026-02-18)
-*   [Is Mamba Reliable for Medical Imaging?](http://arxiv.org/abs/2602.16723v1) (2026-02-16)
-*   [interID -- An Ecosystem-agnostic Verifier-as-a-Service with OpenID Connect Bridge](http://arxiv.org/abs/2602.14871v1) (2026-02-16)
-*   [Assessing the Case for Africa-Centric AI Safety Evaluations](http://arxiv.org/abs/2602.13757v1) (2026-02-14)
-*   [OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage](http://arxiv.org/abs/2602.13477v1) (2026-02-13)
+*   [Secure Semantic Communications via AI Defenses: Fundamentals, Solutions, and Future Directions](http://arxiv.org/abs/2602.22134v1) (2026-02-25)
+*   [TT-SEAL: TTD-Aware Selective Encryption for Adversarially-Robust and Low-Latency Edge AI](http://arxiv.org/abs/2602.22238v1) (2026-02-24)
+*   [RobPI: Robust Private Inference against Malicious Client](http://arxiv.org/abs/2602.19918v1) (2026-02-23)
+*   [Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments](http://arxiv.org/abs/2602.19450v1) (2026-02-23)
+*   [Media Integrity and Authentication: Status, Directions, and Futures](http://arxiv.org/abs/2602.18681v1) (2026-02-21)
 
 ### 📰 Latest News
-*   [Cogent Security Raises $42 Million for AI-Driven Vulnerability Management](https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/) (Wed, 18 Feb 2026 14:47:07 +0000)
+No related news found this week.
