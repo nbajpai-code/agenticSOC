@@ -82,3 +82,11 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-01-22** [MCP Proxy: Unified Governance for Agents Tools](https://www.gravitee.io/blog/mcp-proxy-unified-governance-for-agents-tools) - *Gravitee.io Blog*
 - **2026-01-22** [LLM Proxy: One Front Door to Multiple LLM Providers](https://www.gravitee.io/blog/llm-proxy-one-front-door-to-multiple-llm-providers) - *Gravitee.io Blog*
 - **2026-01-20** [Distributed sync process for more resilient gateways](https://www.gravitee.io/blog/distributed-sync-process-for-more-resilient-gateways) - *Gravitee.io Blog*
+- **2026-02-23** [MCP Authorization: How to Manage Permissions for AI Agents & Services](https://www.gravitee.io/blog/mcp-authorization-how-to-manage-permissions-for-ai-agents-services) - *Gravitee.io Blog*
+- **2026-02-23** [MCP Authentication: The Complete Guide to Modern Credential Flow in AI Systems](https://www.gravitee.io/blog/mcp-authentication-the-complete-guide-to-modern-credential-flow-in-ai-systems) - *Gravitee.io Blog*
+- **2026-02-13** [How AI Changes Authentication & Authorization Models](https://www.gravitee.io/blog/how-ai-changes-authentication-authorization-models) - *Gravitee.io Blog*
+- **2026-02-24** [Security Insights Where Work Happens: Notion Custom Agents + Wiz MCP](https://www.wiz.io/blog/wiz-notion-mcp-agents-integration) - *Wiz Blog*
+- **2026-02-20** [Building an Agentic Cloud Security Ecosystem: A Reference Architecture with Wiz MCP and Infosys Cyber Next](https://www.wiz.io/blog/infosys-mcp) - *Wiz Blog*
+- **2026-02-12** [Introducing AI Cyber Model Arena: A Real-World Benchmark for AI Agents in Cybersecurity](https://www.wiz.io/blog/introducing-ai-cyber-model-arena-a-real-world-benchmark-for-ai-agents-in-cybersec) - *Wiz Blog*
+- **2026-02-02** [Building AI Security Together: New Ways to Partner with Wiz for AI Security in 2026](https://www.wiz.io/blog/win-ai-partnerships) - *Wiz Blog*
+- **2026-02-02** [Hacking Moltbook: The AI Social Network Any Human Can Control](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys) - *Wiz Blog*
