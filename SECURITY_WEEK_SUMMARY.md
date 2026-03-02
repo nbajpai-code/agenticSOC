@@ -1,48 +1,48 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-02-23 09:55:07 UTC
+**Last Updated:** 2026-03-02 09:51:08 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Critical Grandstream Phone Vulnerability Exposes Calls to Interception](https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/)
-**Date:** Sat, 21 Feb 2026 12:00:00 +0000
+## [Hackers Weaponize Claude Code in Mexican Government Cyberattack](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/)
+**Date:** Sun, 01 Mar 2026 12:30:00 +0000
 
-<p>The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. </p>
-<p>The post <a href="https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/">Critical Grandstream Phone Vulnerability Exposes Calls to Interception</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI](https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/)
-**Date:** Fri, 20 Feb 2026 15:30:00 +0000
-
-<p>Other noteworthy stories that might have slipped under the radar: Axonius lays off employees, Abu Dhabi conference data leak, HackerOne addresses AI concerns.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/">In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/">Hackers Weaponize Claude Code in Mexican Government Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [BeyondTrust Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/)
-**Date:** Fri, 20 Feb 2026 12:29:46 +0000
+## [Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology](https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/)
+**Date:** Fri, 27 Feb 2026 21:30:55 +0000
 
-<p>CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/">BeyondTrust Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025](https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/)
-**Date:** Fri, 20 Feb 2026 11:05:26 +0000
-
-<p>The FBI has confirmed that the Ploutus malware, which has been around for over a decade, is still being used in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/">FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>OpenAI and Google, along with Elon Musk’s xAI, also have contracts to supply their AI models to the military.</p>
+<p>The post <a href="https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/">Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Chip Testing Giant Advantest Hit by Ransomware](https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/)
-**Date:** Fri, 20 Feb 2026 09:31:29 +0000
+## [In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators](https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/)
+**Date:** Fri, 27 Feb 2026 15:23:39 +0000
 
-<p>The company is investigating whether any customer or employee data was stolen by hackers.</p>
-<p>The post <a href="https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/">Chip Testing Giant Advantest Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/">In Other News: ATT&#038;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence](https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/)
-**Date:** Fri, 20 Feb 2026 07:06:15 +0000
+## [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
+**Date:** Fri, 27 Feb 2026 13:24:25 +0000
 
-<p>The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot.</p>
-<p>The post <a href="https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/">PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The attacks exploited a post-authentication command injection vulnerability in the endpoint manager’s interface.</p>
+<p>The post <a href="https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/">900 Sangoma FreePBX Instances Infected With Web Shells</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
+**Date:** Fri, 27 Feb 2026 12:34:42 +0000
+
+<p>Anthropic said it sought narrow assurances from the Pentagon that Claude won’t be used for mass surveillance of Americans or in fully autonomous weapons.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/">Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
+**Date:** Fri, 27 Feb 2026 10:39:18 +0000
+
+<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>
+<p>The post <a href="https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/">Juniper Networks PTX Routers Affected by Critical Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
