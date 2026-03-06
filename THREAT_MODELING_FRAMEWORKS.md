@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-02-27 08:49:19 UTC*
+*Last Updated: 2026-03-06 08:43:58 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Secure Semantic Communications via AI Defenses: Fundamentals, Solutions, and Future Directions](http://arxiv.org/abs/2602.22134v1) (2026-02-25)
-*   [TT-SEAL: TTD-Aware Selective Encryption for Adversarially-Robust and Low-Latency Edge AI](http://arxiv.org/abs/2602.22238v1) (2026-02-24)
-*   [RobPI: Robust Private Inference against Malicious Client](http://arxiv.org/abs/2602.19918v1) (2026-02-23)
-*   [Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments](http://arxiv.org/abs/2602.19450v1) (2026-02-23)
-*   [Media Integrity and Authentication: Status, Directions, and Futures](http://arxiv.org/abs/2602.18681v1) (2026-02-21)
+*   [Impact of 5G SA Logical Vulnerabilities on UAV Communications: Threat Models and Testbed Evaluation](http://arxiv.org/abs/2603.04662v1) (2026-03-04)
+*   [Position: Vector Prompt Interfaces Should Be Exposed to Enable Customization of Large Language Models](http://arxiv.org/abs/2603.04292v1) (2026-03-04)
+*   [Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study](http://arxiv.org/abs/2603.03633v1) (2026-03-04)
+*   [Multi-Agent Influence Diagrams to Hybrid Threat Modeling](http://arxiv.org/abs/2603.03526v1) (2026-03-03)
+*   [Exploiting PendingIntent Provenance Confusion to Spoof Android SDK Authentication](http://arxiv.org/abs/2603.02539v1) (2026-03-03)
 
 ### 📰 Latest News
 No related news found this week.
