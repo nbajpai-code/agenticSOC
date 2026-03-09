@@ -1,48 +1,41 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-03-02 09:51:08 UTC
+**Last Updated:** 2026-03-09 09:52:24 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Hackers Weaponize Claude Code in Mexican Government Cyberattack](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/)
-**Date:** Sun, 01 Mar 2026 12:30:00 +0000
+## [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
+**Date:** Sun, 08 Mar 2026 12:15:00 +0000
 
-<p>The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/">Hackers Weaponize Claude Code in Mexican Government Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology](https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/)
-**Date:** Fri, 27 Feb 2026 21:30:55 +0000
-
-<p>OpenAI and Google, along with Elon Musk’s xAI, also have contracts to supply their AI models to the military.</p>
-<p>The post <a href="https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/">Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.</p>
+<p>The post <a href="https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/">Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators](https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/)
-**Date:** Fri, 27 Feb 2026 15:23:39 +0000
+## [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
+**Date:** Sat, 07 Mar 2026 15:57:23 +0000
 
-<p>Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/">In Other News: ATT&#038;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [900 Sangoma FreePBX Instances Infected With Web Shells](https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/)
-**Date:** Fri, 27 Feb 2026 13:24:25 +0000
-
-<p>The attacks exploited a post-authentication command injection vulnerability in the endpoint manager’s interface.</p>
-<p>The post <a href="https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/">900 Sangoma FreePBX Instances Infected With Web Shells</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography.</p>
+<p>The post <a href="https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/">US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline](https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/)
-**Date:** Fri, 27 Feb 2026 12:34:42 +0000
+## [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
+**Date:** Sat, 07 Mar 2026 12:40:00 +0000
 
-<p>Anthropic said it sought narrow assurances from the Pentagon that Claude won’t be used for mass surveillance of Americans or in fully autonomous weapons.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/">Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The malware targets browser and cryptocurrency wallet data, along with system information and user files.</p>
+<p>The post <a href="https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/">Over 100 GitHub Repositories Distributing BoryptGrab Stealer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Juniper Networks PTX Routers Affected by Critical Vulnerability](https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/)
-**Date:** Fri, 27 Feb 2026 10:39:18 +0000
+## [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
+**Date:** Sat, 07 Mar 2026 11:51:16 +0000
 
-<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>
-<p>The post <a href="https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/">Juniper Networks PTX Routers Affected by Critical Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.</p>
+<p>The post <a href="https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/">Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
+**Date:** Fri, 06 Mar 2026 12:32:09 +0000
+
+<p>The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light.</p>
+<p>The post <a href="https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/">Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
