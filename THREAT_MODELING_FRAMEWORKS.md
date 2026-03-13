@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-03-06 08:43:58 UTC*
+*Last Updated: 2026-03-13 08:49:06 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Impact of 5G SA Logical Vulnerabilities on UAV Communications: Threat Models and Testbed Evaluation](http://arxiv.org/abs/2603.04662v1) (2026-03-04)
-*   [Position: Vector Prompt Interfaces Should Be Exposed to Enable Customization of Large Language Models](http://arxiv.org/abs/2603.04292v1) (2026-03-04)
-*   [Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study](http://arxiv.org/abs/2603.03633v1) (2026-03-04)
-*   [Multi-Agent Influence Diagrams to Hybrid Threat Modeling](http://arxiv.org/abs/2603.03526v1) (2026-03-03)
-*   [Exploiting PendingIntent Provenance Confusion to Spoof Android SDK Authentication](http://arxiv.org/abs/2603.02539v1) (2026-03-03)
+*   [Naïve Exposure of Generative AI Capabilities Undermines Deepfake Detection](http://arxiv.org/abs/2603.10504v1) (2026-03-11)
+*   [The Orthogonal Vulnerabilities of Generative AI Watermarks: A Comparative Empirical Benchmark of Spatial and Latent Provenance](http://arxiv.org/abs/2603.10323v2) (2026-03-11)
+*   [Benchmarking Dataset for Presence-Only Passive Reconnaissance in Wireless Smart-Grid Communications](http://arxiv.org/abs/2603.09590v1) (2026-03-10)
+*   [Security Considerations for Multi-agent Systems](http://arxiv.org/abs/2603.09002v1) (2026-03-09)
+*   [SoK: Harmonizing Attack Graphs and Intrusion Detection Systems](http://arxiv.org/abs/2603.08295v1) (2026-03-09)
 
 ### 📰 Latest News
 No related news found this week.
