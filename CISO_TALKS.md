@@ -1,6 +1,6 @@
 # CISO Enterprise Security Talks
 
-Last Updated: 2026-03-09 13:19:00 UTC
+Last Updated: 2026-03-16 10:10:02 UTC
 
 A curated list of recent talks, panels, and discussions featuring CISOs on enterprise security. Automatically updated weekly. Talks older than 1 year are automatically pruned.
 
