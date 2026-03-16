@@ -1,41 +1,41 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-03-09 09:52:24 UTC
+**Last Updated:** 2026-03-16 10:06:07 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited](https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/)
-**Date:** Sun, 08 Mar 2026 12:15:00 +0000
+## [Critical HPE AOS-CX Vulnerability Allows Admin Password Resets](https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/)
+**Date:** Sat, 14 Mar 2026 10:50:00 +0000
 
-<p>WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.</p>
-<p>The post <a href="https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/">Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies](https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/)
-**Date:** Sat, 07 Mar 2026 15:57:23 +0000
-
-<p>Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography.</p>
-<p>The post <a href="https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/">US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.</p>
+<p>The post <a href="https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/">Critical HPE AOS-CX Vulnerability Allows Admin Password Resets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Over 100 GitHub Repositories Distributing BoryptGrab Stealer](https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/)
-**Date:** Sat, 07 Mar 2026 12:40:00 +0000
+## [In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown](https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/)
+**Date:** Fri, 13 Mar 2026 14:27:12 +0000
 
-<p>The malware targets browser and cryptocurrency wallet data, along with system information and user files.</p>
-<p>The post <a href="https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/">Over 100 GitHub Repositories Distributing BoryptGrab Stealer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare](https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/)
-**Date:** Sat, 07 Mar 2026 11:51:16 +0000
-
-<p>Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.</p>
-<p>The post <a href="https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/">Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Other noteworthy stories that might have slipped under the radar: Telus Digital data breach, vulnerabilities in Linux AppArmor allow root privileges, US defense contractor behind Coruna exploits.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/">In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks](https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/)
-**Date:** Fri, 06 Mar 2026 12:32:09 +0000
+## [Bold Security Emerges From Stealth With $40 Million in Funding](https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/)
+**Date:** Fri, 13 Mar 2026 11:36:32 +0000
 
-<p>The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light.</p>
-<p>The post <a href="https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/">Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The startup relies on AI to turn devices into active agents that understand users’ actions and provide protection in real time.</p>
+<p>The post <a href="https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/">Bold Security Emerges From Stealth With $40 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping](https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/)
+**Date:** Fri, 13 Mar 2026 10:38:47 +0000
+
+<p>Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.</p>
+<p>The post <a href="https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/">Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Onyx Security Launches With $40 Million in Funding](https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/)
+**Date:** Fri, 13 Mar 2026 09:25:51 +0000
+
+<p>The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.</p>
+<p>The post <a href="https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/">Onyx Security Launches With $40 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
