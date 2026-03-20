@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-03-13 08:49:06 UTC*
+*Last Updated: 2026-03-20 08:49:35 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Naïve Exposure of Generative AI Capabilities Undermines Deepfake Detection](http://arxiv.org/abs/2603.10504v1) (2026-03-11)
-*   [The Orthogonal Vulnerabilities of Generative AI Watermarks: A Comparative Empirical Benchmark of Spatial and Latent Provenance](http://arxiv.org/abs/2603.10323v2) (2026-03-11)
-*   [Benchmarking Dataset for Presence-Only Passive Reconnaissance in Wireless Smart-Grid Communications](http://arxiv.org/abs/2603.09590v1) (2026-03-10)
-*   [Security Considerations for Multi-agent Systems](http://arxiv.org/abs/2603.09002v1) (2026-03-09)
-*   [SoK: Harmonizing Attack Graphs and Intrusion Detection Systems](http://arxiv.org/abs/2603.08295v1) (2026-03-09)
+*   [Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare](http://arxiv.org/abs/2603.17419v1) (2026-03-18)
+*   [Poisoning the Pixels: Revisiting Backdoor Attacks on Semantic Segmentation](http://arxiv.org/abs/2603.16405v1) (2026-03-17)
+*   [AEX: Non-Intrusive Multi-Hop Attestation and Provenance for LLM APIs](http://arxiv.org/abs/2603.14283v1) (2026-03-15)
+*   [Examining Risks in the AI Companion Application Ecosystem](http://arxiv.org/abs/2603.13620v1) (2026-03-13)
+*   [Purifying Generative LLMs from Backdoors without Prior Knowledge or Clean Reference](http://arxiv.org/abs/2603.13461v1) (2026-03-13)
 
 ### 📰 Latest News
 No related news found this week.
