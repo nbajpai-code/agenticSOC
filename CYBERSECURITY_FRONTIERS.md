@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-03-17 08:42:17 UTC
+**Last Updated:** 2026-03-24 08:42:08 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,22 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Directional Embedding Smoothing for Robust Vision Language Models](http://arxiv.org/abs/2603.15259v1) (2026-03-16)
-*   [Describing Agentic AI Systems with C4: Lessons from Industry Projects](http://arxiv.org/abs/2603.15021v1) (2026-03-16)
-*   [Beyond Benchmark Islands: Toward Representative Trustworthiness Evaluation for Agentic AI](http://arxiv.org/abs/2603.14987v1) (2026-03-16)
-*   [AgentTrace: Causal Graph Tracing for Root Cause Analysis in Deployed Multi-Agent Systems](http://arxiv.org/abs/2603.14688v1) (2026-03-16)
-*   [Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI](http://arxiv.org/abs/2603.14288v1) (2026-03-15)
-*   [I'm Not Reading All of That: Understanding Software Engineers' Level of Cognitive Engagement with Agentic Coding Assistants](http://arxiv.org/abs/2603.14225v1) (2026-03-15)
-*   [DeepFix: Debugging and Fixing Machine Learning Workflow using Agentic AI](http://arxiv.org/abs/2603.14099v1) (2026-03-14)
-*   [ClimateAgents: A Multi-Agent Research Assistant for Social-Climate Dynamics Analysis](http://arxiv.org/abs/2603.13840v1) (2026-03-14)
-*   [Thermodynamic Limits of Quantum Search](http://arxiv.org/abs/2603.13654v1) (2026-03-13)
-*   [Semantic Invariance in Agentic AI](http://arxiv.org/abs/2603.13173v2) (2026-03-13)
-*   [Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations](http://arxiv.org/abs/2603.12813v1) (2026-03-13)
-*   [Normative Common Ground Replication (NormCoRe): Replication-by-Translation for Studying Norms in Multi-agent AI](http://arxiv.org/abs/2603.11974v1) (2026-03-12)
-*   [ELISA: An Interpretable Hybrid Generative AI Agent for Expression-Grounded Discovery in Single-Cell Genomics](http://arxiv.org/abs/2603.11872v1) (2026-03-12)
-*   [AI Knows What's Wrong But Cannot Fix It: Helicoid Dynamics in Frontier LLMs Under High-Stakes Decisions](http://arxiv.org/abs/2603.11559v1) (2026-03-12)
-*   [One Supervisor, Many Modalities: Adaptive Tool Orchestration for Autonomous Queries](http://arxiv.org/abs/2603.11545v2) (2026-03-12)
+*   [A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment](http://arxiv.org/abs/2603.21597v1) (2026-03-23)
+*   [Improving Coherence and Persistence in Agentic AI for System Optimization](http://arxiv.org/abs/2603.21321v1) (2026-03-22)
+*   [CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands](http://arxiv.org/abs/2603.21257v1) (2026-03-22)
+*   [AutoMOOSE: An Agentic AI for Autonomous Phase-Field Simulation](http://arxiv.org/abs/2603.20986v1) (2026-03-22)
+*   [Agentic AI and the next intelligence explosion](http://arxiv.org/abs/2603.20639v1) (2026-03-21)
+*   [HQC Post-Quantum Cryptography Decryption with Generalized Minimum-Distance Reed-Solomon Decoder](http://arxiv.org/abs/2603.20156v1) (2026-03-20)
+*   [Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents](http://arxiv.org/abs/2603.20132v1) (2026-03-20)
+*   [An Agentic Multi-Agent Architecture for Cybersecurity Risk Management](http://arxiv.org/abs/2603.20131v1) (2026-03-20)
+*   [Memory poisoning and secure multi-agent systems](http://arxiv.org/abs/2603.20357v1) (2026-03-20)
+*   [SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits](http://arxiv.org/abs/2603.19173v1) (2026-03-19)
+*   [Post-Quantum Cryptography from Quantum Stabilizer Decoding](http://arxiv.org/abs/2603.19110v1) (2026-03-19)
+*   [Security, privacy, and agentic AI in a regulatory view: From definitions and distinctions to provisions and reflections](http://arxiv.org/abs/2603.18914v1) (2026-03-19)
+*   [Benchmarking Post-Quantum Cryptography on Resource-Constrained IoT Devices: ML-KEM and ML-DSA on ARM Cortex-M0+](http://arxiv.org/abs/2603.19340v1) (2026-03-19)
+*   [An Onto-Relational-Sophic Framework for Governing Synthetic Minds](http://arxiv.org/abs/2603.18633v1) (2026-03-19)
+*   [Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly](http://arxiv.org/abs/2603.18520v1) (2026-03-19)
 
 ## 📰 Latest Signal (News)
-No recent news matching frontier topics.
+*   [Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack](https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/) - *SecurityWeek*
+*   [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/) - *SecurityWeek*
