@@ -61,14 +61,10 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-03-20 08:49:35 UTC*
+*Last Updated: 2026-03-27 09:00:04 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Caging the Agents: A Zero Trust Security Architecture for Autonomous AI in Healthcare](http://arxiv.org/abs/2603.17419v1) (2026-03-18)
-*   [Poisoning the Pixels: Revisiting Backdoor Attacks on Semantic Segmentation](http://arxiv.org/abs/2603.16405v1) (2026-03-17)
-*   [AEX: Non-Intrusive Multi-Hop Attestation and Provenance for LLM APIs](http://arxiv.org/abs/2603.14283v1) (2026-03-15)
-*   [Examining Risks in the AI Companion Application Ecosystem](http://arxiv.org/abs/2603.13620v1) (2026-03-13)
-*   [Purifying Generative LLMs from Backdoors without Prior Knowledge or Clean Reference](http://arxiv.org/abs/2603.13461v1) (2026-03-13)
+No new threat modeling papers found this week.
 
 ### 📰 Latest News
 No related news found this week.
