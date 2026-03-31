@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-03-24 08:42:08 UTC
+**Last Updated:** 2026-03-31 08:50:08 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,22 +10,22 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment](http://arxiv.org/abs/2603.21597v1) (2026-03-23)
-*   [Improving Coherence and Persistence in Agentic AI for System Optimization](http://arxiv.org/abs/2603.21321v1) (2026-03-22)
-*   [CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands](http://arxiv.org/abs/2603.21257v1) (2026-03-22)
-*   [AutoMOOSE: An Agentic AI for Autonomous Phase-Field Simulation](http://arxiv.org/abs/2603.20986v1) (2026-03-22)
-*   [Agentic AI and the next intelligence explosion](http://arxiv.org/abs/2603.20639v1) (2026-03-21)
-*   [HQC Post-Quantum Cryptography Decryption with Generalized Minimum-Distance Reed-Solomon Decoder](http://arxiv.org/abs/2603.20156v1) (2026-03-20)
-*   [Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents](http://arxiv.org/abs/2603.20132v1) (2026-03-20)
-*   [An Agentic Multi-Agent Architecture for Cybersecurity Risk Management](http://arxiv.org/abs/2603.20131v1) (2026-03-20)
-*   [Memory poisoning and secure multi-agent systems](http://arxiv.org/abs/2603.20357v1) (2026-03-20)
-*   [SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits](http://arxiv.org/abs/2603.19173v1) (2026-03-19)
-*   [Post-Quantum Cryptography from Quantum Stabilizer Decoding](http://arxiv.org/abs/2603.19110v1) (2026-03-19)
-*   [Security, privacy, and agentic AI in a regulatory view: From definitions and distinctions to provisions and reflections](http://arxiv.org/abs/2603.18914v1) (2026-03-19)
-*   [Benchmarking Post-Quantum Cryptography on Resource-Constrained IoT Devices: ML-KEM and ML-DSA on ARM Cortex-M0+](http://arxiv.org/abs/2603.19340v1) (2026-03-19)
-*   [An Onto-Relational-Sophic Framework for Governing Synthetic Minds](http://arxiv.org/abs/2603.18633v1) (2026-03-19)
-*   [Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly](http://arxiv.org/abs/2603.18520v1) (2026-03-19)
+*   [Study of Post Quantum status of Widely Used Protocols](http://arxiv.org/abs/2603.28728v1) (2026-03-30)
+*   [Empowering Mobile Networks Security Resilience by using Post-Quantum Cryptography](http://arxiv.org/abs/2603.28626v1) (2026-03-30)
+*   [CoE: Collaborative Entropy for Uncertainty Quantification in Agentic Multi-LLM Systems](http://arxiv.org/abs/2603.28360v1) (2026-03-30)
+*   [EpochX: Building the Infrastructure for an Emergent Agent Civilization](http://arxiv.org/abs/2603.27304v1) (2026-03-28)
+*   [A Multi-agent AI System for Deep Learning Model Migration from TensorFlow to JAX](http://arxiv.org/abs/2603.27296v1) (2026-03-28)
+*   [Mind The Gap: How The Technical Mechanism Of Agentic AI Outpace Global Legal Frameworks](http://arxiv.org/abs/2603.27075v1) (2026-03-28)
+*   [Information-Theoretic Solutions for Seedless QRNG Bootstrapping and Hybrid PQC-QKD Key Combination](http://arxiv.org/abs/2603.26907v1) (2026-03-27)
+*   [On the Vulnerability of Deep Automatic Modulation Classifiers to Explainable Backdoor Threats](http://arxiv.org/abs/2603.25310v1) (2026-03-26)
+*   [Physical Backdoor Attack Against Deep Learning-Based Modulation Classification](http://arxiv.org/abs/2603.25304v1) (2026-03-26)
+*   [Efficient ML-DSA Public Key Management Method with Identity for PKI and Its Application](http://arxiv.org/abs/2603.25043v1) (2026-03-26)
+*   [Supervising Ralph Wiggum: Exploring a Metacognitive Co-Regulation Agentic AI Loop for Engineering Design](http://arxiv.org/abs/2603.24768v1) (2026-03-25)
+*   [An Explainable Federated Framework for Zero Trust Micro-Segmentation in IIoT Networks](http://arxiv.org/abs/2603.24754v1) (2026-03-25)
+*   [Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges](http://arxiv.org/abs/2603.24328v1) (2026-03-25)
+*   [Policy-Guided Threat Hunting: An LLM enabled Framework with Splunk SOC Triage](http://arxiv.org/abs/2603.23966v2) (2026-03-25)
+*   [SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems](http://arxiv.org/abs/2603.23853v1) (2026-03-25)
 
 ## 📰 Latest Signal (News)
-*   [Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack](https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/) - *SecurityWeek*
-*   [3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China](https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/) - *SecurityWeek*
+*   [Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise](https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/) - *SecurityWeek*
+*   [Telnyx Targeted in Growing TeamPCP Supply Chain Attack](https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/) - *SecurityWeek*
