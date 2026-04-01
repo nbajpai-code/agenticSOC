@@ -90,3 +90,16 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-02-12** [Introducing AI Cyber Model Arena: A Real-World Benchmark for AI Agents in Cybersecurity](https://www.wiz.io/blog/introducing-ai-cyber-model-arena-a-real-world-benchmark-for-ai-agents-in-cybersec) - *Wiz Blog*
 - **2026-02-02** [Building AI Security Together: New Ways to Partner with Wiz for AI Security in 2026](https://www.wiz.io/blog/win-ai-partnerships) - *Wiz Blog*
 - **2026-02-02** [Hacking Moltbook: The AI Social Network Any Human Can Control](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys) - *Wiz Blog*
+- **2026-03-27** [88% of Companies Have Already Seen AI Agent Security Failures](https://www.gravitee.io/blog/88-of-companies-have-already-seen-ai-agent-security-failures) - *Gravitee.io Blog*
+- **2026-03-30** [The Wiz Blue Agent, now Generally Available](https://www.wiz.io/blog/wiz-blue-agent-generally-available) - *Wiz Blog*
+- **2026-03-26** [Introducing the Green Agent: AI-Powered Remediation for the Cloud](https://www.wiz.io/blog/introducing-wiz-green-agent) - *Wiz Blog*
+- **2026-03-25** [Introducing Wiz Workflows: Your path to building a self healing cloud](https://www.wiz.io/blog/introducing-wiz-workflows) - *Wiz Blog*
+- **2026-03-23** [Introducing the Wiz Red Agent- AI-Powered Attacker](https://www.wiz.io/blog/introducing-the-wiz-red-agent) - *Wiz Blog*
+- **2026-03-23** [Introducing Wiz AI Application Protection Platform (AI-APP)](https://www.wiz.io/blog/introducing-wiz-ai-app) - *Wiz Blog*
+- **2026-03-23** [Introducing Wiz Agents & Workflows: Security at the Speed of AI](https://www.wiz.io/blog/introducing-wiz-agents) - *Wiz Blog*
+- **2026-03-11** [It’s Official: Wiz Joins Google](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz) - *Wiz Blog*
+- **2026-03-03** [Seeing AI Clearly: Building Visibility Across Modern AI Applications](https://www.wiz.io/blog/complete-ai-application-visibility-wiz) - *Wiz Blog*
+- **2026-03-31** [Double Agents: Exposing Security Blind Spots in GCP Vertex AI](https://unit42.paloaltonetworks.com/double-agents-vertex-ai/) - *Palo Alto Networks Unit 42*
+- **2026-03-20** [Who’s Really Shopping? Retail Fraud in the Age of Agentic AI](https://unit42.paloaltonetworks.com/retail-fraud-agentic-ai/) - *Palo Alto Networks Unit 42*
+- **2026-03-18** [Navigating Security Tradeoffs of AI Agents](https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/) - *Palo Alto Networks Unit 42*
+- **2026-03-17** [Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models](https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/) - *Palo Alto Networks Unit 42*
