@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-03-25 08:45:49 UTC*
+*Last Updated: 2026-04-01 08:59:28 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication](http://arxiv.org/abs/2602.12059v1) (2026-02-12)
