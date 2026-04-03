@@ -61,10 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-03-27 09:00:04 UTC*
+*Last Updated: 2026-04-03 09:00:21 UTC*
 
 ### 📄 Latest Research (Arxiv)
-No new threat modeling papers found this week.
+*   [Assertain: Automated Security Assertion Generation Using Large Language Models](http://arxiv.org/abs/2604.01583v1) (2026-04-02)
+*   [AI-Assisted Hardware Security Verification: A Survey and AI Accelerator Case Study](http://arxiv.org/abs/2604.01572v1) (2026-04-02)
+*   [Safety, Security, and Cognitive Risks in World Models](http://arxiv.org/abs/2604.01346v1) (2026-04-01)
+*   [Obfuscating Code Vulnerabilities against Static Analysis in JavaScript Code](http://arxiv.org/abs/2604.01131v1) (2026-04-01)
+*   [Fluently Lying: Adversarial Robustness Can Be Substrate-Dependent](http://arxiv.org/abs/2604.00605v1) (2026-04-01)
 
 ### 📰 Latest News
 No related news found this week.
