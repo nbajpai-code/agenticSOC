@@ -1,6 +1,6 @@
 # Agentic AI & SOC Research Papers
 
-Last Updated: 2026-03-30 09:13:43 UTC
+Last Updated: 2026-04-06 09:09:49 UTC
 
 This list is automatically updated weekly.
 
