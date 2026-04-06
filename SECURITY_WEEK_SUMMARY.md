@@ -1,27 +1,48 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-03-30 10:17:04 UTC
+**Last Updated:** 2026-04-06 10:09:03 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Exploitation of Fresh Citrix NetScaler Vulnerability Begins](https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/)
-**Date:** Mon, 30 Mar 2026 09:24:10 +0000
+## [Fortinet Rushes Emergency Fixes for Exploited Zero-Day](https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/)
+**Date:** Mon, 06 Apr 2026 09:37:28 +0000
 
-<p>The critical-severity flaw leaks application memory and can be exploited to obtain authenticated administrative session IDs.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/">Exploitation of Fresh Citrix NetScaler Vulnerability Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs](https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/)
-**Date:** Sat, 28 Mar 2026 10:30:00 +0000
-
-<p>The infection chain includes a fake CAPTCHA page, a Bash script, a Nuitka loader, and the Python-based infostealer.</p>
-<p>The post <a href="https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/">Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/">Fortinet Rushes Emergency Fixes for Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [OpenAI Launches Bug Bounty Program for Abuse and Safety Risks](https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/)
-**Date:** Fri, 27 Mar 2026 13:33:11 +0000
+## [European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack](https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/)
+**Date:** Sat, 04 Apr 2026 10:31:00 +0000
 
-<p>Through the new program, OpenAI will reward reports covering design or implementation issues leading to material harm.</p>
-<p>The post <a href="https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/">OpenAI Launches Bug Bounty Program for Abuse and Safety Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information.</p>
+<p>The post <a href="https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/">European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [TrueConf Zero-Day Exploited in Asian Government Attacks](https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/)
+**Date:** Fri, 03 Apr 2026 12:47:16 +0000
+
+<p>A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads.</p>
+<p>The post <a href="https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/">TrueConf Zero-Day Exploited in Asian Government Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware](https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/)
+**Date:** Fri, 03 Apr 2026 12:30:53 +0000
+
+<p>Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/">In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Mobile Attack Surface Expands as Enterprises Lose Control](https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/)
+**Date:** Fri, 03 Apr 2026 11:00:00 +0000
+
+<p>Shadow AI embedded in everyday apps, combined with outdated mobile devices and zero-click exploits, is creating a new and largely unseen mobile risk.</p>
+<p>The post <a href="https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/">Mobile Attack Surface Expands as Enterprises Lose Control</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Critical Vulnerability in Claude Code Emerges Days After Source Leak](https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/)
+**Date:** Thu, 02 Apr 2026 18:00:55 +0000
+
+<p>Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/">Critical Vulnerability in Claude Code Emerges Days After Source Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
