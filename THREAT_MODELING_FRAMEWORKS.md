@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-04-10 09:15:37 UTC*
+*Last Updated: 2026-04-17 09:23:10 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](http://arxiv.org/abs/2604.08407v1) (2026-04-09)
-*   [Activation Steering for Aligned Open-ended Generation without Sacrificing Coherence](http://arxiv.org/abs/2604.08169v1) (2026-04-09)
-*   [Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](http://arxiv.org/abs/2604.07831v1) (2026-04-09)
-*   [Physical Adversarial Attacks on AI Surveillance Systems:Detection, Tracking, and Visible--Infrared Evasion](http://arxiv.org/abs/2604.06865v1) (2026-04-08)
-*   [Can Drift-Adaptive Malware Detectors Be Made Robust? Attacks and Defenses Under White-Box and Black-Box Threats](http://arxiv.org/abs/2604.06599v1) (2026-04-08)
+*   [Threat Modeling and Attack Surface Analysis of IoT-Enabled Controlled Environment Agriculture Systems](http://arxiv.org/abs/2604.13308v1) (2026-04-14)
+*   [AISafetyBenchExplorer: A Metric-Aware Catalogue of AI Safety Benchmarks Reveals Fragmented Measurement and Weak Benchmark Governance](http://arxiv.org/abs/2604.12875v1) (2026-04-14)
+*   [VeriX-Anon: A Multi-Layered Framework for Mathematically Verifiable Outsourced Target-Driven Data Anonymization](http://arxiv.org/abs/2604.12431v1) (2026-04-14)
+*   [Security and Resilience in Autonomous Vehicles: A Proactive Design Approach](http://arxiv.org/abs/2604.12408v1) (2026-04-14)
+*   [Tamper-Proofing with Self-Modifying Code](http://arxiv.org/abs/2604.12407v1) (2026-04-14)
 
 ### 📰 Latest News
 No related news found this week.
