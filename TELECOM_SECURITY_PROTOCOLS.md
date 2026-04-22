@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-04-15 09:15:13 UTC*
+*Last Updated: 2026-04-22 09:16:50 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [MCP-DPT: A Defense-Placement Taxonomy and Coverage Analysis for Model Context Protocol Security](http://arxiv.org/abs/2604.07551v1) (2026-04-08)
