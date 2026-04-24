@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-04-17 09:23:10 UTC*
+*Last Updated: 2026-04-24 09:48:10 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Threat Modeling and Attack Surface Analysis of IoT-Enabled Controlled Environment Agriculture Systems](http://arxiv.org/abs/2604.13308v1) (2026-04-14)
-*   [AISafetyBenchExplorer: A Metric-Aware Catalogue of AI Safety Benchmarks Reveals Fragmented Measurement and Weak Benchmark Governance](http://arxiv.org/abs/2604.12875v1) (2026-04-14)
-*   [VeriX-Anon: A Multi-Layered Framework for Mathematically Verifiable Outsourced Target-Driven Data Anonymization](http://arxiv.org/abs/2604.12431v1) (2026-04-14)
-*   [Security and Resilience in Autonomous Vehicles: A Proactive Design Approach](http://arxiv.org/abs/2604.12408v1) (2026-04-14)
-*   [Tamper-Proofing with Self-Modifying Code](http://arxiv.org/abs/2604.12407v1) (2026-04-14)
+*   [Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers](http://arxiv.org/abs/2604.21700v1) (2026-04-23)
+*   [Model quality in football: Quantifying the quality of an Expected Threat model](http://arxiv.org/abs/2604.21087v1) (2026-04-22)
+*   [Layer 2 Blockchains Simplified: A Survey of Vector Commitment Schemes, ZKP Frameworks, Layer-2 Data Structures and Verkle Trees](http://arxiv.org/abs/2604.21055v1) (2026-04-22)
+*   [How Adversarial Environments Mislead Agentic AI?](http://arxiv.org/abs/2604.18874v1) (2026-04-20)
+*   [Owner-Harm: A Missing Threat Model for AI Agent Safety](http://arxiv.org/abs/2604.18658v1) (2026-04-20)
 
 ### 📰 Latest News
 No related news found this week.
