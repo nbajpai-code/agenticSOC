@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-04-21 09:18:24 UTC
+**Last Updated:** 2026-04-28 10:07:25 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,21 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Reliability of AI Bots Footprints in GitHub Actions CI/CD Workflows](http://arxiv.org/abs/2604.18334v1) (2026-04-20)
-*   [Aether: Network Validation Using Agentic AI and Digital Twin](http://arxiv.org/abs/2604.18233v1) (2026-04-20)
-*   [Predicting LLM Compression Degradation from Spectral Statistics](http://arxiv.org/abs/2604.18085v1) (2026-04-20)
-*   [Agentic Education: Using Claude Code to Teach Claude Code](http://arxiv.org/abs/2604.17460v1) (2026-04-19)
-*   [Persona-Based Requirements Engineering for Explainable Multi-Agent Educational Systems: A Scenario Simulator for Clinical Reasoning Training](http://arxiv.org/abs/2604.17186v1) (2026-04-19)
-*   [Decentralised Trust and Security Mechanisms for IoT Networks at the Edge: A Comprehensive Review](http://arxiv.org/abs/2604.17179v1) (2026-04-19)
-*   [PersonalHomeBench: Evaluating Agents in Personalized Smart Homes](http://arxiv.org/abs/2604.16813v1) (2026-04-18)
-*   [Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis](http://arxiv.org/abs/2604.16729v1) (2026-04-17)
-*   [KAIROS: Stateful, Context-Aware Power-Efficient Agentic Inference Serving](http://arxiv.org/abs/2604.16682v1) (2026-04-17)
-*   [Quantum-Resistant Quantum Teleportation](http://arxiv.org/abs/2604.16101v1) (2026-04-17)
-*   [Agentic AI for Education: A Unified Multi-Agent Framework for Personalized Learning and Institutional Intelligence](http://arxiv.org/abs/2604.16566v1) (2026-04-17)
-*   [DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI](http://arxiv.org/abs/2604.15456v1) (2026-04-16)
-*   [Agentic Microphysics: A Manifesto for Generative AI Safety](http://arxiv.org/abs/2604.15236v1) (2026-04-16)
-*   [Where are the Humans? A Scoping Review of Fairness in Multi-agent AI Systems](http://arxiv.org/abs/2604.15078v1) (2026-04-16)
-*   [Agentic Explainability at Scale: Between Corporate Fears and XAI Needs](http://arxiv.org/abs/2604.14984v1) (2026-04-16)
+*   [Green Shielding: A User-Centric Approach Towards Trustworthy AI](http://arxiv.org/abs/2604.24700v1) (2026-04-27)
+*   [Machine-Checked Cardinality Bounds for Masked Barrett Reduction: A 1-Bit Side-Channel Leakage Barrier in Post-Quantum Cryptographic Hardware](http://arxiv.org/abs/2604.24670v1) (2026-04-27)
+*   [Skill Retrieval Augmentation for Agentic AI](http://arxiv.org/abs/2604.24594v1) (2026-04-27)
+*   [TSAssistant: A Human-in-the-Loop Agentic Framework for Automated Target Safety Assessment](http://arxiv.org/abs/2604.23938v1) (2026-04-27)
+*   [Agentic AI platforms for autonomous training and rule induction of human-human and virus-human protein-protein interactions](http://arxiv.org/abs/2604.23924v1) (2026-04-27)
+*   [Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](http://arxiv.org/abs/2604.23775v1) (2026-04-26)
+*   [High-Probability Guarantees for Random Zeroth-Order (Stochastic) Gradient Descent](http://arxiv.org/abs/2604.23613v1) (2026-04-26)
+*   [Safeguarding Skies: Airport Cybersecurity in the Digital Age](http://arxiv.org/abs/2604.23545v1) (2026-04-26)
+*   [When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](http://arxiv.org/abs/2604.23425v1) (2026-04-25)
+*   [From Stateless Queries to Autonomous Actions: A Layered Security Framework for Agentic AI Systems](http://arxiv.org/abs/2604.23338v1) (2026-04-25)
+*   [Dr.Sai: An agentic AI for real-world physics analysis at BESIII](http://arxiv.org/abs/2604.22541v1) (2026-04-24)
+*   [Multi-Agent Consensus as a Cognitive Bias Trigger in Human-AI Interaction](http://arxiv.org/abs/2604.22277v1) (2026-04-24)
+*   [RAG-Reflect: Agentic Retrieval-Augmented Generation with Reflections for Comment-Driven Code Maintenance on Stack Overflow](http://arxiv.org/abs/2604.22217v1) (2026-04-24)
+*   [From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation](http://arxiv.org/abs/2604.21910v1) (2026-04-23)
+*   [Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI](http://arxiv.org/abs/2604.21804v1) (2026-04-23)
 
 ## 📰 Latest Signal (News)
-*   [White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology](https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/) - *SecurityWeek*
+*   [Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google](https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/) - *SecurityWeek*
