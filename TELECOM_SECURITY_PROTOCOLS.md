@@ -99,14 +99,10 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-04-22 09:16:50 UTC*
+*Last Updated: 2026-04-29 10:02:29 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [MCP-DPT: A Defense-Placement Taxonomy and Coverage Analysis for Model Context Protocol Security](http://arxiv.org/abs/2604.07551v1) (2026-04-08)
-*   [Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication](http://arxiv.org/abs/2602.12059v1) (2026-02-12)
-*   [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](http://arxiv.org/abs/2601.17549v1) (2026-01-24)
-*   [Reference-frame-independent Quantum secure direct communication](http://arxiv.org/abs/2601.08238v1) (2026-01-13)
-*   [zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy](http://arxiv.org/abs/2512.21048v1) (2025-12-24)
+No new papers found this week.
 
 ### 📰 Latest News
 No telecom-specific news found this week.
