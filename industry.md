@@ -103,3 +103,17 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-03-20** [Who’s Really Shopping? Retail Fraud in the Age of Agentic AI](https://unit42.paloaltonetworks.com/retail-fraud-agentic-ai/) - *Palo Alto Networks Unit 42*
 - **2026-03-18** [Navigating Security Tradeoffs of AI Agents](https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/) - *Palo Alto Networks Unit 42*
 - **2026-03-17** [Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models](https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/) - *Palo Alto Networks Unit 42*
+- **2026-04-14** [Gravitee 4.11: Protect, Optimise, and Govern Your AI Stack](https://www.gravitee.io/blog/gravitee-4.11-protect-optimise-and-govern-your-ai-stack) - *Gravitee.io Blog*
+- **2026-04-13** [Trusted On-Behalf-Of: Agent Delegation in Gravitee 4.11](https://www.gravitee.io/blog/trusted-on-behalf-of-agent-delegation-in-gravitee-4.11) - *Gravitee.io Blog*
+- **2026-04-10** [AI Observability for Enterprise Teams: Monitor MCP Tools, LLM Costs, and Agent Traffic in One Place](https://www.gravitee.io/blog/ai-observability-for-enterprise-teams-monitor-mcp-tools-llm-costs-and-agent-traffic-in-one-place) - *Gravitee.io Blog*
+- **2026-04-30** [Red Agent and Claude Opus: Securing Production Targets at Scale](https://www.wiz.io/blog/red-agent-claude-opus) - *Wiz Blog*
+- **2026-04-29** [Wiz Code Week Recap: Securing AI Native Development](https://www.wiz.io/blog/wiz-code-week-recap) - *Wiz Blog*
+- **2026-04-22** [Wiz at Google Next: Machine-Speed Defense for Any Cloud, Any Platform, Any AI](https://www.wiz.io/blog/wiz-at-google-cloud-next) - *Wiz Blog*
+- **2026-04-21** [Closing the Security Gap in the Age of Agentic Coding](https://www.wiz.io/blog/securing-software-age-of-agentic-coding) - *Wiz Blog*
+- **2026-04-16** [Securing AI Applications From Inception to Deployment](https://www.wiz.io/blog/securing-ai-application-from-inception-to-deployment) - *Wiz Blog*
+- **2026-04-10** [Claude Mythos: Preparing for a World Where AI Finds and Exploits Vulnerabilities Faster Than Ever](https://www.wiz.io/blog/claude-mythos) - *Wiz Blog*
+- **2026-04-23** [Can AI Attack the Cloud? Lessons From Building an Autonomous Cloud Offensive Multi-Agent System](https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/) - *Palo Alto Networks Unit 42*
+- **2026-04-20** [Fracturing Software Security With Frontier AI Models](https://unit42.paloaltonetworks.com/ai-software-security-risks/) - *Palo Alto Networks Unit 42*
+- **2026-04-08** [Cracks in the Bedrock: Agent God Mode](https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/) - *Palo Alto Networks Unit 42*
+- **2026-04-07** [Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox](https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/) - *Palo Alto Networks Unit 42*
+- **2026-04-03** [When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications](https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/) - *Palo Alto Networks Unit 42*
