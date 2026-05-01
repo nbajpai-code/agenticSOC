@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-04-24 09:48:10 UTC*
+*Last Updated: 2026-05-01 09:49:56 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers](http://arxiv.org/abs/2604.21700v1) (2026-04-23)
-*   [Model quality in football: Quantifying the quality of an Expected Threat model](http://arxiv.org/abs/2604.21087v1) (2026-04-22)
-*   [Layer 2 Blockchains Simplified: A Survey of Vector Commitment Schemes, ZKP Frameworks, Layer-2 Data Structures and Verkle Trees](http://arxiv.org/abs/2604.21055v1) (2026-04-22)
-*   [How Adversarial Environments Mislead Agentic AI?](http://arxiv.org/abs/2604.18874v1) (2026-04-20)
-*   [Owner-Harm: A Missing Threat Model for AI Agent Safety](http://arxiv.org/abs/2604.18658v1) (2026-04-20)
+*   [TwinGate: Stateful Defense against Decompositional Jailbreaks in Untraceable Traffic via Asymmetric Contrastive Learning](http://arxiv.org/abs/2604.27861v1) (2026-04-30)
+*   [Low Rank Adaptation for Adversarial Perturbation](http://arxiv.org/abs/2604.27487v1) (2026-04-30)
+*   [From Prompt to Physical Actuation: Holistic Threat Modeling of LLM-Enabled Robotic Systems](http://arxiv.org/abs/2604.27267v1) (2026-04-29)
+*   [VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection](http://arxiv.org/abs/2604.26313v1) (2026-04-29)
+*   [Agent Name Service (ANS): A Proof-of-Concept Trust Layer for Secure AI Agent Discovery, Identity, and Governance in Kubernetes](http://arxiv.org/abs/2604.26997v1) (2026-04-29)
 
 ### 📰 Latest News
 No related news found this week.
