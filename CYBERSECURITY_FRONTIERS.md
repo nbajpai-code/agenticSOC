@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-04-28 10:07:25 UTC
+**Last Updated:** 2026-05-05 09:55:30 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,21 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Green Shielding: A User-Centric Approach Towards Trustworthy AI](http://arxiv.org/abs/2604.24700v1) (2026-04-27)
-*   [Machine-Checked Cardinality Bounds for Masked Barrett Reduction: A 1-Bit Side-Channel Leakage Barrier in Post-Quantum Cryptographic Hardware](http://arxiv.org/abs/2604.24670v1) (2026-04-27)
-*   [Skill Retrieval Augmentation for Agentic AI](http://arxiv.org/abs/2604.24594v1) (2026-04-27)
-*   [TSAssistant: A Human-in-the-Loop Agentic Framework for Automated Target Safety Assessment](http://arxiv.org/abs/2604.23938v1) (2026-04-27)
-*   [Agentic AI platforms for autonomous training and rule induction of human-human and virus-human protein-protein interactions](http://arxiv.org/abs/2604.23924v1) (2026-04-27)
-*   [Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](http://arxiv.org/abs/2604.23775v1) (2026-04-26)
-*   [High-Probability Guarantees for Random Zeroth-Order (Stochastic) Gradient Descent](http://arxiv.org/abs/2604.23613v1) (2026-04-26)
-*   [Safeguarding Skies: Airport Cybersecurity in the Digital Age](http://arxiv.org/abs/2604.23545v1) (2026-04-26)
-*   [When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](http://arxiv.org/abs/2604.23425v1) (2026-04-25)
-*   [From Stateless Queries to Autonomous Actions: A Layered Security Framework for Agentic AI Systems](http://arxiv.org/abs/2604.23338v1) (2026-04-25)
-*   [Dr.Sai: An agentic AI for real-world physics analysis at BESIII](http://arxiv.org/abs/2604.22541v1) (2026-04-24)
-*   [Multi-Agent Consensus as a Cognitive Bias Trigger in Human-AI Interaction](http://arxiv.org/abs/2604.22277v1) (2026-04-24)
-*   [RAG-Reflect: Agentic Retrieval-Augmented Generation with Reflections for Comment-Driven Code Maintenance on Stack Overflow](http://arxiv.org/abs/2604.22217v1) (2026-04-24)
-*   [From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation](http://arxiv.org/abs/2604.21910v1) (2026-04-23)
-*   [Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI](http://arxiv.org/abs/2604.21804v1) (2026-04-23)
+*   [The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](http://arxiv.org/abs/2605.02856v1) (2026-05-04)
+*   [Tool Use as Action: Towards Agentic Control in Mobile Core Networks](http://arxiv.org/abs/2605.02811v1) (2026-05-04)
+*   [ORPilot: A Production-Oriented Agentic LLM-for-OR Tool for Optimization Modeling](http://arxiv.org/abs/2605.02728v1) (2026-05-04)
+*   [Executor-Side Progressive Risk-Gated Actuation for Agentic AI in Wireless Supervisory Control](http://arxiv.org/abs/2605.02697v1) (2026-05-04)
+*   [Hybrid Inspection and Task-Based Access Control in Zero-Trust Agentic AI](http://arxiv.org/abs/2605.02682v1) (2026-05-04)
+*   [Beyond State Machines: Executing Network Procedures with Agentic Tool-Calling Sequences](http://arxiv.org/abs/2605.02584v1) (2026-05-04)
+*   [IteRate: Autonomous AI Synthesis of In-Kernel eBPF Wi-Fi Rate Control Algorithms](http://arxiv.org/abs/2605.02542v1) (2026-05-04)
+*   [From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model](http://arxiv.org/abs/2605.02491v1) (2026-05-04)
+*   [GRAIL: A Deep-Granularity Hybrid Resonance Framework for Real-Time Agent Discovery via SLM-Enhanced Indexing](http://arxiv.org/abs/2605.02489v1) (2026-05-04)
+*   [Post-Quantum Cryptography Migration in Australian Real-Time Payment Infrastructure: A Monte Carlo Simulation Study of the New Payments Platform](http://arxiv.org/abs/2605.02276v1) (2026-05-04)
+*   [AAFLOW: Scalable Patterns for Agentic AI Workflows](http://arxiv.org/abs/2605.02162v1) (2026-05-04)
+*   [Architectural Obsolescence of Unhardened Agentic-AI Runtimes](http://arxiv.org/abs/2605.01740v1) (2026-05-03)
+*   [AgenticVM: Agentic AI for Adaptive Software Vulnerability Management](http://arxiv.org/abs/2605.01739v1) (2026-05-03)
+*   [AI Alignment via Incentives and Correction](http://arxiv.org/abs/2605.01643v1) (2026-05-02)
+*   [Less Interaction But More Explanation: A Communication Perspective on Agentic AI Interfaces](http://arxiv.org/abs/2605.01610v1) (2026-05-02)
 
 ## 📰 Latest Signal (News)
-*   [Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google](https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/) - *SecurityWeek*
+*   [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/) - *SecurityWeek*
