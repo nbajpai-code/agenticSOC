@@ -61,14 +61,10 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-05-01 09:49:56 UTC*
+*Last Updated: 2026-05-08 09:28:32 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [TwinGate: Stateful Defense against Decompositional Jailbreaks in Untraceable Traffic via Asymmetric Contrastive Learning](http://arxiv.org/abs/2604.27861v1) (2026-04-30)
-*   [Low Rank Adaptation for Adversarial Perturbation](http://arxiv.org/abs/2604.27487v1) (2026-04-30)
-*   [From Prompt to Physical Actuation: Holistic Threat Modeling of LLM-Enabled Robotic Systems](http://arxiv.org/abs/2604.27267v1) (2026-04-29)
-*   [VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection](http://arxiv.org/abs/2604.26313v1) (2026-04-29)
-*   [Agent Name Service (ANS): A Proof-of-Concept Trust Layer for Secure AI Agent Discovery, Identity, and Governance in Kubernetes](http://arxiv.org/abs/2604.26997v1) (2026-04-29)
+No new threat modeling papers found this week.
 
 ### 📰 Latest News
 No related news found this week.
