@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-05-05 09:55:30 UTC
+**Last Updated:** 2026-05-12 10:25:14 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,23 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware](http://arxiv.org/abs/2605.02856v1) (2026-05-04)
-*   [Tool Use as Action: Towards Agentic Control in Mobile Core Networks](http://arxiv.org/abs/2605.02811v1) (2026-05-04)
-*   [ORPilot: A Production-Oriented Agentic LLM-for-OR Tool for Optimization Modeling](http://arxiv.org/abs/2605.02728v1) (2026-05-04)
-*   [Executor-Side Progressive Risk-Gated Actuation for Agentic AI in Wireless Supervisory Control](http://arxiv.org/abs/2605.02697v1) (2026-05-04)
-*   [Hybrid Inspection and Task-Based Access Control in Zero-Trust Agentic AI](http://arxiv.org/abs/2605.02682v1) (2026-05-04)
-*   [Beyond State Machines: Executing Network Procedures with Agentic Tool-Calling Sequences](http://arxiv.org/abs/2605.02584v1) (2026-05-04)
-*   [IteRate: Autonomous AI Synthesis of In-Kernel eBPF Wi-Fi Rate Control Algorithms](http://arxiv.org/abs/2605.02542v1) (2026-05-04)
-*   [From Experimental Limits to Physical Insight: A Retrieval-Augmented Multi-Agent Framework for Interpreting Searches Beyond the Standard Model](http://arxiv.org/abs/2605.02491v1) (2026-05-04)
-*   [GRAIL: A Deep-Granularity Hybrid Resonance Framework for Real-Time Agent Discovery via SLM-Enhanced Indexing](http://arxiv.org/abs/2605.02489v1) (2026-05-04)
-*   [Post-Quantum Cryptography Migration in Australian Real-Time Payment Infrastructure: A Monte Carlo Simulation Study of the New Payments Platform](http://arxiv.org/abs/2605.02276v1) (2026-05-04)
-*   [AAFLOW: Scalable Patterns for Agentic AI Workflows](http://arxiv.org/abs/2605.02162v1) (2026-05-04)
-*   [Architectural Obsolescence of Unhardened Agentic-AI Runtimes](http://arxiv.org/abs/2605.01740v1) (2026-05-03)
-*   [AgenticVM: Agentic AI for Adaptive Software Vulnerability Management](http://arxiv.org/abs/2605.01739v1) (2026-05-03)
-*   [AI Alignment via Incentives and Correction](http://arxiv.org/abs/2605.01643v1) (2026-05-02)
-*   [Less Interaction But More Explanation: A Communication Perspective on Agentic AI Interfaces](http://arxiv.org/abs/2605.01610v1) (2026-05-02)
+*   [LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges](http://arxiv.org/abs/2605.10807v1) (2026-05-11)
+*   [MATRA: Modeling the Attack Surface of Agentic AI Systems -- OpenClaw Case Study](http://arxiv.org/abs/2605.10763v1) (2026-05-11)
+*   [Key Encapsulation Mechanism-Based Integrated Encryption Scheme (KEM-IES)](http://arxiv.org/abs/2605.10175v1) (2026-05-11)
+*   [Bridging the Cognitive Gap: A Unified Memory Paradigm for 6G Agentic AI-RAN](http://arxiv.org/abs/2605.10036v1) (2026-05-11)
+*   [Evaluating Tool Cloning in Agentic-AI Ecosystems](http://arxiv.org/abs/2605.09817v1) (2026-05-10)
+*   [Towards Conversational Medical AI with Eyes, Ears and a Voice](http://arxiv.org/abs/2605.09272v1) (2026-05-10)
+*   [Agentic AI for Particle-Based Simulation: Automating SPH Workflows for Debris Flow Modeling](http://arxiv.org/abs/2605.09265v1) (2026-05-10)
+*   [Internal vs. External: Comparing Deliberation and Evolution for Multi-Agent Constitutional Design](http://arxiv.org/abs/2605.09128v1) (2026-05-09)
+*   [Token Economics for LLM Agents: A Dual-View Study from Computing and Economics](http://arxiv.org/abs/2605.09104v1) (2026-05-09)
+*   [GAMBIT: A Three-Mode Benchmark for Adversarial Robustness in Multi-Agent LLM Collectives](http://arxiv.org/abs/2605.09027v1) (2026-05-09)
+*   [Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery](http://arxiv.org/abs/2605.08956v1) (2026-05-09)
+*   [Generalization Bounds of Emergent Communications for Agentic AI Networking](http://arxiv.org/abs/2605.08613v1) (2026-05-09)
+*   [Do Benchmarks Underestimate LLM Performance? Evaluating Hallucination Detection With LLM-First Human-Adjudicated Assessment](http://arxiv.org/abs/2605.08462v1) (2026-05-08)
+*   [Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare](http://arxiv.org/abs/2605.08445v1) (2026-05-08)
+*   [A Dataset of Agentic AI Coding Tool Configurations](http://arxiv.org/abs/2605.08435v1) (2026-05-08)
 
 ## 📰 Latest Signal (News)
-*   [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/) - *SecurityWeek*
+*   [TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack](https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/) - *SecurityWeek*
+*   [Build Application Firewalls Aim to Stop the Next Supply Chain Attack](https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/) - *SecurityWeek*
+*   [Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/) - *SecurityWeek*
