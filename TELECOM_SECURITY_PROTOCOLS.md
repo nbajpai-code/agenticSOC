@@ -99,14 +99,14 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-05-06 10:13:17 UTC*
+*Last Updated: 2026-05-13 10:21:58 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [Threat Modelling using Domain-Adapted Language Models: Empirical Evaluation and Insights](http://arxiv.org/abs/2605.10808v1) (2026-05-11)
 *   [Process-Mining of Hypertraces: Enabling Scalable Formal Security Verification of (Automotive) Network Architectures](http://arxiv.org/abs/2604.21606v2) (2026-04-23)
 *   [MCP-DPT: A Defense-Placement Taxonomy and Coverage Analysis for Model Context Protocol Security](http://arxiv.org/abs/2604.07551v1) (2026-04-08)
 *   [Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication](http://arxiv.org/abs/2602.12059v1) (2026-02-12)
 *   [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](http://arxiv.org/abs/2601.17549v1) (2026-01-24)
-*   [Reference-frame-independent Quantum secure direct communication](http://arxiv.org/abs/2601.08238v1) (2026-01-13)
 
 ### 📰 Latest News
 No telecom-specific news found this week.
