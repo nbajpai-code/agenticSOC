@@ -61,10 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-05-08 09:28:32 UTC*
+*Last Updated: 2026-05-15 10:28:20 UTC*
 
 ### 📄 Latest Research (Arxiv)
-No new threat modeling papers found this week.
+*   [MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs](http://arxiv.org/abs/2605.15172v1) (2026-05-14)
+*   [Talk is (Not) Cheap: A Taxonomy and Benchmark Coverage Audit for LLM Attacks](http://arxiv.org/abs/2605.15118v1) (2026-05-14)
+*   [To See is Not to Learn: Protecting Multimodal Data from Unauthorized Fine-Tuning of Large Vision-Language Model](http://arxiv.org/abs/2605.14291v1) (2026-05-14)
+*   [Backdoor Threats in Variational Quantum Circuits: Taxonomy, Attacks, and Defenses](http://arxiv.org/abs/2605.13796v1) (2026-05-13)
+*   [Watermarking Should Be Treated as a Monitoring Primitive](http://arxiv.org/abs/2605.13095v2) (2026-05-13)
 
 ### 📰 Latest News
 No related news found this week.
