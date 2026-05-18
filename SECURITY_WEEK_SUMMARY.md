@@ -1,34 +1,48 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-05-11 12:10:05 UTC
+**Last Updated:** 2026-05-18 12:30:22 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Skoda Data Breach Hits Online Shop Customers](https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/)
-**Date:** Mon, 11 May 2026 11:54:27 +0000
+## [First Shai-Hulud Worm Clones Emerge](https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/)
+**Date:** Mon, 18 May 2026 09:45:15 +0000
 
-<p>Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers.</p>
-<p>The post <a href="https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/">Skoda Data Breach Hits Online Shop Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/)
-**Date:** Mon, 11 May 2026 09:34:55 +0000
-
-<p>A malicious version of the plugin was published to the Jenkins Marketplace late last week.</p>
-<p>The post <a href="https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/">Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>At least one threat actor has adopted the recently released malware source code in attacks against NPM developers.</p>
+<p>The post <a href="https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/">First Shai-Hulud Worm Clones Emerge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks](https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/)
-**Date:** Mon, 11 May 2026 08:15:28 +0000
+## [Exploitation of Critical NGINX Vulnerability Begins](https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/)
+**Date:** Mon, 18 May 2026 07:27:42 +0000
 
-<p>Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released.</p>
-<p>The post <a href="https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/">New &#8216;Dirty Frag&#8217; Linux Vulnerability Possibly Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/">Exploitation of Critical NGINX Vulnerability Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner](https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/)
-**Date:** Fri, 08 May 2026 14:30:00 +0000
+## [Hackers Earn $1.3 Million at Pwn2Own Berlin 2026](https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/)
+**Date:** Mon, 18 May 2026 04:05:21 +0000
 
-<p>Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/">In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/">Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [PoC Code Published for Critical NGINX Vulnerability](https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/)
+**Date:** Sat, 16 May 2026 10:02:00 +0000
+
+<p>Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source.</p>
+<p>The post <a href="https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/">PoC Code Published for Critical NGINX Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
+**Date:** Fri, 15 May 2026 14:52:16 +0000
+
+<p>Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/">In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
+**Date:** Fri, 15 May 2026 12:06:53 +0000
+
+<p>Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/">Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
