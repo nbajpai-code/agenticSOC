@@ -66,3 +66,7 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 
 ## Weekly Updates (2026-02-09)
 - **2026-02-06** [Airrived Emerges From Stealth With $6.1 Million in Funding](https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/) - *SecurityWeek*
+
+
+## Weekly Updates (2026-05-25)
+- **2026-05-19** [From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/) - *Security News | TechCrunch*
