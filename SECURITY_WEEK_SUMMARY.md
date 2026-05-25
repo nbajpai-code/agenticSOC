@@ -1,48 +1,48 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-05-18 12:30:22 UTC
+**Last Updated:** 2026-05-25 12:30:14 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [First Shai-Hulud Worm Clones Emerge](https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/)
-**Date:** Mon, 18 May 2026 09:45:15 +0000
+## [266,000 Affected by Data Breach at Radiology Associates of Richmond](https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/)
+**Date:** Mon, 25 May 2026 11:17:07 +0000
 
-<p>At least one threat actor has adopted the recently released malware source code in attacks against NPM developers.</p>
-<p>The post <a href="https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/">First Shai-Hulud Worm Clones Emerge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Exploitation of Critical NGINX Vulnerability Begins](https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/)
-**Date:** Mon, 18 May 2026 07:27:42 +0000
-
-<p>The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/">Exploitation of Critical NGINX Vulnerability Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Threat actors stole files containing names and protected health information from the healthcare organization’s systems.</p>
+<p>The post <a href="https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/">266,000 Affected by Data Breach at Radiology Associates of Richmond</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Hackers Earn $1.3 Million at Pwn2Own Berlin 2026](https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/)
-**Date:** Mon, 18 May 2026 04:05:21 +0000
+## [Laravel-Lang Packages Poisoned for Malware Delivery](https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/)
+**Date:** Mon, 25 May 2026 10:41:07 +0000
 
-<p>Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/">Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [PoC Code Published for Critical NGINX Vulnerability](https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/)
-**Date:** Sat, 16 May 2026 10:02:00 +0000
-
-<p>Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source.</p>
-<p>The post <a href="https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/">PoC Code Published for Critical NGINX Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets.</p>
+<p>The post <a href="https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/">Laravel-Lang Packages Poisoned for Malware Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
-**Date:** Fri, 15 May 2026 14:52:16 +0000
+## [DocketWise Data Breach Impacts 143,000](https://www.securityweek.com/docketwise-data-breach-impacts-143000/)
+**Date:** Mon, 25 May 2026 09:37:27 +0000
 
-<p>Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/">In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories.</p>
+<p>The post <a href="https://www.securityweek.com/docketwise-data-breach-impacts-143000/">DocketWise Data Breach Impacts 143,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
-**Date:** Fri, 15 May 2026 12:06:53 +0000
+## [Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack](https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/)
+**Date:** Mon, 25 May 2026 07:40:55 +0000
 
-<p>Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/">Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens.</p>
+<p>The post <a href="https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/">Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains](https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/)
+**Date:** Sat, 23 May 2026 11:00:00 +0000
+
+<p>The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.</p>
+<p>The post <a href="https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/">‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
+**Date:** Fri, 22 May 2026 17:15:26 +0000
+
+<p>Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites.</p>
+<p>The post <a href="https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/">Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
