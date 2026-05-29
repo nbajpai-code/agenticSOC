@@ -61,7 +61,7 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-05-22 10:55:09 UTC*
+*Last Updated: 2026-05-29 11:34:33 UTC*
 
 ### 📄 Latest Research (Arxiv)
 No new threat modeling papers found this week.
