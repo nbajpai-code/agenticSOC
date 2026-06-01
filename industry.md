@@ -117,3 +117,10 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-04-08** [Cracks in the Bedrock: Agent God Mode](https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/) - *Palo Alto Networks Unit 42*
 - **2026-04-07** [Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox](https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/) - *Palo Alto Networks Unit 42*
 - **2026-04-03** [When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications](https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/) - *Palo Alto Networks Unit 42*
+- **2026-05-28** [AI Management Without The Patchwork](https://www.gravitee.io/blog/ai-management-without-the-patchwork) - *Gravitee.io Blog*
+- **2026-05-28** [Context as a Service: The New Price of Staying Relevant](https://www.gravitee.io/blog/context-as-a-service-the-new-price-of-staying-relevant) - *Gravitee.io Blog*
+- **2026-05-14** [MCP AI Explained: How Model Context Protocol Works](https://www.gravitee.io/blog/mcp-ai-explained-how-model-context-protocol-works) - *Gravitee.io Blog*
+- **2026-05-14** [Event Stream Processor: How It Works & Where Governance Fits](https://www.gravitee.io/blog/event-stream-processor-how-it-works-where-governance-fits) - *Gravitee.io Blog*
+- **2026-05-07** [The OWASP MCP Top 10 and AI IAM: Why Agents Need Identity-First Security](https://www.gravitee.io/blog/the-owasp-mcp-top-10-and-ai-iam-why-agents-need-identity-first-security) - *Gravitee.io Blog*
+- **2026-05-08** [A Framework for AI Threat Readiness](https://www.wiz.io/blog/ai-threat-readiness-framework) - *Wiz Blog*
+- **2026-05-05** [Introducing Penetration Test Findings: Unified Offensive Security in Wiz](https://www.wiz.io/blog/pen-test-findings) - *Wiz Blog*
