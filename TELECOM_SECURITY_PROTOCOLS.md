@@ -99,14 +99,10 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-05-27 11:35:02 UTC*
+*Last Updated: 2026-06-03 12:40:12 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [A blueprint for constructing 3-pass AKE protocols under commitment-based models](http://arxiv.org/abs/2605.23843v1) (2026-05-22)
-*   [Threat Modelling using Domain-Adapted Language Models: Empirical Evaluation and Insights](http://arxiv.org/abs/2605.10808v1) (2026-05-11)
-*   [Process-Mining of Hypertraces: Enabling Scalable Formal Security Verification of (Automotive) Network Architectures](http://arxiv.org/abs/2604.21606v2) (2026-04-23)
-*   [MCP-DPT: A Defense-Placement Taxonomy and Coverage Analysis for Model Context Protocol Security](http://arxiv.org/abs/2604.07551v1) (2026-04-08)
-*   [Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication](http://arxiv.org/abs/2602.12059v1) (2026-02-12)
+No new papers found this week.
 
 ### 📰 Latest News
 No telecom-specific news found this week.
