@@ -1,11 +1,12 @@
 # Agentic AI & SOC Research Papers
 
-Last Updated: 2026-05-11 11:22:21 UTC
+Last Updated: 2026-06-08 12:29:09 UTC
 
 This list is automatically updated weekly.
 
 | Date | Title | Authors | PDF |
 |------|-------|---------|-----|
+| 2026-05-21 | [Detecting Offensive Cyber Agents: A Detection-in-Depth Approach](http://arxiv.org/abs/2605.21956v1) | Matt Mittelsteadt, Jam Kraprayoon, Robin Staes-... | [PDF](https://arxiv.org/pdf/2605.21956v1) |
 | 2025-10-20 | [Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs](http://arxiv.org/abs/2510.17521v1) | Francesco Balassone, Víctor Mayoral-Vilches, St... | [PDF](https://arxiv.org/pdf/2510.17521v1) |
 | 2025-08-31 | [Nash Q-Network for Multi-Agent Cybersecurity Simulation](http://arxiv.org/abs/2509.00678v1) | Qintong Xie, Edward Koh, Xavier Cadet, Peter Chin | [PDF](https://arxiv.org/pdf/2509.00678v1) |
 | 2025-05-23 | [Dynamic Risk Assessments for Offensive Cybersecurity Agents](http://arxiv.org/abs/2505.18384v5) | Boyi Wei, Benedikt Stroebl, Jiacen Xu, Joie Zha... | [PDF](https://arxiv.org/pdf/2505.18384v5) |
