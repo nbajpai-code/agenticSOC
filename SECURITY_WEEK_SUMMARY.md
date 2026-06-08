@@ -1,48 +1,55 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-06-01 15:20:10 UTC
+**Last Updated:** 2026-06-08 13:06:31 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/)
-**Date:** Mon, 01 Jun 2026 15:02:17 +0000
+## [Everest Forms Vulnerability Exploited to Hack WordPress Sites](https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/)
+**Date:** Mon, 08 Jun 2026 12:16:09 +0000
 
-<p>Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.</p>
-<p>The post <a href="https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/">Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access](https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/)
-**Date:** Mon, 01 Jun 2026 11:19:31 +0000
-
-<p>Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.</p>
-<p>The post <a href="https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/">19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.</p>
+<p>The post <a href="https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/">Everest Forms Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Recent Palo Alto Networks Vulnerability Exploited for Weeks](https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/)
-**Date:** Mon, 01 Jun 2026 10:00:00 +0000
+## [Silent Ransom Group Uses DNS Fast Flux in Attacks](https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/)
+**Date:** Mon, 08 Jun 2026 10:31:39 +0000
 
-<p>Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.</p>
-<p>The post <a href="https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/">Recent Palo Alto Networks Vulnerability Exploited for Weeks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say](https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/)
-**Date:** Sat, 30 May 2026 16:00:49 +0000
-
-<p>Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/">Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&#038;C infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/">Silent Ransom Group Uses DNS Fast Flux in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Exploit Code Published for Critical Flowise RCE Vulnerability](https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/)
-**Date:** Sat, 30 May 2026 15:55:59 +0000
+## [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/)
+**Date:** Mon, 08 Jun 2026 08:32:49 +0000
 
-<p>The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow.</p>
-<p>The post <a href="https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/">Exploit Code Published for Critical Flowise RCE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant.</p>
+<p>The post <a href="https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/">OpenAI Rolling Out ChatGPT Account Security Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks](https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/)
-**Date:** Fri, 29 May 2026 16:20:49 +0000
+## [Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow](https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/)
+**Date:** Mon, 08 Jun 2026 08:00:00 +0000
 
-<p>Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/">In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The proposed coordination would let advanced AI labs verify that global rivals have actually stopped or slowed their work.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/">Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [SolarWinds Serv-U Vulnerability Exploited in the Wild](https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/)
+**Date:** Mon, 08 Jun 2026 07:52:28 +0000
+
+<p>Unauthenticated attackers can exploit the flaw via specially crafted POST requests that crash the Serv-U service.</p>
+<p>The post <a href="https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/">SolarWinds Serv-U Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse](https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/)
+**Date:** Mon, 08 Jun 2026 06:41:47 +0000
+
+<p>The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool.</p>
+<p>The post <a href="https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/">Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation](https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/)
+**Date:** Sun, 07 Jun 2026 11:30:00 +0000
+
+<p>Emphere’s solution delivers AI-driven remediation to software companies to speed up releases.</p>
+<p>The post <a href="https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/">Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
