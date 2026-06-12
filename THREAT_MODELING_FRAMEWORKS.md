@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-06-05 11:31:02 UTC*
+*Last Updated: 2026-06-12 11:45:57 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Steering Vectors are an Adversarial Attack Surface](http://arxiv.org/abs/2606.05958v1) (2026-06-04)
-*   [A-Live: Passive Liveness Detection via Neuromuscular Micro-Motion Signatures on Commodity Sensors](http://arxiv.org/abs/2606.05126v1) (2026-06-03)
-*   [From Attack Simulation to SIEM Rule: Deterministic Detection-as-Code Synthesis with Probe-Level Traceability](http://arxiv.org/abs/2606.05252v1) (2026-06-03)
-*   [Sequential Data Poisoning in LLM Post-Training](http://arxiv.org/abs/2606.04929v1) (2026-06-03)
-*   [Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents](http://arxiv.org/abs/2606.03895v1) (2026-06-02)
+*   [SoK: The Constant Time Model](http://arxiv.org/abs/2606.13000v1) (2026-06-11)
+*   [Trajectory-Level Redirection Attacks on Vision-Language-Action Models](http://arxiv.org/abs/2606.12978v1) (2026-06-11)
+*   [snaproot: Decentralized File Integrity Verification Using Blockchain-Anchored Cryptographic Hashing](http://arxiv.org/abs/2606.10625v1) (2026-06-09)
+*   [Game-Theoretic Multi-Agent Control for Robust Contextual Reasoning in LLMs](http://arxiv.org/abs/2606.10322v1) (2026-06-09)
+*   [The Linux IOCTL Census: A Source-Derived Database of the Linux Kernel Control-Code Surface](http://arxiv.org/abs/2606.10290v1) (2026-06-09)
 
 ### 📰 Latest News
 No related news found this week.
