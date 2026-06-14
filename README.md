@@ -46,6 +46,10 @@ graph TD
     - `agents/`: Agent implementations (prompts and logic).
     - `tools/`: Tool definitions.
  
+## Documentation & Reference Guides
+
+- [Malware Analysis Resources & Methodology](file:///Users/nirajbajpai/.gemini/antigravity/scratch/agenticSOC/MALWARE_ANALYSIS_RESOURCES.md) - A comprehensive guide on malware analysis stages, isolated lab configuration, dynamic/static analysis tooling, and step-by-step investigation workflow.
+
 ## EC COUNCIL GITHUB
 
 - https://github.com/ec-council-learning/Agentic-AI-for-Cybersecurity
@@ -53,3 +57,4 @@ graph TD
 ## LANGSMITH HUB
 
 - https://smith.langchain.com/hub/hardkothari/prompt-maker
+
