@@ -1,55 +1,41 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-06-08 13:06:31 UTC
+**Last Updated:** 2026-06-15 15:14:04 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Everest Forms Vulnerability Exploited to Hack WordPress Sites](https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/)
-**Date:** Mon, 08 Jun 2026 12:16:09 +0000
+## [Chinese Hackers Target Medical, Military, and AI Research in North America](https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/)
+**Date:** Mon, 15 Jun 2026 14:07:45 +0000
 
-<p>The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.</p>
-<p>The post <a href="https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/">Everest Forms Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Silent Ransom Group Uses DNS Fast Flux in Attacks](https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/)
-**Date:** Mon, 08 Jun 2026 10:31:39 +0000
-
-<p>Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&#038;C infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/">Silent Ransom Group Uses DNS Fast Flux in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Google’s Threat Intelligence Group has been tracking the cyberespionage group as UNC6508 since early 2025.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/">Chinese Hackers Target Medical, Military, and AI Research in North America</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/)
-**Date:** Mon, 08 Jun 2026 08:32:49 +0000
+## [NewCore Emerges From Stealth Mode With $66 Million in Funding](https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/)
+**Date:** Mon, 15 Jun 2026 13:00:00 +0000
 
-<p>The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant.</p>
-<p>The post <a href="https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/">OpenAI Rolling Out ChatGPT Account Security Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow](https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/)
-**Date:** Mon, 08 Jun 2026 08:00:00 +0000
-
-<p>The proposed coordination would let advanced AI labs verify that global rivals have actually stopped or slowed their work.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/">Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The startup has built a security-first identity platform to protect humans, machines, and AI agents.</p>
+<p>The post <a href="https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/">NewCore Emerges From Stealth Mode With $66 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [SolarWinds Serv-U Vulnerability Exploited in the Wild](https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/)
-**Date:** Mon, 08 Jun 2026 07:52:28 +0000
+## [Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges](https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/)
+**Date:** Mon, 15 Jun 2026 11:33:20 +0000
 
-<p>Unauthenticated attackers can exploit the flaw via specially crafted POST requests that crash the Serv-U service.</p>
-<p>The post <a href="https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/">SolarWinds Serv-U Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse](https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/)
-**Date:** Mon, 08 Jun 2026 06:41:47 +0000
-
-<p>The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool.</p>
-<p>The post <a href="https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/">Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang.</p>
+<p>The post <a href="https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/">Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation](https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/)
-**Date:** Sun, 07 Jun 2026 11:30:00 +0000
+## [NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/)
+**Date:** Sat, 13 Jun 2026 15:52:58 +0000
 
-<p>Emphere’s solution delivers AI-driven remediation to software companies to speed up releases.</p>
-<p>The post <a href="https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/">Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed.</p>
+<p>The post <a href="https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/">NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
+**Date:** Sat, 13 Jun 2026 06:38:34 +0000
+
+<p>Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/">Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
