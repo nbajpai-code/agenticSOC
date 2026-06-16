@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-06-09 10:54:05 UTC
+**Last Updated:** 2026-06-16 12:47:04 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,22 +10,23 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Observability for Delegated Execution in Agentic AI Systems](http://arxiv.org/abs/2606.09692v1) (2026-06-08)
-*   [The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection](http://arxiv.org/abs/2606.09204v1) (2026-06-08)
-*   [Autonomous Incident Resolution at Hyperscale: An Agentic AI Architecture for Network Operations](http://arxiv.org/abs/2606.09122v1) (2026-06-08)
-*   [Security-First Approach to API Pipeline Development with Zero-Trust Architecture](http://arxiv.org/abs/2606.09062v1) (2026-06-08)
-*   [The Token Not Taken: Sampling, State, and the Variability of AI Agent Outputs](http://arxiv.org/abs/2606.08998v1) (2026-06-08)
-*   [Structuring agentic AI for HPC code modernization](http://arxiv.org/abs/2606.08710v1) (2026-06-07)
-*   [AI-Native Closed-Loop Security for 6G-Enabled Cyber-Physical Systems: From Edge Detection to Network-Wide Mitigation](http://arxiv.org/abs/2606.08173v1) (2026-06-06)
-*   [A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline](http://arxiv.org/abs/2606.07718v1) (2026-06-05)
-*   [Empirical Evaluation of Large Language Models for Migration of Code Fragments to Post-Quantum Cryptography](http://arxiv.org/abs/2606.07341v1) (2026-06-05)
-*   [The Three-Ring Architecture: Governing Agents in the Era of On-Platform Organisations](http://arxiv.org/abs/2606.07119v1) (2026-06-05)
-*   [Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows](http://arxiv.org/abs/2606.06923v1) (2026-06-05)
-*   [More than a Judge: An Empirical Study of Agent-Human Interaction in Crowdsourced Testing Assessment](http://arxiv.org/abs/2606.06301v1) (2026-06-04)
-*   [Insurance of Agentic AI](http://arxiv.org/abs/2606.05449v1) (2026-06-03)
-*   [Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison](http://arxiv.org/abs/2606.05436v1) (2026-06-03)
-*   [Carrollian holography with agentic AI: Real mass is imaginary](http://arxiv.org/abs/2606.05401v1) (2026-06-03)
+*   [Human-on-the-Bridge: Scalable Evaluation for AI Agents](http://arxiv.org/abs/2606.16871v1) (2026-06-15)
+*   [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](http://arxiv.org/abs/2606.16649v1) (2026-06-15)
+*   [Generated, Parallel, Scalable? A Study of Agentic AI-Generated Julia Code on Supercomputers](http://arxiv.org/abs/2606.16534v1) (2026-06-15)
+*   [Measurement Study of Post-Quantum Readiness of Internet: 2026](http://arxiv.org/abs/2606.16473v1) (2026-06-15)
+*   [MPX: A Unified Systolic Array for Matrix and Polynomial Multiplication](http://arxiv.org/abs/2606.16394v1) (2026-06-15)
+*   [Dynamic Malicious Skills in Agentic AI](http://arxiv.org/abs/2606.16287v1) (2026-06-15)
+*   [Green SARC: Predictive Cost and Carbon Governance for Agentic AI Systems](http://arxiv.org/abs/2606.15954v1) (2026-06-14)
+*   [TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI](http://arxiv.org/abs/2606.15822v1) (2026-06-14)
+*   [Comparative Performance Analysis of NIST PQC Standards: From STM32 Software Limitations to FPGA-SoC Acceleration](http://arxiv.org/abs/2606.15744v1) (2026-06-14)
+*   [The Perils of Agency: How Developers Perceive, Prioritize, and Address Risks in Agentic AI Products](http://arxiv.org/abs/2606.15485v1) (2026-06-13)
+*   [Belief at Risk: Quantifying Agentic AI Model Risk with LLM-Inferred Bayesian State Filters](http://arxiv.org/abs/2606.15473v1) (2026-06-13)
+*   [A Formal Framework for Declarative Agentic AI in Business Process Analysis](http://arxiv.org/abs/2606.15291v1) (2026-06-13)
+*   [LLM: LSTM Look-Ahead Moving Target Defense Based on Historical Malicious Scan](http://arxiv.org/abs/2606.15229v1) (2026-06-13)
+*   [Specifications for Humans, Agents, and Tooling](http://arxiv.org/abs/2606.15084v1) (2026-06-13)
+*   [BT-MTD: Bus Traversal-based Moving Target Defense for Smart Grid](http://arxiv.org/abs/2606.15047v1) (2026-06-13)
 
 ## 📰 Latest Signal (News)
-*   [A Security Raises $37 Million for Autonomous Offensive Security Platform](https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/) - *SecurityWeek*
-*   [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/) - *SecurityWeek*
+*   [Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages](https://www.securityweek.com/atomic-arch-supply-chain-attack-hits-1500-aur-packages/) - *SecurityWeek*
+*   [Cybersecurity Executives Urge the Trump Administration to Ease Restrictions on Anthropic AI Models](https://www.securityweek.com/cybersecurity-executives-urge-the-trump-administration-to-ease-restrictions-on-anthropic-ai-models/) - *SecurityWeek*
+*   [Chinese Hackers Target Medical, Military, and AI Research in North America](https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/) - *SecurityWeek*
