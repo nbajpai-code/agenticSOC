@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-06-12 11:45:57 UTC*
+*Last Updated: 2026-06-19 12:10:20 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [SoK: The Constant Time Model](http://arxiv.org/abs/2606.13000v1) (2026-06-11)
-*   [Trajectory-Level Redirection Attacks on Vision-Language-Action Models](http://arxiv.org/abs/2606.12978v1) (2026-06-11)
-*   [snaproot: Decentralized File Integrity Verification Using Blockchain-Anchored Cryptographic Hashing](http://arxiv.org/abs/2606.10625v1) (2026-06-09)
-*   [Game-Theoretic Multi-Agent Control for Robust Contextual Reasoning in LLMs](http://arxiv.org/abs/2606.10322v1) (2026-06-09)
-*   [The Linux IOCTL Census: A Source-Derived Database of the Linux Kernel Control-Code Surface](http://arxiv.org/abs/2606.10290v1) (2026-06-09)
+*   [Generalised Eigenvalue Geometry of Semantic Adversarial Attacks](http://arxiv.org/abs/2606.19212v1) (2026-06-17)
+*   [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](http://arxiv.org/abs/2606.19149v2) (2026-06-17)
+*   [AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework](http://arxiv.org/abs/2606.18532v1) (2026-06-16)
+*   [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](http://arxiv.org/abs/2606.18322v1) (2026-06-16)
+*   [MorphStrata: Layer-Specific Perturbations for Generating Morphence Students in Time-Series Moving Target Defense](http://arxiv.org/abs/2606.17435v1) (2026-06-16)
 
 ### 📰 Latest News
 No related news found this week.
