@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-06-19 12:10:20 UTC*
+*Last Updated: 2026-06-26 10:54:28 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Generalised Eigenvalue Geometry of Semantic Adversarial Attacks](http://arxiv.org/abs/2606.19212v1) (2026-06-17)
-*   [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](http://arxiv.org/abs/2606.19149v2) (2026-06-17)
-*   [AI Sandboxes: A Threat Model, Taxonomy, and Measurement Framework](http://arxiv.org/abs/2606.18532v1) (2026-06-16)
-*   [SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](http://arxiv.org/abs/2606.18322v1) (2026-06-16)
-*   [MorphStrata: Layer-Specific Perturbations for Generating Morphence Students in Time-Series Moving Target Defense](http://arxiv.org/abs/2606.17435v1) (2026-06-16)
+*   [Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models](http://arxiv.org/abs/2606.26566v1) (2026-06-25)
+*   [Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents](http://arxiv.org/abs/2606.26479v1) (2026-06-25)
+*   [What Do Deepfake Benchmarks Measure? An Audit Using Frozen Self-Supervised Representations](http://arxiv.org/abs/2606.26384v1) (2026-06-24)
+*   [Verifying Intent and Harm: A Unified Defense Against LLM-Generated Threats](http://arxiv.org/abs/2606.26377v1) (2026-06-24)
+*   [Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model](http://arxiv.org/abs/2606.26373v1) (2026-06-24)
 
 ### 📰 Latest News
 No related news found this week.
