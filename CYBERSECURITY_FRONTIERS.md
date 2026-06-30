@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-06-23 10:56:09 UTC
+**Last Updated:** 2026-06-30 10:49:35 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,22 +10,22 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?](http://arxiv.org/abs/2606.23664v1) (2026-06-22)
-*   [Optimal Small Set Expanders and Their Codes](http://arxiv.org/abs/2606.23579v1) (2026-06-22)
-*   [Rising From the Ashes: How Agentic AI is Unblocking Challenges in Cybersecurity](http://arxiv.org/abs/2606.23138v1) (2026-06-22)
-*   [When the Learning With Errors Problem Meets the Coherent Ising Machine: A Penalty-Free Algorithm-Hardware Co-Design](http://arxiv.org/abs/2606.22843v1) (2026-06-22)
-*   [Grounded Scaling: Why Agentic AI Needs Deterministic Environments](http://arxiv.org/abs/2606.22495v1) (2026-06-21)
-*   [Governed AI-Assisted Engineering: Graduated Human Oversight for Agentic Code Generation in Regulated Domains](http://arxiv.org/abs/2606.22484v1) (2026-06-21)
-*   [TRACE: A Threat Modelling Methodology for Distributed, Cloud-First, and Decentralized Organisations](http://arxiv.org/abs/2606.22214v1) (2026-06-20)
-*   [From RAN Control to Agentic Intelligence: Architecture and Vision for Energy Efficient AI-RAN](http://arxiv.org/abs/2606.21955v1) (2026-06-20)
-*   [Skills for the future software profession: beyond agentic AI!](http://arxiv.org/abs/2606.21894v1) (2026-06-20)
-*   [AgentRiskBOM: A Risk-Scoping Security Bill of Materials for Agentic AI Systems](http://arxiv.org/abs/2606.21877v1) (2026-06-20)
-*   [Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows](http://arxiv.org/abs/2606.21565v1) (2026-06-19)
-*   [SwarmX: Agentic Scheduling for Low-Latency Agentic Systems](http://arxiv.org/abs/2606.21401v1) (2026-06-19)
-*   [Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](http://arxiv.org/abs/2606.20470v1) (2026-06-18)
-*   [Directors Duties in the Age of Agentic Artificial Intelligence](http://arxiv.org/abs/2606.20453v1) (2026-06-18)
-*   [PowerAgentBench-Dyn: A Benchmark for Agentic AI in Power System Dynamic Studies](http://arxiv.org/abs/2606.20401v1) (2026-06-18)
+*   [SABER-Math: Automated Benchmark for Information Retrieval Evaluation in Mathematics](http://arxiv.org/abs/2606.29894v1) (2026-06-29)
+*   [Adaptive AI Delegation under Uncertainty: A Bayesian Governance Policy for Sequential Decision Authority](http://arxiv.org/abs/2606.29406v1) (2026-06-28)
+*   [LLM Semantic Signaling Game and Mechanism Design: Systematic Blindness, Awareness Shaping, and Mindset Dynamics](http://arxiv.org/abs/2606.29113v1) (2026-06-27)
+*   [Preventing Error Propagation in Multi-Agent AI through Runtime Monitoring](http://arxiv.org/abs/2606.29026v1) (2026-06-27)
+*   [HyphaeDB: A Living Knowledge Topology for Agent-First Memory](http://arxiv.org/abs/2606.28781v1) (2026-06-27)
+*   [Agentic Hardware Design as Repository-Level Code Evolution](http://arxiv.org/abs/2606.28279v1) (2026-06-26)
+*   [Towards Automating Scientific Review with Google's Paper Assistant Tool](http://arxiv.org/abs/2606.28277v1) (2026-06-26)
+*   [Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software](http://arxiv.org/abs/2606.28235v1) (2026-06-26)
+*   [An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations](http://arxiv.org/abs/2606.28467v1) (2026-06-26)
+*   [Agentic AI-Powered Re-Identification: An Emerging, Scalable Threat to Mobility Microdata Privacy](http://arxiv.org/abs/2606.27936v1) (2026-06-26)
+*   [Tool Use Enables Undetectable Steganography in Multi-Agent LLM Systems](http://arxiv.org/abs/2606.28425v1) (2026-06-25)
+*   [CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](http://arxiv.org/abs/2606.27350v2) (2026-06-25)
+*   [The Shift to Agentic AI: Evidence from Codex](http://arxiv.org/abs/2606.26959v1) (2026-06-25)
+*   [Socratic agents for autonomous scientific discovery in high-dimensional physical systems](http://arxiv.org/abs/2606.26722v1) (2026-06-25)
+*   [Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist](http://arxiv.org/abs/2606.26448v1) (2026-06-24)
 
 ## 📰 Latest Signal (News)
-*   [Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration](https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/) - *SecurityWeek*
-*   [North Korean Hackers Blamed for Mastra NPM Supply Chain Attack](https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/) - *SecurityWeek*
+*   [The AI Token Costs That Can Break Cybersecurity](https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/) - *SecurityWeek*
+*   [Straiker Raises $64 Million for AI Security Platform](https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/) - *SecurityWeek*
