@@ -124,3 +124,12 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-05-07** [The OWASP MCP Top 10 and AI IAM: Why Agents Need Identity-First Security](https://www.gravitee.io/blog/the-owasp-mcp-top-10-and-ai-iam-why-agents-need-identity-first-security) - *Gravitee.io Blog*
 - **2026-05-08** [A Framework for AI Threat Readiness](https://www.wiz.io/blog/ai-threat-readiness-framework) - *Wiz Blog*
 - **2026-05-05** [Introducing Penetration Test Findings: Unified Offensive Security in Wiz](https://www.wiz.io/blog/pen-test-findings) - *Wiz Blog*
+- **2026-06-19** [What Every MCP Builder Needs to Know Before July](https://www.gravitee.io/blog/what-every-mcp-builder-needs-to-know-before-july) - *Gravitee.io Blog*
+- **2026-06-19** [What Does API Stand For? Application Programming Interface Explained](https://www.gravitee.io/blog/what-does-api-stand-for-application-programming-interface-explained) - *Gravitee.io Blog*
+- **2026-06-18** [Who Let the Agent In? Securing MCP Servers in Production](https://www.gravitee.io/blog/who-let-the-agent-in-securing-mcp-servers-in-production) - *Gravitee.io Blog*
+- **2026-06-18** [MCP Server Mediation: Securing Third-Party MCP Connections](https://www.gravitee.io/blog/mcp-server-mediation-securing-third-party-mcp-connections) - *Gravitee.io Blog*
+- **2026-06-29** [The Red Agent POV: Exploiting Broken Object-Level Authorization in an Airline GraphQL API](https://www.wiz.io/blog/red-agent-pov-bola) - *Wiz Blog*
+- **2026-06-17** [The Red Agent POV: How it Reasoned its Way to SSRF](https://www.wiz.io/blog/red-agent-pov-ssrf) - *Wiz Blog*
+- **2026-06-17** [Introducing the Red Agent POV Series](https://www.wiz.io/blog/red-agent-pov-series) - *Wiz Blog*
+- **2026-06-23** [OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat](https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/) - *Palo Alto Networks Unit 42*
+- **2026-06-11** [Trust No Skill: Integrity Verification for AI Agent Supply Chains](https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/) - *Palo Alto Networks Unit 42*
