@@ -99,14 +99,14 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-06-24 10:45:02 UTC*
+*Last Updated: 2026-07-01 11:20:10 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [Optimizing Resource Costs: A Practical Guide to Achieving Target Security in Verifiable Blind Quantum Computing](http://arxiv.org/abs/2606.28139v1) (2026-06-26)
+*   [Arbitrarily Loss-Tolerant Quantum Position Verification in a Single Execution](http://arxiv.org/abs/2606.25037v1) (2026-06-23)
 *   [Understanding the Stealthy BGP Hijacking Risk in the ROV Era](http://arxiv.org/abs/2606.23071v1) (2026-06-22)
 *   [HOWLR: A Client-Driven Approach to BGP Hijack Detection](http://arxiv.org/abs/2606.21845v1) (2026-06-20)
 *   [A blueprint for constructing 3-pass AKE protocols under commitment-based models](http://arxiv.org/abs/2605.23843v1) (2026-05-22)
-*   [Performance evaluation of Secure DSRC (S-DSRC) protocol for Vehicular Adhoc Networks](http://arxiv.org/abs/2606.20594v1) (2026-05-18)
-*   [Threat Modelling using Domain-Adapted Language Models: Empirical Evaluation and Insights](http://arxiv.org/abs/2605.10808v1) (2026-05-11)
 
 ### 📰 Latest News
 No telecom-specific news found this week.
