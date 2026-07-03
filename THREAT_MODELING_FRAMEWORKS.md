@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-06-26 10:54:28 UTC*
+*Last Updated: 2026-07-03 10:39:58 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models](http://arxiv.org/abs/2606.26566v1) (2026-06-25)
-*   [Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents](http://arxiv.org/abs/2606.26479v1) (2026-06-25)
-*   [What Do Deepfake Benchmarks Measure? An Audit Using Frozen Self-Supervised Representations](http://arxiv.org/abs/2606.26384v1) (2026-06-24)
-*   [Verifying Intent and Harm: A Unified Defense Against LLM-Generated Threats](http://arxiv.org/abs/2606.26377v1) (2026-06-24)
-*   [Hybrid privacy-aware semantic search: SVD-truncated document geometry and CKKS-encrypted query reranking under a restricted threat model](http://arxiv.org/abs/2606.26373v1) (2026-06-24)
+*   [LIB-TRAP: Standard Cell Library Hardware Trojan Risk Assessment and Prevention](http://arxiv.org/abs/2607.01526v1) (2026-07-01)
+*   [From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection](http://arxiv.org/abs/2607.01442v1) (2026-07-01)
+*   [MeshDNS: A Cooperative DNS Resolution Framework for Resource-Constrained IoT Networks](http://arxiv.org/abs/2607.00122v1) (2026-06-30)
+*   [Hephaestus: Toward a Cybersecurity AI Scientist](http://arxiv.org/abs/2606.29981v1) (2026-06-29)
+*   [SCARCE: Scalable Cascade Analysis for Rare-event Characterisation via Embeddings](http://arxiv.org/abs/2606.29623v1) (2026-06-28)
 
 ### 📰 Latest News
 No related news found this week.
