@@ -1,41 +1,55 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-06-29 13:06:51 UTC
+**Last Updated:** 2026-07-06 12:46:19 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access](https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/)
-**Date:** Mon, 29 Jun 2026 11:20:13 +0000
+## [Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments](https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/)
+**Date:** Mon, 06 Jul 2026 11:19:47 +0000
 
-<p>A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges.</p>
-<p>The post <a href="https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/">&#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review](https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/)
-**Date:** Mon, 29 Jun 2026 10:14:01 +0000
-
-<p>ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration.</p>
-<p>The post <a href="https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/">OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web.</p>
+<p>The post <a href="https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/">Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI](https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/)
-**Date:** Mon, 29 Jun 2026 07:45:57 +0000
+## [In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting](https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/)
+**Date:** Fri, 03 Jul 2026 15:10:42 +0000
 
-<p>The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.</p>
-<p>The post <a href="https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/">OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
-**Date:** Fri, 26 Jun 2026 15:23:46 +0000
-
-<p>AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. </p>
-<p>The post <a href="https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/">Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/">In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs](https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/)
-**Date:** Fri, 26 Jun 2026 14:30:00 +0000
+## [Agentic AI Used to Conduct Ransomware Attack via Langflow](https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/)
+**Date:** Fri, 03 Jul 2026 11:00:00 +0000
 
-<p>Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/">In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions.</p>
+<p>The post <a href="https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/">Agentic AI Used to Conduct Ransomware Attack via Langflow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution](https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/)
+**Date:** Fri, 03 Jul 2026 07:57:53 +0000
+
+<p>The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system.</p>
+<p>The post <a href="https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/">Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
+**Date:** Thu, 02 Jul 2026 15:04:22 +0000
+
+<p>Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response.</p>
+<p>The post <a href="https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/">New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
+**Date:** Thu, 02 Jul 2026 13:15:00 +0000
+
+<p>As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production.</p>
+<p>The post <a href="https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/">How to Conduct a Successful Audit of AI-Driven Software Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
+**Date:** Thu, 02 Jul 2026 12:34:29 +0000
+
+<p>Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations.</p>
+<p>The post <a href="https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/">FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
