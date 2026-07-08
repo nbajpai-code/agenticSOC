@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-07-01 11:20:10 UTC*
+*Last Updated: 2026-07-08 10:12:12 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [Optimizing Resource Costs: A Practical Guide to Achieving Target Security in Verifiable Blind Quantum Computing](http://arxiv.org/abs/2606.28139v1) (2026-06-26)
