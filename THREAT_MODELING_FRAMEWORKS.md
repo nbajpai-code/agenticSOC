@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-07-03 10:39:58 UTC*
+*Last Updated: 2026-07-10 11:07:08 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [LIB-TRAP: Standard Cell Library Hardware Trojan Risk Assessment and Prevention](http://arxiv.org/abs/2607.01526v1) (2026-07-01)
-*   [From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection](http://arxiv.org/abs/2607.01442v1) (2026-07-01)
-*   [MeshDNS: A Cooperative DNS Resolution Framework for Resource-Constrained IoT Networks](http://arxiv.org/abs/2607.00122v1) (2026-06-30)
-*   [Hephaestus: Toward a Cybersecurity AI Scientist](http://arxiv.org/abs/2606.29981v1) (2026-06-29)
-*   [SCARCE: Scalable Cascade Analysis for Rare-event Characterisation via Embeddings](http://arxiv.org/abs/2606.29623v1) (2026-06-28)
+*   [Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting](http://arxiv.org/abs/2607.07433v1) (2026-07-08)
+*   [The Power of Backdoor Absorption in Community Training](http://arxiv.org/abs/2607.06643v1) (2026-07-07)
+*   [Goodbye Equal Error Rate, Hello Local Information Disclosure: Evaluating Voice Anonymisation against 1-to-N Linkage Threats](http://arxiv.org/abs/2607.06259v1) (2026-07-07)
+*   [Poster: Mind the Gap -- Characterizing the Temporal Blind Spot Between GSB and DNS Resolution](http://arxiv.org/abs/2607.06134v1) (2026-07-07)
+*   [One Framework for All: Cross-Modal Membership Inference for Generative Models](http://arxiv.org/abs/2607.04339v1) (2026-07-05)
 
 ### 📰 Latest News
 No related news found this week.
