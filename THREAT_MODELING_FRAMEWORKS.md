@@ -61,14 +61,10 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-07-10 11:07:08 UTC*
+*Last Updated: 2026-07-17 10:04:10 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting](http://arxiv.org/abs/2607.07433v1) (2026-07-08)
-*   [The Power of Backdoor Absorption in Community Training](http://arxiv.org/abs/2607.06643v1) (2026-07-07)
-*   [Goodbye Equal Error Rate, Hello Local Information Disclosure: Evaluating Voice Anonymisation against 1-to-N Linkage Threats](http://arxiv.org/abs/2607.06259v1) (2026-07-07)
-*   [Poster: Mind the Gap -- Characterizing the Temporal Blind Spot Between GSB and DNS Resolution](http://arxiv.org/abs/2607.06134v1) (2026-07-07)
-*   [One Framework for All: Cross-Modal Membership Inference for Generative Models](http://arxiv.org/abs/2607.04339v1) (2026-07-05)
+No new threat modeling papers found this week.
 
 ### 📰 Latest News
 No related news found this week.
