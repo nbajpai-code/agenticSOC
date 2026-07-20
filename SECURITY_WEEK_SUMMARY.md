@@ -1,34 +1,41 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-07-13 12:05:04 UTC
+**Last Updated:** 2026-07-20 11:44:01 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [RabbitMQ Vulnerability Threatens Enterprise Systems](https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/)
-**Date:** Mon, 13 Jul 2026 12:00:00 +0000
+## [Ernst & Young Data Breach Affects Personal, Financial Information](https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/)
+**Date:** Mon, 20 Jul 2026 11:27:38 +0000
 
-<p>Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.</p>
-<p>The post <a href="https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/">RabbitMQ Vulnerability Threatens Enterprise Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Zimbra Patches Critical Code Execution Vulnerability](https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/)
-**Date:** Mon, 13 Jul 2026 10:03:47 +0000
-
-<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>
-<p>The post <a href="https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/">Zimbra Patches Critical Code Execution Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform.</p>
+<p>The post <a href="https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/">Ernst &#038; Young Data Breach Affects Personal, Financial Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops](https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/)
-**Date:** Fri, 10 Jul 2026 15:01:19 +0000
+## [Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool](https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/)
+**Date:** Mon, 20 Jul 2026 10:25:07 +0000
 
-<p>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/">In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>
+<p>The post <a href="https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/">Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Third US Security Expert Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/)
-**Date:** Fri, 10 Jul 2026 12:58:39 +0000
+## [Hugging Face Hacked in Autonomous AI Attack](https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/)
+**Date:** Mon, 20 Jul 2026 09:36:15 +0000
 
-<p>Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.</p>
-<p>The post <a href="https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/">Third US Security Expert Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>
+<p>The post <a href="https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/">Hugging Face Hacked in Autonomous AI Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint](https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/)
+**Date:** Fri, 17 Jul 2026 14:27:54 +0000
+
+<p>Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/">In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive](https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/)
+**Date:** Fri, 17 Jul 2026 12:11:22 +0000
+
+<p>(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up?</p>
+<p>The post <a href="https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/">Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
