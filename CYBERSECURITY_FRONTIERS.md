@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-07-14 09:49:14 UTC
+**Last Updated:** 2026-07-21 10:18:01 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,21 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Prezta: Provable Remote Execution of Zero-Trust Authorization using SNARKs](http://arxiv.org/abs/2607.11466v1) (2026-07-13)
-*   [Cross-Layer Misalignment Detection in Agent Skills: A Progressive Loading-Aware Contrastive Learning Approach](http://arxiv.org/abs/2607.10534v1) (2026-07-12)
-*   [LLM for EDA in Front-End Design: Challenges and Opportunities](http://arxiv.org/abs/2607.09616v1) (2026-07-10)
-*   [TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems](http://arxiv.org/abs/2607.09586v1) (2026-07-10)
-*   [Portable Acceleration of Learning With Errors KEMs for Post-Quantum Cryptography](http://arxiv.org/abs/2607.09541v1) (2026-07-10)
-*   [Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls](http://arxiv.org/abs/2607.09076v1) (2026-07-10)
-*   [SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets](http://arxiv.org/abs/2607.08681v1) (2026-07-09)
-*   [ASMR: Agentic Schema Generation for Ship Maintenance Report Writing](http://arxiv.org/abs/2607.08177v1) (2026-07-09)
-*   [Aleena: Alignment Agent for Research Software Engineering Collaborations](http://arxiv.org/abs/2607.08043v1) (2026-07-09)
-*   [Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting](http://arxiv.org/abs/2607.07858v1) (2026-07-08)
-*   [Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](http://arxiv.org/abs/2607.07695v1) (2026-07-08)
-*   [Towards Agentic AI Governance: A Preliminary Assessment](http://arxiv.org/abs/2607.07612v1) (2026-07-08)
-*   [Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors](http://arxiv.org/abs/2607.07368v1) (2026-07-08)
-*   [Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks](http://arxiv.org/abs/2607.07189v1) (2026-07-08)
-*   [Certifying Ghosts: How Cybersecurity AI Agents Break the EU Cyber Resilience Act](http://arxiv.org/abs/2607.07109v1) (2026-07-08)
+*   [LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications](http://arxiv.org/abs/2607.18147v1) (2026-07-20)
+*   [AI Agent Communications in AI-Native 6G Network: Status, Challenges and Opportunities](http://arxiv.org/abs/2607.18138v1) (2026-07-20)
+*   [Is Progressive Disclosure All You Need for Long-Context Agents?](http://arxiv.org/abs/2607.17598v1) (2026-07-20)
+*   [ORB5X v1.0: a performance-portable global electromagnetic gyrokinetic PIC code in C++/Kokkos built using Agentic AI](http://arxiv.org/abs/2607.17363v1) (2026-07-19)
+*   [Specifying the Delegated-Autonomy Boundary: Requirements Engineering for Agentic AI](http://arxiv.org/abs/2607.17225v1) (2026-07-19)
+*   [A Multi-Model Hybrid Defense Approach Against White-box Adversarial Attacks in Computer Network Traffic](http://arxiv.org/abs/2607.17105v1) (2026-07-19)
+*   [PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G](http://arxiv.org/abs/2607.16896v1) (2026-07-18)
+*   [From Overload to Insights: How AI Agents Can Support Scientists in Analyzing Complex Data](http://arxiv.org/abs/2607.16845v1) (2026-07-18)
+*   [Specification-Driven Development as the Foundation of AI-Native Enterprise Software Engineering](http://arxiv.org/abs/2607.16680v1) (2026-07-18)
+*   [LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization](http://arxiv.org/abs/2607.16066v1) (2026-07-17)
+*   [A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI](http://arxiv.org/abs/2607.15518v1) (2026-07-17)
+*   [SCITUS: A Multi-Jurisdictional Framework for Adapting NIST AI RMF to the Canadian Regulatory Context](http://arxiv.org/abs/2607.15051v1) (2026-07-16)
+*   [The analogue of Belinskaya's theorem for measure-preserving flows](http://arxiv.org/abs/2607.14444v1) (2026-07-16)
+*   [CausalGraphX: A Counterfactual Graph Neural Network Framework for Explainable Systemic Risk Assessment](http://arxiv.org/abs/2607.14416v1) (2026-07-15)
+*   [The Prover Is the Judge: Verified Security Software from AI Coding Agents in Ada/SPARK](http://arxiv.org/abs/2607.14340v1) (2026-07-15)
 
 ## 📰 Latest Signal (News)
-*   [Multiple Jscrambler Packages Impacted by Supply Chain Attack](https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/) - *SecurityWeek*
+*   [Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software](https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/) - *SecurityWeek*
