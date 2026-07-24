@@ -61,10 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-07-17 10:04:10 UTC*
+*Last Updated: 2026-07-24 10:22:11 UTC*
 
 ### 📄 Latest Research (Arxiv)
-No new threat modeling papers found this week.
+*   [The Chronos Vulnerability: A Taxonomy of Temporal Persistence and Memory-Based Deception in Agentic AI](http://arxiv.org/abs/2607.19433v1) (2026-07-20)
+*   [ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems](http://arxiv.org/abs/2607.19432v1) (2026-07-20)
+*   [Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing](http://arxiv.org/abs/2607.18485v1) (2026-07-20)
+*   [Do Agents Dream of False Memories? Black-box Visual Attacks on Long-term Memory in Multimodal AI Agents](http://arxiv.org/abs/2607.15657v1) (2026-07-17)
+*   [Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems](http://arxiv.org/abs/2607.14611v1) (2026-07-16)
 
 ### 📰 Latest News
-No related news found this week.
+*   [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/) (Thu, 23 Jul 2026 15:00:00 +0000)
