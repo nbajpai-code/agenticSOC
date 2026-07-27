@@ -1,11 +1,12 @@
 # Agentic AI & SOC Research Papers
 
-Last Updated: 2026-07-20 10:52:18 UTC
+Last Updated: 2026-07-27 11:21:47 UTC
 
 This list is automatically updated weekly.
 
 | Date | Title | Authors | PDF |
 |------|-------|---------|-----|
+| 2026-07-19 | [Quantifying Diversity of Thought: A Predictive Law of Weighted LLM Ensemble Lift](http://arxiv.org/abs/2607.17384v2) | Junade Ali | [PDF](https://arxiv.org/pdf/2607.17384v2) |
 | 2026-06-27 | [Cybersecurity is the True Frontier for Generative AI Success or Failure](http://arxiv.org/abs/2606.28929v1) | Edward Raff, Maor Ashkenazi, Sagar Samtani, Dav... | [PDF](https://arxiv.org/pdf/2606.28929v1) |
 | 2026-06-10 | [Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment](http://arxiv.org/abs/2606.11672v1) | Derek Yohn, Luke Flancher, Mirajul Islam, Khale... | [PDF](https://arxiv.org/pdf/2606.11672v1) |
 | 2026-05-21 | [Detecting Offensive Cyber Agents: A Detection-in-Depth Approach](http://arxiv.org/abs/2605.21956v1) | Matt Mittelsteadt, Jam Kraprayoon, Robin Staes-... | [PDF](https://arxiv.org/pdf/2605.21956v1) |
