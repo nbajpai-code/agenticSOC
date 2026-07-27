@@ -1,41 +1,41 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-07-20 11:44:01 UTC
+**Last Updated:** 2026-07-27 12:22:36 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Ernst & Young Data Breach Affects Personal, Financial Information](https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/)
-**Date:** Mon, 20 Jul 2026 11:27:38 +0000
+## [Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack](https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/)
+**Date:** Mon, 27 Jul 2026 11:29:03 +0000
 
-<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform.</p>
-<p>The post <a href="https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/">Ernst &#038; Young Data Breach Affects Personal, Financial Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool](https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/)
-**Date:** Mon, 20 Jul 2026 10:25:07 +0000
-
-<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>
-<p>The post <a href="https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/">Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.</p>
+<p>The post <a href="https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/">Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Hugging Face Hacked in Autonomous AI Attack](https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/)
-**Date:** Mon, 20 Jul 2026 09:36:15 +0000
+## [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
+**Date:** Mon, 27 Jul 2026 10:02:41 +0000
 
-<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>
-<p>The post <a href="https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/">Hugging Face Hacked in Autonomous AI Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint](https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/)
-**Date:** Fri, 17 Jul 2026 14:27:54 +0000
-
-<p>Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/">In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5.</p>
+<p>The post <a href="https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/">Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive](https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/)
-**Date:** Fri, 17 Jul 2026 12:11:22 +0000
+## [MCBS Data Breach Affects 1.2 Million Individuals](https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/)
+**Date:** Mon, 27 Jul 2026 04:51:32 +0000
 
-<p>(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up?</p>
-<p>The post <a href="https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/">Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.</p>
+<p>The post <a href="https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/">MCBS Data Breach Affects 1.2 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws](https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/)
+**Date:** Fri, 24 Jul 2026 14:20:00 +0000
+
+<p>Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/">In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [AegisAI Raises $36 Million for AI-Powered Email Security](https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/)
+**Date:** Fri, 24 Jul 2026 12:01:18 +0000
+
+<p>The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital.</p>
+<p>The post <a href="https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/">AegisAI Raises $36 Million for AI-Powered Email Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
