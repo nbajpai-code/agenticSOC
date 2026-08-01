@@ -133,3 +133,18 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-06-17** [Introducing the Red Agent POV Series](https://www.wiz.io/blog/red-agent-pov-series) - *Wiz Blog*
 - **2026-06-23** [OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat](https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/) - *Palo Alto Networks Unit 42*
 - **2026-06-11** [Trust No Skill: Integrity Verification for AI Agent Supply Chains](https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/) - *Palo Alto Networks Unit 42*
+- **2026-07-31** [MCP Credential Brokering: Keep API Keys From AI Agents](https://www.gravitee.io/blog/mcp-credential-brokering-keep-api-keys-from-ai-agents) - *Gravitee.io Blog*
+- **2026-07-28** [Op Ed: To Regulate or Not to Regulate - That is The Question](https://www.gravitee.io/blog/op-ed-to-regulate-or-not-to-regulate-that-is-the-question) - *Gravitee.io Blog*
+- **2026-07-23** [The Scariest Part of the OpenAI-Hugging Face Breach Isn't the Hack. It's How Far the Agent Got!](https://www.gravitee.io/blog/the-scariest-part-of-the-openai-hugging-face-breach-isnt-the-hack.-its-how-far-the-agent-got) - *Gravitee.io Blog*
+- **2026-07-13** [Gravitee 4.12: See Everything, Enable Everyone](https://www.gravitee.io/blog/gravitee-4.12-see-everything-enable-everyone) - *Gravitee.io Blog*
+- **2026-07-09** [First-Class Agent Identities + Self-Service Onboarding For The MCP Era](https://www.gravitee.io/blog/first-class-agent-identities-self-service-onboarding-for-the-mcp-era) - *Gravitee.io Blog*
+- **2026-07-08** [Redefining Authorization Management for the Modern Agent-First Enterprise](https://www.gravitee.io/blog/redefining-authorization-management-for-the-modern-agent-first-enterprise) - *Gravitee.io Blog*
+- **2026-07-30** [Rethinking Scanning for the AI Era: Wiz’s Agentic Code Security System](https://www.wiz.io/blog/agentic-code-security) - *Wiz Blog*
+- **2026-07-29** [The Wiz Red Agent is Now Generally Available](https://www.wiz.io/blog/wiz-red-agent-is-ga) - *Wiz Blog*
+- **2026-07-27** [Atlas: Wiz's autonomous AI Agent for vulnerability research, ranked #1 on CyberGym](https://www.wiz.io/blog/atlas-ai-vulnerability-researcher) - *Wiz Blog*
+- **2026-07-22** [Opening the Black Box: Agentless Threat Detection for Virtual Appliances](https://www.wiz.io/blog/agentless-threat-hunting-fortigate) - *Wiz Blog*
+- **2026-07-21** [Agentless Threat Detection: Illuminating Cloud Blind Spots](https://www.wiz.io/blog/agentless-visibility-uncovering-cloud-blind-spots) - *Wiz Blog*
+- **2026-07-15** [The Red Agent POV: The One Boolean That Broke a B2B Platform’s Credit System](https://www.wiz.io/blog/red-agent-pov-business-logic) - *Wiz Blog*
+- **2026-07-08** [Wiz ASM for any environment, any risk, everywhere](https://www.wiz.io/blog/wiz-asm-auto-recon) - *Wiz Blog*
+- **2026-07-02** [Build AI Security Agents with Wiz MCP](https://www.wiz.io/blog/introducing-wiz-mcp) - *Wiz Blog*
+- **2026-07-30** [Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks](https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/) - *Palo Alto Networks Unit 42*
