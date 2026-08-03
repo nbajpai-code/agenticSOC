@@ -70,3 +70,7 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 
 ## Weekly Updates (2026-05-25)
 - **2026-05-19** [From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/) - *Security News | TechCrunch*
+
+
+## Weekly Updates (2026-08-03)
+- **2026-07-30** [Okta buys AI security startup Permiso — source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/) - *Security News | TechCrunch*
