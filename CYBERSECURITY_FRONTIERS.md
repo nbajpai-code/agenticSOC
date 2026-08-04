@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-07-28 10:26:42 UTC
+**Last Updated:** 2026-08-04 10:29:01 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,23 +10,21 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [When Should Active RAG Retrieve? A Budget-Aware Evaluation of Utility, Calibration, and Cost](http://arxiv.org/abs/2607.24010v1) (2026-07-27)
-*   [Recursive Governance: A Graph-Theoretic Framework for Risk Propagation and Drift Detection in Agentic AI Systems](http://arxiv.org/abs/2607.23916v1) (2026-07-27)
-*   [Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels](http://arxiv.org/abs/2607.23438v1) (2026-07-26)
-*   [Constitutional governance for societies of AI agents in the built environment: a research agenda](http://arxiv.org/abs/2607.23336v1) (2026-07-25)
-*   [Agentic AI Orchestration of Heterogeneous Economic Models for Rapid, Multi-scenario Analysis of Energy Crises](http://arxiv.org/abs/2607.23313v1) (2026-07-25)
-*   [Practical Post-Quantum Cryptography for Bandwidth Constrained or Non-Terrestrial Networks, and Power Constrained Devices](http://arxiv.org/abs/2607.23007v1) (2026-07-25)
-*   [AEcroscopyWave: Towards Self-Driving Characterization Platforms for Agentic AI](http://arxiv.org/abs/2607.22975v1) (2026-07-25)
-*   [Building AI That Works: ESnet's Pragmatic Approach to AI-Driven Operational Excellence](http://arxiv.org/abs/2607.22948v1) (2026-07-24)
-*   [ReCon: A Resource-Constrained Benchmark for LLM-Based Cybersecurity Compliance Across Ingestion and Retrieval Pipelines](http://arxiv.org/abs/2607.22885v1) (2026-07-24)
-*   [TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI](http://arxiv.org/abs/2607.22465v2) (2026-07-24)
-*   [A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation](http://arxiv.org/abs/2607.22400v1) (2026-07-24)
-*   [Do Agent Benchmarks Measure Capability? Protocol Validity in the Age of Agentic AI](http://arxiv.org/abs/2607.22368v1) (2026-07-24)
-*   [Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads](http://arxiv.org/abs/2607.22242v1) (2026-07-24)
-*   [AI-Integrated Scientific Inquiry: A Practice-Centered Vision for Science Education](http://arxiv.org/abs/2607.21777v1) (2026-07-23)
-*   [Regulating autonomous and agentic AI](http://arxiv.org/abs/2607.21345v1) (2026-07-23)
+*   [AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](http://arxiv.org/abs/2608.02569v1) (2026-08-03)
+*   [A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI](http://arxiv.org/abs/2608.02553v1) (2026-08-03)
+*   [AI Governance for Institutional Readiness in Finance](http://arxiv.org/abs/2608.02311v1) (2026-08-03)
+*   [Measuring Post-Quantum TLS Deployment Across UK Internet Sectors](http://arxiv.org/abs/2608.02147v1) (2026-08-03)
+*   [From Information to Delegation: Mapping Human-AI Financial Decision Making](http://arxiv.org/abs/2608.02100v1) (2026-08-03)
+*   [Securing Agentic AI: From Per-Action Checks to Trajectory Assurance](http://arxiv.org/abs/2608.01558v1) (2026-08-03)
+*   [Humans Are More Diverse: Frontier LLMs Show Extreme Policies in Idealised AI Development Races](http://arxiv.org/abs/2608.01193v1) (2026-08-02)
+*   [Fighting Fire with Fire: On the Feasibility of Protecting Exercises Against AI Cheating](http://arxiv.org/abs/2608.01112v1) (2026-08-02)
+*   [From AI Technical Debt to Agentic Technical Debt: A Systematic Mapping of Root Causes and Manifestations in Agentic AI Systems](http://arxiv.org/abs/2608.01001v1) (2026-08-02)
+*   [Assuming You Knew: Fixing an Epistemic Semantics for Flow Policies Using Agentic AI](http://arxiv.org/abs/2608.00882v1) (2026-08-01)
+*   [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](http://arxiv.org/abs/2608.00794v1) (2026-08-01)
+*   [Adversarial Attacks in Multi-Agent LLM Pipelines: Unveiling Structural Vulnerabilities in Agentic AI Architectures](http://arxiv.org/abs/2608.00718v1) (2026-08-01)
+*   [Clifford Algebra Calibration Post-Quantum Cryptography](http://arxiv.org/abs/2608.00636v1) (2026-08-01)
+*   [Revibing Code from Papers: Reimplementing HCI Artifacts](http://arxiv.org/abs/2608.00450v1) (2026-08-01)
+*   [AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair](http://arxiv.org/abs/2607.29422v1) (2026-07-31)
 
 ## 📰 Latest Signal (News)
-*   [Hush Security Raises $30 Million for AI Agent Governance](https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/) - *SecurityWeek*
-*   [New GitHub, PyPI Policies Boost Supply Chain Security](https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/) - *SecurityWeek*
-*   [Nvidia and Tech Giants Launch AI Security Alliance](https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/) - *SecurityWeek*
+No recent news matching frontier topics.
