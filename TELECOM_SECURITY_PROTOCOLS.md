@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-07-29 10:34:20 UTC*
+*Last Updated: 2026-08-05 10:29:49 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [Noise Resilience of Quantum Key Distribution Protocols Secured Against Independent Attacks With One-Way Communication](http://arxiv.org/abs/2607.11857v1) (2026-07-13)
