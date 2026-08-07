@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-07-31 10:42:20 UTC*
+*Last Updated: 2026-08-07 09:02:38 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Emerging Challenges in Threat Modeling for GenAI-Augmented Systems: A View from the Trenches](http://arxiv.org/abs/2607.28431v1) (2026-07-30)
-*   [Strategy Phasing of Cyber Attacks on Digital Substations](http://arxiv.org/abs/2607.27661v1) (2026-07-30)
-*   [Revisiting the Adversarial Robustness of Graph-Based Traffic Forecasting](http://arxiv.org/abs/2607.27604v1) (2026-07-30)
-*   [ThreatForest: Multi-Agent Attack Tree Generation with Pluggable TTP Framework Mapping](http://arxiv.org/abs/2607.27528v1) (2026-07-29)
-*   [Send and Pretend: Exploiting Transcript Consistency Issues in End-to-End Encrypted Group Chats](http://arxiv.org/abs/2607.27510v1) (2026-07-29)
+*   [An End-to-End Threat Model for the Quantum-as-a-Service Pipeline](http://arxiv.org/abs/2608.05836v1) (2026-08-06)
+*   [LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents](http://arxiv.org/abs/2608.04741v1) (2026-08-05)
+*   [Breadcrumbing Search Agents](http://arxiv.org/abs/2608.04565v1) (2026-08-05)
+*   [Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs](http://arxiv.org/abs/2608.04501v1) (2026-08-05)
+*   [MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents](http://arxiv.org/abs/2608.03844v1) (2026-08-04)
 
 ### 📰 Latest News
 No related news found this week.
