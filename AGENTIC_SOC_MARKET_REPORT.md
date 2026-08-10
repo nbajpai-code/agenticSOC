@@ -74,3 +74,8 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 
 ## Weekly Updates (2026-08-03)
 - **2026-07-30** [Okta buys AI security startup Permiso — source says for about $200M](https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/) - *Security News | TechCrunch*
+
+
+## Weekly Updates (2026-08-10)
+- **2026-08-10** [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html) - *The Hacker News*
+- **2026-08-05** [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html) - *The Hacker News*
