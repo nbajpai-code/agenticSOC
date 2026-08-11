@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-08-04 10:29:01 UTC
+**Last Updated:** 2026-08-11 08:44:46 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,23 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](http://arxiv.org/abs/2608.02569v1) (2026-08-03)
-*   [A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI](http://arxiv.org/abs/2608.02553v1) (2026-08-03)
-*   [AI Governance for Institutional Readiness in Finance](http://arxiv.org/abs/2608.02311v1) (2026-08-03)
-*   [Measuring Post-Quantum TLS Deployment Across UK Internet Sectors](http://arxiv.org/abs/2608.02147v1) (2026-08-03)
-*   [From Information to Delegation: Mapping Human-AI Financial Decision Making](http://arxiv.org/abs/2608.02100v1) (2026-08-03)
-*   [Securing Agentic AI: From Per-Action Checks to Trajectory Assurance](http://arxiv.org/abs/2608.01558v1) (2026-08-03)
-*   [Humans Are More Diverse: Frontier LLMs Show Extreme Policies in Idealised AI Development Races](http://arxiv.org/abs/2608.01193v1) (2026-08-02)
-*   [Fighting Fire with Fire: On the Feasibility of Protecting Exercises Against AI Cheating](http://arxiv.org/abs/2608.01112v1) (2026-08-02)
-*   [From AI Technical Debt to Agentic Technical Debt: A Systematic Mapping of Root Causes and Manifestations in Agentic AI Systems](http://arxiv.org/abs/2608.01001v1) (2026-08-02)
-*   [Assuming You Knew: Fixing an Epistemic Semantics for Flow Policies Using Agentic AI](http://arxiv.org/abs/2608.00882v1) (2026-08-01)
-*   [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](http://arxiv.org/abs/2608.00794v1) (2026-08-01)
-*   [Adversarial Attacks in Multi-Agent LLM Pipelines: Unveiling Structural Vulnerabilities in Agentic AI Architectures](http://arxiv.org/abs/2608.00718v1) (2026-08-01)
-*   [Clifford Algebra Calibration Post-Quantum Cryptography](http://arxiv.org/abs/2608.00636v1) (2026-08-01)
-*   [Revibing Code from Papers: Reimplementing HCI Artifacts](http://arxiv.org/abs/2608.00450v1) (2026-08-01)
-*   [AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair](http://arxiv.org/abs/2607.29422v1) (2026-07-31)
+*   [Multi-Agent AI Safety as an Institutional Design Problem](http://arxiv.org/abs/2608.09828v1) (2026-08-10)
+*   [Defining Decentralization: An Ontological Perspective](http://arxiv.org/abs/2608.09748v1) (2026-08-10)
+*   [Physically Constrained Agentic AI for Energy Scheduling](http://arxiv.org/abs/2608.09029v1) (2026-08-10)
+*   [AI-AI co-creation outperforms human pairs in creative tasks](http://arxiv.org/abs/2608.09023v1) (2026-08-10)
+*   [Agentic AI-powered flexible fiber-bundle endoscopy for high-resolution NIR-II fluorescence imaging in vivo](http://arxiv.org/abs/2608.08402v1) (2026-08-09)
+*   [Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform forHigh Dose Rate (HDR) Brachytherapy](http://arxiv.org/abs/2608.08163v1) (2026-08-08)
+*   [AI as a Democratizing Force in Indie Game Development](http://arxiv.org/abs/2608.07825v1) (2026-08-07)
+*   [An Agentic AI Framework Overcomes Fundamental Limitations of Large Language Models for Glaucoma Detection from Fundus Photography](http://arxiv.org/abs/2608.07651v1) (2026-08-07)
+*   [Toward a Causal Data Management Ecosystem for Decision Making and Agentic AI](http://arxiv.org/abs/2608.07214v1) (2026-08-07)
+*   [PHOENIX: Fine-Tuned SLM-Powered Autonomous Satellite Lifetime Extension via Predictive Self-Healing and Multi-Agent AI Recovery](http://arxiv.org/abs/2608.07126v1) (2026-08-07)
+*   [From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems](http://arxiv.org/abs/2608.07627v1) (2026-08-07)
+*   [Agentic Artificial Intelligence for Reproducible Human-in-the-Loop Environmental Health Research](http://arxiv.org/abs/2608.06771v1) (2026-08-07)
+*   [Agentic AI: User Empowerment or Enclosure?](http://arxiv.org/abs/2608.06510v1) (2026-08-06)
+*   [QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction](http://arxiv.org/abs/2608.06294v1) (2026-08-06)
+*   [Continual Learning in Transition](http://arxiv.org/abs/2608.06216v1) (2026-08-06)
 
 ## 📰 Latest Signal (News)
-No recent news matching frontier topics.
+*   [OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns](https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/) - *SecurityWeek*
+*   [Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds](https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/) - *SecurityWeek*
+*   [‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad](https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/) - *SecurityWeek*
