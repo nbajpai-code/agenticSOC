@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-08-07 09:02:38 UTC*
+*Last Updated: 2026-08-14 09:10:24 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [Understanding Backdoor Vulnerabilities in Vertical Federated Learning: The Gap Between Research and Practice](http://arxiv.org/abs/2608.12962v1) (2026-08-13)
+*   [DeepFreqMark: End-To-End Learnable Frequency-Domain Watermarking with Spherical Attack Simulation for Latent Diffusion Models](http://arxiv.org/abs/2608.08999v1) (2026-08-10)
+*   [Model Confidence Under Answer-Preserving Attacks: An Informativeness-Manipulability Frontier](http://arxiv.org/abs/2608.06571v1) (2026-08-06)
+*   [Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning](http://arxiv.org/abs/2608.06469v1) (2026-08-06)
 *   [An End-to-End Threat Model for the Quantum-as-a-Service Pipeline](http://arxiv.org/abs/2608.05836v1) (2026-08-06)
-*   [LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents](http://arxiv.org/abs/2608.04741v1) (2026-08-05)
-*   [Breadcrumbing Search Agents](http://arxiv.org/abs/2608.04565v1) (2026-08-05)
-*   [Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs](http://arxiv.org/abs/2608.04501v1) (2026-08-05)
-*   [MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents](http://arxiv.org/abs/2608.03844v1) (2026-08-04)
 
 ### 📰 Latest News
 No related news found this week.
