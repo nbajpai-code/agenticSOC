@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-08-14 09:10:24 UTC*
+*Last Updated: 2026-08-21 08:44:11 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Understanding Backdoor Vulnerabilities in Vertical Federated Learning: The Gap Between Research and Practice](http://arxiv.org/abs/2608.12962v1) (2026-08-13)
-*   [DeepFreqMark: End-To-End Learnable Frequency-Domain Watermarking with Spherical Attack Simulation for Latent Diffusion Models](http://arxiv.org/abs/2608.08999v1) (2026-08-10)
-*   [Model Confidence Under Answer-Preserving Attacks: An Informativeness-Manipulability Frontier](http://arxiv.org/abs/2608.06571v1) (2026-08-06)
-*   [Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning](http://arxiv.org/abs/2608.06469v1) (2026-08-06)
-*   [An End-to-End Threat Model for the Quantum-as-a-Service Pipeline](http://arxiv.org/abs/2608.05836v1) (2026-08-06)
+*   [Securing Filesystems for Confidential Computing](http://arxiv.org/abs/2608.19924v1) (2026-08-20)
+*   [Catastrophic Learning: A New Attack Vector on Continual Learning Networks](http://arxiv.org/abs/2608.18976v1) (2026-08-19)
+*   [CryptDough: A Unified Analytics Engine for Secure Multiparty Computation](http://arxiv.org/abs/2608.17529v1) (2026-08-18)
+*   [When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling](http://arxiv.org/abs/2608.17275v1) (2026-08-18)
+*   [Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs](http://arxiv.org/abs/2608.16391v1) (2026-08-17)
 
 ### 📰 Latest News
 No related news found this week.
