@@ -1,41 +1,41 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-08-17 09:39:48 UTC
+**Last Updated:** 2026-08-24 09:45:53 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [40,000 Impacted by SafePal Data Breach](https://www.securityweek.com/40000-impacted-by-safepal-data-breach/)
-**Date:** Mon, 17 Aug 2026 09:37:06 +0000
+## [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
+**Date:** Sat, 22 Aug 2026 08:30:00 +0000
 
-<p>Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information.</p>
-<p>The post <a href="https://www.securityweek.com/40000-impacted-by-safepal-data-breach/">40,000 Impacted by SafePal Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Recent macOS Screen Sharing Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/)
-**Date:** Mon, 17 Aug 2026 08:47:38 +0000
-
-<p>Threat actors gained root access to the vulnerable systems and deployed a Monero miner.</p>
-<p>The post <a href="https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/">Recent macOS Screen Sharing Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware.</p>
+<p>The post <a href="https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/">Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure](https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/)
-**Date:** Mon, 17 Aug 2026 08:13:07 +0000
+## [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
+**Date:** Fri, 21 Aug 2026 15:11:16 +0000
 
-<p>The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.</p>
-<p>The post <a href="https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/">Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
-**Date:** Fri, 14 Aug 2026 11:57:51 +0000
-
-<p>Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/">In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/">In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Trivy, Not LiteLLM Behind the 2,500 Org Compromise](https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/)
-**Date:** Fri, 14 Aug 2026 11:35:23 +0000
+## [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
+**Date:** Fri, 21 Aug 2026 14:34:05 +0000
 
-<p>Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published.</p>
-<p>The post <a href="https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/">Trivy, Not LiteLLM Behind the 2,500 Org Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment.</p>
+<p>The post <a href="https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/">Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
+**Date:** Fri, 21 Aug 2026 12:26:07 +0000
+
+<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>
+<p>The post <a href="https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/">Critical Isolated-vm Vulnerability Leads to RCE on Host</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
+**Date:** Fri, 21 Aug 2026 09:23:18 +0000
+
+<p>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.</p>
+<p>The post <a href="https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/">Rust Supply Chain Attack Linked to North Korean Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
