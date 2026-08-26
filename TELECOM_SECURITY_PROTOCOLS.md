@@ -99,14 +99,14 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-08-19 08:31:40 UTC*
+*Last Updated: 2026-08-26 08:37:22 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [SeriCrypt: An LLM-Driven Context-Aware Serialization Framework for Cryptographic Protocols](http://arxiv.org/abs/2608.24498v1) (2026-08-25)
 *   [Quantum-Safe Web Service Architecture Using Time-Based One-Time Passwords](http://arxiv.org/abs/2608.16961v1) (2026-08-17)
 *   [Phase-error estimation for quantum key distribution with leaky receivers](http://arxiv.org/abs/2608.09674v1) (2026-08-10)
 *   [Beyond the Quantum Promise: A Security Analysis of Classical Control in Quantum Key Distribution](http://arxiv.org/abs/2608.07626v1) (2026-08-07)
 *   [Noise Resilience of Quantum Key Distribution Protocols Secured Against Independent Attacks With One-Way Communication](http://arxiv.org/abs/2607.11857v1) (2026-07-13)
-*   [Optimizing Resource Costs: A Practical Guide to Achieving Target Security in Verifiable Blind Quantum Computing](http://arxiv.org/abs/2606.28139v1) (2026-06-26)
 
 ### 📰 Latest News
 No telecom-specific news found this week.
