@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-08-21 08:44:11 UTC*
+*Last Updated: 2026-08-28 20:04:52 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Securing Filesystems for Confidential Computing](http://arxiv.org/abs/2608.19924v1) (2026-08-20)
-*   [Catastrophic Learning: A New Attack Vector on Continual Learning Networks](http://arxiv.org/abs/2608.18976v1) (2026-08-19)
-*   [CryptDough: A Unified Analytics Engine for Secure Multiparty Computation](http://arxiv.org/abs/2608.17529v1) (2026-08-18)
-*   [When Agents Act on Web3: An Attack-Surface Survey of MCP, Skills, and Tool Calling](http://arxiv.org/abs/2608.17275v1) (2026-08-18)
-*   [Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs](http://arxiv.org/abs/2608.16391v1) (2026-08-17)
+*   [MeMark: Membrane-Space Watermarking for Spiking Neural Networks](http://arxiv.org/abs/2608.25738v1) (2026-08-26)
+*   [Automotive HSMs - Architectural Challenges and Security Implications](http://arxiv.org/abs/2608.25216v1) (2026-08-25)
+*   [CA-less Mutual Co-Signing of Documents over a Unidirectional Visual Channel with Transported Hardware Attestation](http://arxiv.org/abs/2608.25144v1) (2026-08-25)
+*   [Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation](http://arxiv.org/abs/2608.24977v2) (2026-08-25)
+*   [Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems](http://arxiv.org/abs/2608.24069v1) (2026-08-25)
 
 ### 📰 Latest News
 No related news found this week.
