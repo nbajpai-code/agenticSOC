@@ -1,41 +1,48 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-08-24 09:45:53 UTC
+**Last Updated:** 2026-08-31 16:44:05 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
-**Date:** Sat, 22 Aug 2026 08:30:00 +0000
+## [Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit](https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/)
+**Date:** Mon, 31 Aug 2026 14:32:34 +0000
 
-<p>The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware.</p>
-<p>The post <a href="https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/">Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
-**Date:** Fri, 21 Aug 2026 15:11:16 +0000
-
-<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/">In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product.</p>
+<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/">Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
-**Date:** Fri, 21 Aug 2026 14:34:05 +0000
+## [What the Hugging Face Incident Teaches Security Leaders About AI Agent Access](https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/)
+**Date:** Mon, 31 Aug 2026 12:15:00 +0000
 
-<p>Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment.</p>
-<p>The post <a href="https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/">Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
-**Date:** Fri, 21 Aug 2026 12:26:07 +0000
-
-<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>
-<p>The post <a href="https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/">Critical Isolated-vm Vulnerability Leads to RCE on Host</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Security teams must treat autonomous agents as highly privileged identities.</p>
+<p>The post <a href="https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/">What the Hugging Face Incident Teaches Security Leaders About AI Agent Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
-**Date:** Fri, 21 Aug 2026 09:23:18 +0000
+## [Anthropic Warns Claude Users of Infostealer Malware Infections](https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/)
+**Date:** Mon, 31 Aug 2026 12:11:58 +0000
 
-<p>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.</p>
-<p>The post <a href="https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/">Rust Supply Chain Attack Linked to North Korean Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The AI giant is logging customers out of their accounts and removing payment data to prevent unauthorized Claude usage.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/">Anthropic Warns Claude Users of Infostealer Malware Infections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/)
+**Date:** Mon, 31 Aug 2026 11:24:17 +0000
+
+<p>Named KindaRails2Shell, the arbitrary file read flaw allows attackers to extract secrets and execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/">Critical Ruby on Rails Vulnerability in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’](https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/)
+**Date:** Mon, 31 Aug 2026 09:07:01 +0000
+
+<p>The ruling is part of Anthropic's legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year.</p>
+<p>The post <a href="https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/">Judge Says Pentagon&#8217;s Measures Against Anthropic Were &#8216;Illegal and Baseless&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Berlin Won’t Pay Extortion Group Claiming Data Theft](https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/)
+**Date:** Mon, 31 Aug 2026 08:49:36 +0000
+
+<p>The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials.</p>
+<p>The post <a href="https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/">Berlin Won’t Pay Extortion Group Claiming Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
