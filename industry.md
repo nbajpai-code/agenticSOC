@@ -148,3 +148,12 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-07-08** [Wiz ASM for any environment, any risk, everywhere](https://www.wiz.io/blog/wiz-asm-auto-recon) - *Wiz Blog*
 - **2026-07-02** [Build AI Security Agents with Wiz MCP](https://www.wiz.io/blog/introducing-wiz-mcp) - *Wiz Blog*
 - **2026-07-30** [Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks](https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/) - *Palo Alto Networks Unit 42*
+- **2026-08-20** [How Composite MCP Servers Cut Agent Token Burn by 67%](https://www.gravitee.io/blog/the-cheapest-token-is-the-one-you-never-send) - *Gravitee.io Blog*
+- **2026-08-17** [Gravitee in Gartner Market Overview for AI Agent Management Platforms](https://www.gravitee.io/blog/gartner-market-overview-for-ai-agent-management-platforms) - *Gravitee.io Blog*
+- **2026-08-14** [How to Secure the GitHub MCP Server with Gravitee](https://www.gravitee.io/blog/how-to-secure-the-github-mcp-server-with-gravitee) - *Gravitee.io Blog*
+- **2026-08-14** [v2 to v4 Migration: Why MCP and Agents Only Live on v4](https://www.gravitee.io/blog/v2-to-v4-migration-mcp-and-agents-only-live-on-v4) - *Gravitee.io Blog*
+- **2026-08-13** [Scaling AI Agents: Key Takeaways from the Model Context Protocol (MCP) Specification Release](https://www.gravitee.io/blog/scaling-ai-agents-key-takeaways-from-the-model-context-protocol-mcp-specification-release) - *Gravitee.io Blog*
+- **2026-08-27** [From Concept to Context Engine: How Wiz Built AI-Powered Data Discovery](https://www.wiz.io/blog/bucket-scanner-to-context-engine) - *Wiz Blog*
+- **2026-08-17** [Wiz Red Agent Finds Its Way Into Snowflake’s Internal Jira Through a Flaw in a GitHub Copilot–Assisted PR](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) - *Wiz Blog*
+- **2026-08-25** [The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution](https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/) - *Palo Alto Networks Unit 42*
+- **2026-08-04** [The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software](https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/) - *Palo Alto Networks Unit 42*
