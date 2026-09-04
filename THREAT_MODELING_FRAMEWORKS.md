@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-08-28 20:04:52 UTC*
+*Last Updated: 2026-09-04 12:35:34 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [MeMark: Membrane-Space Watermarking for Spiking Neural Networks](http://arxiv.org/abs/2608.25738v1) (2026-08-26)
-*   [Automotive HSMs - Architectural Challenges and Security Implications](http://arxiv.org/abs/2608.25216v1) (2026-08-25)
-*   [CA-less Mutual Co-Signing of Documents over a Unidirectional Visual Channel with Transported Hardware Attestation](http://arxiv.org/abs/2608.25144v1) (2026-08-25)
-*   [Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation](http://arxiv.org/abs/2608.24977v2) (2026-08-25)
-*   [Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems](http://arxiv.org/abs/2608.24069v1) (2026-08-25)
+*   [A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors](http://arxiv.org/abs/2609.03884v1) (2026-09-03)
+*   [Beyond the Trust Boundary: A Critical Reassessment of the FIDO2 Threat Model](http://arxiv.org/abs/2609.03789v1) (2026-09-03)
+*   [InfraPatch: Cross-Task Targeted Grayscale Patch Attacks on Infrared-Adapted Vision-Language Models](http://arxiv.org/abs/2609.02233v1) (2026-09-02)
+*   [PrivateHub: Contrastive Diffusion Model for Private Sensor-Intensive Environment Data Generation](http://arxiv.org/abs/2609.02958v1) (2026-09-02)
+*   [Optimizing Byzantine Node Placement in Decentralized Federated Learning](http://arxiv.org/abs/2609.01495v1) (2026-09-01)
 
 ### 📰 Latest News
 No related news found this week.
