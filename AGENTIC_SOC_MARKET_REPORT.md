@@ -79,3 +79,7 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 ## Weekly Updates (2026-08-10)
 - **2026-08-10** [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html) - *The Hacker News*
 - **2026-08-05** [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html) - *The Hacker News*
+
+
+## Weekly Updates (2026-09-07)
+- **2026-09-01** [Attackers Steal METR API Key and Consume AI Credits Worth About $600,000](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html) - *The Hacker News*
