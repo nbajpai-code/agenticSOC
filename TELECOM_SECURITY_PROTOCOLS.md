@@ -99,14 +99,14 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-09-02 12:29:24 UTC*
+*Last Updated: 2026-09-09 12:41:05 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [Cat-Code-Protected Controlled Quantum Communication via Non-Local CNOT Gates over Star Quantum Networks](http://arxiv.org/abs/2609.07376v1) (2026-09-07)
 *   [BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering](http://arxiv.org/abs/2608.25165v1) (2026-08-25)
 *   [SeriCrypt: An LLM-Driven Context-Aware Serialization Framework for Cryptographic Protocols](http://arxiv.org/abs/2608.24498v1) (2026-08-25)
 *   [Quantum-Safe Web Service Architecture Using Time-Based One-Time Passwords](http://arxiv.org/abs/2608.16961v1) (2026-08-17)
 *   [Phase-error estimation for quantum key distribution with leaky receivers](http://arxiv.org/abs/2608.09674v1) (2026-08-10)
-*   [Beyond the Quantum Promise: A Security Analysis of Classical Control in Quantum Key Distribution](http://arxiv.org/abs/2608.07626v1) (2026-08-07)
 
 ### 📰 Latest News
-*   [Malicious Virtualizor Update Served via BGP Hijacking](https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/) (Wed, 02 Sep 2026 11:31:36 +0000)
+No telecom-specific news found this week.
