@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-09-04 12:35:34 UTC*
+*Last Updated: 2026-09-11 12:41:41 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors](http://arxiv.org/abs/2609.03884v1) (2026-09-03)
-*   [Beyond the Trust Boundary: A Critical Reassessment of the FIDO2 Threat Model](http://arxiv.org/abs/2609.03789v1) (2026-09-03)
-*   [InfraPatch: Cross-Task Targeted Grayscale Patch Attacks on Infrared-Adapted Vision-Language Models](http://arxiv.org/abs/2609.02233v1) (2026-09-02)
-*   [PrivateHub: Contrastive Diffusion Model for Private Sensor-Intensive Environment Data Generation](http://arxiv.org/abs/2609.02958v1) (2026-09-02)
-*   [Optimizing Byzantine Node Placement in Decentralized Federated Learning](http://arxiv.org/abs/2609.01495v1) (2026-09-01)
+*   [Towards Tackling Application Logic Flaws through Autonomous Formal-Logic Modeling and Automated Reasoning](http://arxiv.org/abs/2609.10537v1) (2026-09-09)
+*   [AXON: A ROS 2 RMW with Shared-Memory/QUIC Transport and QKD/ML-KEM Key Establishment](http://arxiv.org/abs/2609.10024v1) (2026-09-09)
+*   [SoK: Privacy Attacks on Machine Learning via Explainable AI](http://arxiv.org/abs/2609.10627v1) (2026-09-09)
+*   [Distributed Physical Layer Authentication and Collaborative RSMA in Non-Terrestrial Networks via Graph Reinforcement Learning](http://arxiv.org/abs/2609.09475v1) (2026-09-08)
+*   [Playing Whack-a-Mole with misconceptions about memorization, extraction, and copyright](http://arxiv.org/abs/2609.09320v1) (2026-09-08)
 
 ### 📰 Latest News
 No related news found this week.
