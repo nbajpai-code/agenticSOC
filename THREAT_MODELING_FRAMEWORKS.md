@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-09-11 12:41:41 UTC*
+*Last Updated: 2026-09-18 12:48:20 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Towards Tackling Application Logic Flaws through Autonomous Formal-Logic Modeling and Automated Reasoning](http://arxiv.org/abs/2609.10537v1) (2026-09-09)
-*   [AXON: A ROS 2 RMW with Shared-Memory/QUIC Transport and QKD/ML-KEM Key Establishment](http://arxiv.org/abs/2609.10024v1) (2026-09-09)
-*   [SoK: Privacy Attacks on Machine Learning via Explainable AI](http://arxiv.org/abs/2609.10627v1) (2026-09-09)
-*   [Distributed Physical Layer Authentication and Collaborative RSMA in Non-Terrestrial Networks via Graph Reinforcement Learning](http://arxiv.org/abs/2609.09475v1) (2026-09-08)
-*   [Playing Whack-a-Mole with misconceptions about memorization, extraction, and copyright](http://arxiv.org/abs/2609.09320v1) (2026-09-08)
+*   [A Security Risk Assessment Framework for AI-Powered Development Tools](http://arxiv.org/abs/2609.18658v1) (2026-09-16)
+*   [Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot](http://arxiv.org/abs/2609.18518v1) (2026-09-16)
+*   [PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs](http://arxiv.org/abs/2609.18120v1) (2026-09-16)
+*   [State Without a Landlord: An Architecture Proposal for Peer-to-Peer Replication of Durable Workflow State](http://arxiv.org/abs/2609.17645v1) (2026-09-15)
+*   [The MAL Simulator: Cyber Operations Simulation based on Attack & Defense Graphs](http://arxiv.org/abs/2609.16563v1) (2026-09-15)
 
 ### 📰 Latest News
 No related news found this week.
