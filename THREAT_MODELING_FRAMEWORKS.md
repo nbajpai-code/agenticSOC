@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-09-18 12:48:20 UTC*
+*Last Updated: 2026-09-25 13:25:16 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [A Security Risk Assessment Framework for AI-Powered Development Tools](http://arxiv.org/abs/2609.18658v1) (2026-09-16)
-*   [Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot](http://arxiv.org/abs/2609.18518v1) (2026-09-16)
-*   [PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs](http://arxiv.org/abs/2609.18120v1) (2026-09-16)
-*   [State Without a Landlord: An Architecture Proposal for Peer-to-Peer Replication of Durable Workflow State](http://arxiv.org/abs/2609.17645v1) (2026-09-15)
-*   [The MAL Simulator: Cyber Operations Simulation based on Attack & Defense Graphs](http://arxiv.org/abs/2609.16563v1) (2026-09-15)
+*   [AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition](http://arxiv.org/abs/2609.28936v1) (2026-09-24)
+*   [On the Effectiveness of Kernel-Level Evidence for Agent Security](http://arxiv.org/abs/2609.28915v1) (2026-09-24)
+*   [Contraction and Statistical Inference under Privacy for Uniformly Bounded Distributions](http://arxiv.org/abs/2609.28297v1) (2026-09-23)
+*   [SoK: You Find What You Seek: Rethinking Oracles, Guidance, and Input Generation in Hardware Fuzzing](http://arxiv.org/abs/2609.27300v1) (2026-09-23)
+*   [Reinforcement Learning Inspired Black-box Adversarial Attacks for Computer Vision](http://arxiv.org/abs/2609.24249v1) (2026-09-21)
 
 ### 📰 Latest News
 No related news found this week.
