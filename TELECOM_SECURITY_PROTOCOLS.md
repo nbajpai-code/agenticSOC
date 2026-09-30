@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-09-23 13:18:03 UTC*
+*Last Updated: 2026-09-30 14:32:36 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [Transcript-Bound Combiners for Downgrade-Resilient Hybrid Post-Quantum Key Establishment: Definition, Proof, and Embedded-Device Cost](http://arxiv.org/abs/2609.21273v1) (2026-09-18)
