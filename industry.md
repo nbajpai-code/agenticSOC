@@ -157,3 +157,10 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-08-17** [Wiz Red Agent Finds Its Way Into Snowflake’s Internal Jira Through a Flaw in a GitHub Copilot–Assisted PR](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) - *Wiz Blog*
 - **2026-08-25** [The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution](https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/) - *Palo Alto Networks Unit 42*
 - **2026-08-04** [The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software](https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/) - *Palo Alto Networks Unit 42*
+- **2026-09-29** [The Blue Agent POV: Investigating Multi-Platform Data Exfiltration Across AWS and GitHub](https://www.wiz.io/blog/blue-agent-data-exfiltration-investigation) - *Wiz Blog*
+- **2026-09-28** [Introducing the Wiz Partner Alliance Managed Service Provider Program](https://www.wiz.io/blog/introducing-wiz-partner-alliance-managed-service-provider-program) - *Wiz Blog*
+- **2026-09-22** [Growing the WIN AI Ecosystem with Agent Integrations](https://www.wiz.io/blog/wiz-mcp-agent-integrations) - *Wiz Blog*
+- **2026-09-17** [Building an AI Detection Engine That Understands Agent Intent](https://www.wiz.io/blog/building-an-ai-detection-engine-for-agent-intent) - *Wiz Blog*
+- **2026-09-29** [OperTraitors: How Kubernetes Operators Betray Your Security Posture](https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/) - *Palo Alto Networks Unit 42*
+- **2026-09-18** [A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity](https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/) - *Palo Alto Networks Unit 42*
+- **2026-09-02** [An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation](https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/) - *Palo Alto Networks Unit 42*
