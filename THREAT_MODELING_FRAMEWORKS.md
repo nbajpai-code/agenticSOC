@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-09-25 13:25:16 UTC*
+*Last Updated: 2026-10-02 14:34:25 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [AnomaSense: Anomaly-based Sensor Activation for Fine-Grained Human Activity Recognition](http://arxiv.org/abs/2609.28936v1) (2026-09-24)
-*   [On the Effectiveness of Kernel-Level Evidence for Agent Security](http://arxiv.org/abs/2609.28915v1) (2026-09-24)
-*   [Contraction and Statistical Inference under Privacy for Uniformly Bounded Distributions](http://arxiv.org/abs/2609.28297v1) (2026-09-23)
-*   [SoK: You Find What You Seek: Rethinking Oracles, Guidance, and Input Generation in Hardware Fuzzing](http://arxiv.org/abs/2609.27300v1) (2026-09-23)
-*   [Reinforcement Learning Inspired Black-box Adversarial Attacks for Computer Vision](http://arxiv.org/abs/2609.24249v1) (2026-09-21)
+*   [Don't Waste the Noise: Importance-Guided Perturbation Allocation under Joint Global and Local Constraints](http://arxiv.org/abs/2610.00861v1) (2026-10-01)
+*   [Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks](http://arxiv.org/abs/2610.00430v1) (2026-09-30)
+*   [TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks](http://arxiv.org/abs/2609.39969v1) (2026-09-30)
+*   [PassGPT+: Leveraging Linguistic Priors for Password Modeling](http://arxiv.org/abs/2609.39880v1) (2026-09-30)
+*   [XIM: The XDC Interledger Messaging Protocol](http://arxiv.org/abs/2609.39310v1) (2026-09-30)
 
 ### 📰 Latest News
 No related news found this week.
