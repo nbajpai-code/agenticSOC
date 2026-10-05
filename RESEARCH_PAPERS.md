@@ -1,6 +1,6 @@
 # Agentic AI & SOC Research Papers
 
-Last Updated: 2026-09-28 16:30:29 UTC
+Last Updated: 2026-10-05 16:51:30 UTC
 
 This list is automatically updated weekly.
 
@@ -8,9 +8,9 @@ This list is automatically updated weekly.
 |------|-------|---------|-----|
 | 2026-08-26 | [How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation](http://arxiv.org/abs/2608.26237v1) | Kimberly Milner, Minghao Shao, Nanda Rani, Haor... | [PDF](https://arxiv.org/pdf/2608.26237v1) |
 | 2026-08-20 | [Agentic AI Cybersecurity Framework](http://arxiv.org/abs/2609.27856v1) | Victor Kebande | [PDF](https://arxiv.org/pdf/2609.27856v1) |
-| 2026-08-11 | [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark](http://arxiv.org/abs/2608.11469v1) | Jeremy Spence, Nicholas Assaderaghi, Jinhao Zhu... | [PDF](https://arxiv.org/pdf/2608.11469v1) |
+| 2026-08-11 | [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark](http://arxiv.org/abs/2608.11469v2) | Jeremy Spence, Nicholas Assaderaghi, Feng Xiao,... | [PDF](https://arxiv.org/pdf/2608.11469v2) |
 | 2026-08-03 | [MITRE-SAGE: A Multi-Agent Cybersecurity Question-Answering Model](http://arxiv.org/abs/2608.16921v3) | Ali Habibzadeh, Farid Feyzi, Reza Ebrahimi Atani | [PDF](https://arxiv.org/pdf/2608.16921v3) |
-| 2026-07-19 | [Quantifying Diversity of Thought: A Predictive Law of Weighted LLM Ensemble Lift](http://arxiv.org/abs/2607.17384v2) | Junade Ali | [PDF](https://arxiv.org/pdf/2607.17384v2) |
+| 2026-07-19 | [Quantifying Diversity of Thought: A Predictive Law of Weighted LLM Ensemble Lift](http://arxiv.org/abs/2607.17384v3) | Junade Ali | [PDF](https://arxiv.org/pdf/2607.17384v3) |
 | 2026-06-27 | [Cybersecurity is the True Frontier for Generative AI Success or Failure](http://arxiv.org/abs/2606.28929v1) | Edward Raff, Maor Ashkenazi, Sagar Samtani, Dav... | [PDF](https://arxiv.org/pdf/2606.28929v1) |
 | 2026-06-10 | [Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment](http://arxiv.org/abs/2606.11672v1) | Derek Yohn, Luke Flancher, Mirajul Islam, Khale... | [PDF](https://arxiv.org/pdf/2606.11672v1) |
 | 2026-05-21 | [Detecting Offensive Cyber Agents: A Detection-in-Depth Approach](http://arxiv.org/abs/2605.21956v1) | Matt Mittelsteadt, Jam Kraprayoon, Robin Staes-... | [PDF](https://arxiv.org/pdf/2605.21956v1) |
