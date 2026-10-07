@@ -99,14 +99,14 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-09-30 14:32:36 UTC*
+*Last Updated: 2026-10-07 15:01:17 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [Quantum Machine Learning Protection of Military Quantum Key Distribution Against Cryptographically Camouflaged Attacks](http://arxiv.org/abs/2610.04543v1) (2026-10-03)
+*   [Device-Independent Conference Keys from Parity-Extended Games](http://arxiv.org/abs/2610.01025v1) (2026-10-01)
 *   [Transcript-Bound Combiners for Downgrade-Resilient Hybrid Post-Quantum Key Establishment: Definition, Proof, and Embedded-Device Cost](http://arxiv.org/abs/2609.21273v1) (2026-09-18)
 *   [A2ABreak: Systematic Security Analysis of the A2A Protocol](http://arxiv.org/abs/2609.10871v1) (2026-09-09)
 *   [Scalable Composition of Byzantine Agreements under Reorder Attacks](http://arxiv.org/abs/2609.09623v1) (2026-09-09)
-*   [Cat-Code-Protected Controlled Quantum Communication via Non-Local CNOT Gates over Star Quantum Networks](http://arxiv.org/abs/2609.07376v1) (2026-09-07)
-*   [BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering](http://arxiv.org/abs/2608.25165v1) (2026-08-25)
 
 ### 📰 Latest News
 No telecom-specific news found this week.
