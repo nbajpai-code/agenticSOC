@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-10-02 14:34:25 UTC*
+*Last Updated: 2026-10-09 15:05:38 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Don't Waste the Noise: Importance-Guided Perturbation Allocation under Joint Global and Local Constraints](http://arxiv.org/abs/2610.00861v1) (2026-10-01)
-*   [Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks](http://arxiv.org/abs/2610.00430v1) (2026-09-30)
-*   [TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks](http://arxiv.org/abs/2609.39969v1) (2026-09-30)
-*   [PassGPT+: Leveraging Linguistic Priors for Password Modeling](http://arxiv.org/abs/2609.39880v1) (2026-09-30)
-*   [XIM: The XDC Interledger Messaging Protocol](http://arxiv.org/abs/2609.39310v1) (2026-09-30)
+*   [FlyMark: Training-Free Invisible Watermarking of 3D Gaussian Splatting via a Fruit Fly Connectome](http://arxiv.org/abs/2610.11364v1) (2026-10-08)
+*   [Move Fast and Mend Things: Keeping Up with Evolving AI Harms Using Social Media Commentary](http://arxiv.org/abs/2610.09082v1) (2026-10-06)
+*   [Transferable Spatial Temporal Coherence Adversarial Attack on Black-Box Vision Language Models for Autonomous Driving](http://arxiv.org/abs/2610.08331v1) (2026-10-06)
+*   [MARCO: The Radioactive Watermark for Protein Generative Models](http://arxiv.org/abs/2610.08316v1) (2026-10-06)
+*   [Plug-and-Play Quantum-Resistant BLE Pairing for Medical Implants via NFC Out-of-Band](http://arxiv.org/abs/2610.07870v1) (2026-10-06)
 
 ### 📰 Latest News
 No related news found this week.
