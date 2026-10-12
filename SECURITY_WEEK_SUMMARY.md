@@ -1,41 +1,34 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-10-05 17:57:05 UTC
+**Last Updated:** 2026-10-12 18:38:22 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
-**Date:** Mon, 05 Oct 2026 14:26:00 +0000
+## [Bricksforge WordPress Plugin Vulnerability Exploited in the Wild](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)
+**Date:** Mon, 12 Oct 2026 13:14:37 +0000
 
-<p>Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP).</p>
-<p>The post <a href="https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/">Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Exploitation Hits Rejetto HFS Vulnerability Discovered by AI](https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/)
-**Date:** Mon, 05 Oct 2026 11:00:05 +0000
-
-<p>CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/">Exploitation Hits Rejetto HFS Vulnerability Discovered by AI </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites.</p>
+<p>The post <a href="https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/">Bricksforge WordPress Plugin Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier](https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/)
-**Date:** Mon, 05 Oct 2026 05:14:48 +0000
+## [Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe](https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/)
+**Date:** Mon, 12 Oct 2026 10:32:05 +0000
 
-<p>Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/">Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)
-**Date:** Sun, 04 Oct 2026 14:57:25 +0000
-
-<p>The announcement comes after Trump hosted top executives of AI companies at the White House last week.</p>
-<p>The post <a href="https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/">Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/">Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
-**Date:** Sat, 03 Oct 2026 11:45:00 +0000
+## [Critical SonicWall Vulnerability Exploited Days After Disclosure](https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/)
+**Date:** Mon, 12 Oct 2026 08:36:01 +0000
 
-<p>doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority.</p>
-<p>The post <a href="https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/">doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations.</p>
+<p>The post <a href="https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/">Critical SonicWall Vulnerability Exploited Days After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
+**Date:** Fri, 09 Oct 2026 21:07:46 +0000
+
+<p>The ChatGPT maker said the researchers  "violated clear policies on handling sensitive information.”</p>
+<p>The post <a href="https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
