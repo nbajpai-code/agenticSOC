@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-10-09 15:05:38 UTC*
+*Last Updated: 2026-10-16 13:05:20 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [FlyMark: Training-Free Invisible Watermarking of 3D Gaussian Splatting via a Fruit Fly Connectome](http://arxiv.org/abs/2610.11364v1) (2026-10-08)
-*   [Move Fast and Mend Things: Keeping Up with Evolving AI Harms Using Social Media Commentary](http://arxiv.org/abs/2610.09082v1) (2026-10-06)
-*   [Transferable Spatial Temporal Coherence Adversarial Attack on Black-Box Vision Language Models for Autonomous Driving](http://arxiv.org/abs/2610.08331v1) (2026-10-06)
-*   [MARCO: The Radioactive Watermark for Protein Generative Models](http://arxiv.org/abs/2610.08316v1) (2026-10-06)
-*   [Plug-and-Play Quantum-Resistant BLE Pairing for Medical Implants via NFC Out-of-Band](http://arxiv.org/abs/2610.07870v1) (2026-10-06)
+*   [GhostLock: Learning-Assisted Blind GPS Signal Nullification Without Victim-Side Information](http://arxiv.org/abs/2610.20831v1) (2026-10-14)
+*   [Performance Characterization of Pulsar's Software-defined Watermark Verifier](http://arxiv.org/abs/2610.20827v1) (2026-10-14)
+*   [GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](http://arxiv.org/abs/2610.19549v1) (2026-10-14)
+*   [Combining Post-Quantum Cryptography and Quantum Key Distribution: Taxonomy, Constructions, Proofs, Standards, Deployments and Open Problems](http://arxiv.org/abs/2610.19039v1) (2026-10-13)
+*   [CWE-bench: Refocusing Agentic Security from Exploitation to Defense](http://arxiv.org/abs/2610.17020v1) (2026-10-12)
 
 ### 📰 Latest News
 No related news found this week.
