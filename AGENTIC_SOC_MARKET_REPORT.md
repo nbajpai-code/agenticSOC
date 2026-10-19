@@ -83,3 +83,7 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 
 ## Weekly Updates (2026-09-07)
 - **2026-09-01** [Attackers Steal METR API Key and Consume AI Credits Worth About $600,000](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html) - *The Hacker News*
+
+
+## Weekly Updates (2026-10-19)
+- **2026-10-15** [Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts](https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html) - *The Hacker News*
