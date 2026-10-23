@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-10-16 13:05:20 UTC*
+*Last Updated: 2026-10-23 13:12:22 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [GhostLock: Learning-Assisted Blind GPS Signal Nullification Without Victim-Side Information](http://arxiv.org/abs/2610.20831v1) (2026-10-14)
-*   [Performance Characterization of Pulsar's Software-defined Watermark Verifier](http://arxiv.org/abs/2610.20827v1) (2026-10-14)
-*   [GraphRAG-LTM: A Layered Threat Modeling Framework for Attacks on Graph Retrieval-Augmented Generation](http://arxiv.org/abs/2610.19549v1) (2026-10-14)
-*   [Combining Post-Quantum Cryptography and Quantum Key Distribution: Taxonomy, Constructions, Proofs, Standards, Deployments and Open Problems](http://arxiv.org/abs/2610.19039v1) (2026-10-13)
-*   [CWE-bench: Refocusing Agentic Security from Exploitation to Defense](http://arxiv.org/abs/2610.17020v1) (2026-10-12)
+*   [OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation](http://arxiv.org/abs/2610.31616v1) (2026-10-22)
+*   [Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems](http://arxiv.org/abs/2610.30436v1) (2026-10-21)
+*   [MASAR: Multi-stage Attack Surface Analysis and Reasoning Framework for Telecom Networks](http://arxiv.org/abs/2610.29343v1) (2026-10-21)
+*   [Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint](http://arxiv.org/abs/2610.30193v1) (2026-10-21)
+*   [PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust](http://arxiv.org/abs/2610.28987v1) (2026-10-20)
 
 ### 📰 Latest News
 No related news found this week.
