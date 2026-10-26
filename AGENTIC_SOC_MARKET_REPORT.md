@@ -87,3 +87,7 @@ A new breed of startups built from the ground up with agentic workflows (plannin
 
 ## Weekly Updates (2026-10-19)
 - **2026-10-15** [Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts](https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html) - *The Hacker News*
+
+
+## Weekly Updates (2026-10-26)
+- **2026-10-25** [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/) - *SecurityWeek*
