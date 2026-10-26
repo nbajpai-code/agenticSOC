@@ -1,34 +1,34 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-10-19 16:13:07 UTC
+**Last Updated:** 2026-10-26 15:52:26 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/)
-**Date:** Mon, 19 Oct 2026 15:20:53 +0000
+## [Stolen AI Reasoning Could Help China Build Cheaper Rivals](https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/)
+**Date:** Mon, 26 Oct 2026 14:30:09 +0000
 
-<p>Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16.</p>
-<p>The post <a href="https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/">Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks](https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/)
-**Date:** Mon, 19 Oct 2026 09:37:04 +0000
-
-<p>Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics.</p>
-<p>The post <a href="https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/">MITRE ATT&#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI.</p>
+<p>The post <a href="https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/">Stolen AI Reasoning Could Help China Build Cheaper Rivals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)
-**Date:** Mon, 19 Oct 2026 07:45:25 +0000
+## [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)
+**Date:** Mon, 26 Oct 2026 12:46:44 +0000
 
-<p>Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/">Anthropic Acquires Confidential AI Startup Opaque Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.</p>
+<p>The post <a href="https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/">953 Online Stores Infected in Long-Lasting Malware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)
-**Date:** Sun, 18 Oct 2026 11:00:00 +0000
+## [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)
+**Date:** Sun, 25 Oct 2026 11:00:00 +0000
 
-<p>CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag.</p>
-<p>The post <a href="https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/">US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.</p>
+<p>The post <a href="https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/">Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)
+**Date:** Fri, 23 Oct 2026 14:23:37 +0000
+
+<p>Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/">In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
