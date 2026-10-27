@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-10-20 13:10:26 UTC
+**Last Updated:** 2026-10-27 13:49:43 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,24 +10,21 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Accountable partial understanding: securing the epistemic attack surface of agentic systems](http://arxiv.org/abs/2610.26799v1) (2026-10-19)
-*   [Which Model for Which Role? Cost-Efficient Pareto Recommendation for LLM Agentic Workflows](http://arxiv.org/abs/2610.26676v1) (2026-10-19)
-*   [From TCP/IP to MCP: Security and Governance Lessons from Internet Protocols for Agentic AI](http://arxiv.org/abs/2610.26624v1) (2026-10-19)
-*   [Autonomous intelligence for mining productivity: a multi-agent AI approach to operational value creation](http://arxiv.org/abs/2610.26369v1) (2026-10-19)
-*   [PQC Migration of IPsec: Reliable Composite Key Sharing Mechanisms in IKEv2](http://arxiv.org/abs/2610.25799v1) (2026-10-19)
-*   [Auditing Tool Traces in Agentic LLMs: Source Localization and Counterfactual Dependence Testing](http://arxiv.org/abs/2610.25540v1) (2026-10-18)
-*   [SemVideoSte: Agentic AI for Cross-Modal Semantic Video Steganography Communication](http://arxiv.org/abs/2610.25257v1) (2026-10-18)
-*   [Theory of Developer Momentum: The Developer's Experience of Progress and the Craft of Maintaining Motion](http://arxiv.org/abs/2610.24935v1) (2026-10-18)
-*   [Design Anything, Design at Scale](http://arxiv.org/abs/2610.24771v1) (2026-10-17)
-*   [Multi-Agentic AI for Intent-Driven and Conflict-Aware rApp Policy Orchestration in Open RAN](http://arxiv.org/abs/2610.24688v1) (2026-10-17)
-*   [Leveraging verifiable structure in quantum circuits to find more efficient compilations with agentic AI](http://arxiv.org/abs/2610.23832v1) (2026-10-16)
-*   [DLite: History-free Speculative Decoding for Agentic AI](http://arxiv.org/abs/2610.23787v1) (2026-10-16)
-*   [Agentic AI for Heterogeneous System Design Across Chip, Scale-Up, and Scale-Out Domains](http://arxiv.org/abs/2610.23724v1) (2026-10-16)
-*   [Diversifying Moving Target Defense Against Adaptive Attacks Through Factorized Diffusion](http://arxiv.org/abs/2610.23519v1) (2026-10-16)
-*   [GatewayBench: Unified Capability and Security Evaluation Platform for MCP Gateways](http://arxiv.org/abs/2610.23449v1) (2026-10-16)
+*   [I-HITL: Inalienable Human-in-the-Loop](http://arxiv.org/abs/2610.35835v1) (2026-10-26)
+*   [Towards Spatio-Temporal Intelligence Systems in Urban Space: A Twin-Agent Perspective](http://arxiv.org/abs/2610.34795v1) (2026-10-26)
+*   [From AI-assisted to AI-native Industrial Control: Architecture, Agent Design, and Challenges](http://arxiv.org/abs/2610.34773v1) (2026-10-26)
+*   [The Physical Cost of Context: Quality-Constrained Resource Accounting for Coding Agents](http://arxiv.org/abs/2610.34763v1) (2026-10-26)
+*   [An Agentic AI Workflow for Liver Lesion Segmentation and Structured Radiology Reporting](http://arxiv.org/abs/2610.34599v1) (2026-10-25)
+*   [Agentic AI Orchestration Framework for Spatial Intelligence: Supply Chain Deployment](http://arxiv.org/abs/2610.34569v1) (2026-10-25)
+*   [Is the arXiv Apocalypse upon us? A break in preprint growth coincident with agentic AI](http://arxiv.org/abs/2610.34449v1) (2026-10-25)
+*   [Securing Edge & Physical AI: Post-Quantum IoT Blockchain for Mission-Critical Cyber-Physical Agents](http://arxiv.org/abs/2610.33862v1) (2026-10-24)
+*   [Data Governance for Generative and Agentic AI : Technology, Law, Economics, and Security](http://arxiv.org/abs/2610.33605v1) (2026-10-24)
+*   [Joint Service Depth and Priority Design in Queueing Systems](http://arxiv.org/abs/2610.33334v1) (2026-10-23)
+*   [Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](http://arxiv.org/abs/2610.32851v1) (2026-10-23)
+*   [PULSES: multi-agent AI for autonomous excited-state model building and dynamics](http://arxiv.org/abs/2610.32392v1) (2026-10-23)
+*   [When Statisticians Can Also Be AI Engineers, What Could We Build?](http://arxiv.org/abs/2610.32105v1) (2026-10-23)
+*   [Agentic AI Defense: Decode-Time Provenance Binding for MCP](http://arxiv.org/abs/2610.31974v1) (2026-10-22)
+*   [Toward an Agentic AI Approach to Public Health Data Collection](http://arxiv.org/abs/2610.31746v1) (2026-10-22)
 
 ## 📰 Latest Signal (News)
-*   [AI Platform Cairn Abused to Hack Over 100 Organizations](https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/) - *SecurityWeek*
-*   [Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say](https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/) - *SecurityWeek*
-*   [Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring](https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/) - *SecurityWeek*
-*   [Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/) - *SecurityWeek*
+No recent news matching frontier topics.
