@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-10-21 13:22:43 UTC*
+*Last Updated: 2026-10-28 14:48:27 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [Equivalent Non-linear Shift Register Transformations and Espresso](http://arxiv.org/abs/2610.25346v1) (2026-10-18)
