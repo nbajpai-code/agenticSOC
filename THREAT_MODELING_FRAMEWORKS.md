@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-10-23 13:12:22 UTC*
+*Last Updated: 2026-10-30 14:55:05 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation](http://arxiv.org/abs/2610.31616v1) (2026-10-22)
-*   [Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems](http://arxiv.org/abs/2610.30436v1) (2026-10-21)
-*   [MASAR: Multi-stage Attack Surface Analysis and Reasoning Framework for Telecom Networks](http://arxiv.org/abs/2610.29343v1) (2026-10-21)
-*   [Protection Is Not One Event: A Survey of RAG Protection Research by Measured Endpoint](http://arxiv.org/abs/2610.30193v1) (2026-10-21)
-*   [PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust](http://arxiv.org/abs/2610.28987v1) (2026-10-20)
+*   [DYNAS: A Dynamic Network Penetration Testing Framework Using Deep Hierarchical Reinforcement Learning](http://arxiv.org/abs/2610.40214v1) (2026-10-29)
+*   [Provably Secure Diffusion Watermarking Against Removal Adversaries with Batched Detector Access](http://arxiv.org/abs/2610.39189v1) (2026-10-29)
+*   [Adversarial Process Disturbances at a Deployable Alarm Budget: Detector Evaluation on a Simulator and a Real Plant](http://arxiv.org/abs/2610.38786v1) (2026-10-28)
+*   [AI-Generated Non-Consensual Intimate Imagery is Configured, Not Built: How General-Purpose AI Technology Enables Sexual Violence](http://arxiv.org/abs/2610.37949v1) (2026-10-27)
+*   [Learning Without Clocks: Partition-Invariant Neural Network](http://arxiv.org/abs/2610.37823v1) (2026-10-27)
 
 ### 📰 Latest News
 No related news found this week.
