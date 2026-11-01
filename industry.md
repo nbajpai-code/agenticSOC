@@ -164,3 +164,8 @@ Obsidian argues that AI Security is fundamentally an **Identity** problem.
 - **2026-09-29** [OperTraitors: How Kubernetes Operators Betray Your Security Posture](https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/) - *Palo Alto Networks Unit 42*
 - **2026-09-18** [A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity](https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/) - *Palo Alto Networks Unit 42*
 - **2026-09-02** [An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation](https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/) - *Palo Alto Networks Unit 42*
+- **2026-10-30** [“Black October” for AI Developer Platforms](https://www.wiz.io/blog/black-october-for-ai-developer-platforms) - *Wiz Blog*
+- **2026-10-29** [The Rise of Agentic Attacks: What They Look Like, and Where They're Headed](https://www.wiz.io/blog/the-rise-of-agentic-attacks) - *Wiz Blog*
+- **2026-10-22** [ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors](https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors) - *Wiz Blog*
+- **2026-10-14** [Securing the Mission at Machine Speed: Wiz AI Agents Arrive in Wiz for Gov](https://www.wiz.io/blog/wiz-for-gov-agents-fedramp) - *Wiz Blog*
+- **2026-10-07** [How the Wiz Red Agent caught a Fortune 500 firm’s data exposure (that other tools missed)](https://www.wiz.io/blog/red-agent-financial-services-data-exposure) - *Wiz Blog*
