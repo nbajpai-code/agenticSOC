@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-10-27 13:49:43 UTC
+**Last Updated:** 2026-11-03 15:40:01 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,23 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [I-HITL: Inalienable Human-in-the-Loop](http://arxiv.org/abs/2610.35835v1) (2026-10-26)
-*   [Towards Spatio-Temporal Intelligence Systems in Urban Space: A Twin-Agent Perspective](http://arxiv.org/abs/2610.34795v1) (2026-10-26)
-*   [From AI-assisted to AI-native Industrial Control: Architecture, Agent Design, and Challenges](http://arxiv.org/abs/2610.34773v1) (2026-10-26)
-*   [The Physical Cost of Context: Quality-Constrained Resource Accounting for Coding Agents](http://arxiv.org/abs/2610.34763v1) (2026-10-26)
-*   [An Agentic AI Workflow for Liver Lesion Segmentation and Structured Radiology Reporting](http://arxiv.org/abs/2610.34599v1) (2026-10-25)
-*   [Agentic AI Orchestration Framework for Spatial Intelligence: Supply Chain Deployment](http://arxiv.org/abs/2610.34569v1) (2026-10-25)
-*   [Is the arXiv Apocalypse upon us? A break in preprint growth coincident with agentic AI](http://arxiv.org/abs/2610.34449v1) (2026-10-25)
-*   [Securing Edge & Physical AI: Post-Quantum IoT Blockchain for Mission-Critical Cyber-Physical Agents](http://arxiv.org/abs/2610.33862v1) (2026-10-24)
-*   [Data Governance for Generative and Agentic AI : Technology, Law, Economics, and Security](http://arxiv.org/abs/2610.33605v1) (2026-10-24)
-*   [Joint Service Depth and Priority Design in Queueing Systems](http://arxiv.org/abs/2610.33334v1) (2026-10-23)
-*   [Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](http://arxiv.org/abs/2610.32851v1) (2026-10-23)
-*   [PULSES: multi-agent AI for autonomous excited-state model building and dynamics](http://arxiv.org/abs/2610.32392v1) (2026-10-23)
-*   [When Statisticians Can Also Be AI Engineers, What Could We Build?](http://arxiv.org/abs/2610.32105v1) (2026-10-23)
-*   [Agentic AI Defense: Decode-Time Provenance Binding for MCP](http://arxiv.org/abs/2610.31974v1) (2026-10-22)
-*   [Toward an Agentic AI Approach to Public Health Data Collection](http://arxiv.org/abs/2610.31746v1) (2026-10-22)
+*   [MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study](http://arxiv.org/abs/2611.03555v1) (2026-11-02)
+*   [Can LLM Agents Improve Imperfect Earth System Model Parameterizations?](http://arxiv.org/abs/2611.03543v1) (2026-11-02)
+*   [From Reactive to Agentic Resilience: Multi-Timescale AI-RAN Orchestration Under Signaling Storms](http://arxiv.org/abs/2611.03406v1) (2026-11-02)
+*   [Specification-Driven Governance for Fairness-by-Design in Agentic Software Engineering: How Far Can We Go?](http://arxiv.org/abs/2611.03231v1) (2026-11-02)
+*   [ComplianceAtlas: A Taxonomy-Driven Agentic AI Framework for Automated AI Act Gap Analysis and Remediation](http://arxiv.org/abs/2611.03121v1) (2026-11-02)
+*   [Towards a Trustworthy and Governable Internet of Agentics: An Architectural Perspective on Protocols, Systems, and Services](http://arxiv.org/abs/2611.03066v1) (2026-11-02)
+*   [TLAPS-Bench: Formally Proving Correctness of Real-World System Specifications with TLA+ Proof System](http://arxiv.org/abs/2611.02849v1) (2026-11-02)
+*   [Toward Agentic AI-Ready Workflows in Built Environment Organizations: Knowledge Structures and Interoperability Challenges](http://arxiv.org/abs/2611.02286v1) (2026-11-01)
+*   [The Vibe Paradox: What EEG Reveals About Your Brain When Vibe Coding](http://arxiv.org/abs/2611.02087v1) (2026-11-01)
+*   [Does reflective LLM feedback survive a wet-lab-scale label budget?](http://arxiv.org/abs/2611.01908v1) (2026-11-01)
+*   [Learning by Doing: Autonomously Compiling and Curating Agent Skills from Verified Traces](http://arxiv.org/abs/2611.01386v1) (2026-11-01)
+*   [Side-Channel Attack Prevention for Post Quantum Cryptography Algorithms: A 3D-Shield Approach](http://arxiv.org/abs/2611.01144v1) (2026-10-31)
+*   [Can Agentic AI Undermine Its Own Assurance Loop? Closed-Loop Dependency Assurance for Cognitive Network Digital Twins](http://arxiv.org/abs/2611.00838v1) (2026-10-31)
+*   [DramaVQA: Probing Detailed Understanding of Ultra-Long TV Dramas](http://arxiv.org/abs/2611.00769v1) (2026-10-31)
+*   [Autonomous Analysis of Thermoelectric Materials Big Data by Multi-Agentic AI and Construction of a Knowledge Base and Specialized AI](http://arxiv.org/abs/2611.00627v1) (2026-10-31)
 
 ## 📰 Latest Signal (News)
-No recent news matching frontier topics.
+*   [CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/) - *SecurityWeek*
+*   [UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028](https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/) - *SecurityWeek*
+*   [NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training](https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/) - *SecurityWeek*
