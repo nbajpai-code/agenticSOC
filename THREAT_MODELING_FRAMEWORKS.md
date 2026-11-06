@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-10-30 14:55:05 UTC*
+*Last Updated: 2026-11-06 15:46:28 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [DYNAS: A Dynamic Network Penetration Testing Framework Using Deep Hierarchical Reinforcement Learning](http://arxiv.org/abs/2610.40214v1) (2026-10-29)
-*   [Provably Secure Diffusion Watermarking Against Removal Adversaries with Batched Detector Access](http://arxiv.org/abs/2610.39189v1) (2026-10-29)
-*   [Adversarial Process Disturbances at a Deployable Alarm Budget: Detector Evaluation on a Simulator and a Real Plant](http://arxiv.org/abs/2610.38786v1) (2026-10-28)
-*   [AI-Generated Non-Consensual Intimate Imagery is Configured, Not Built: How General-Purpose AI Technology Enables Sexual Violence](http://arxiv.org/abs/2610.37949v1) (2026-10-27)
-*   [Learning Without Clocks: Partition-Invariant Neural Network](http://arxiv.org/abs/2610.37823v1) (2026-10-27)
+*   [A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks](http://arxiv.org/abs/2611.06412v1) (2026-11-04)
+*   [SenTrojan: Revealing Analog Hardware Trojan Attacks on Sensors](http://arxiv.org/abs/2611.06103v1) (2026-11-04)
+*   [A Security Analysis of Verifiable Credential Verification Pipelines: Attack Surface Arising from JSON-LD/RDFC Canonicalization Compared with SD-JWT VC and mdoc](http://arxiv.org/abs/2611.04461v1) (2026-11-03)
+*   [Black-Box Adversarial Example Attacks on Machine Learning based Election Systems](http://arxiv.org/abs/2611.02166v1) (2026-11-01)
+*   [Adversarial Robustness of Retrieval-Based Fact-Checking: Detecting and Mitigating Evidence Contamination](http://arxiv.org/abs/2611.02139v1) (2026-11-01)
 
 ### 📰 Latest News
 No related news found this week.
