@@ -99,14 +99,14 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-11-04 15:55:43 UTC*
+*Last Updated: 2026-11-11 15:48:39 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [Finite-Key Readiness and Authentication-Key Replenishment in QKD-Assisted UAV Edge Computing](http://arxiv.org/abs/2611.14461v1) (2026-11-10)
 *   [Equivalent Non-linear Shift Register Transformations and Espresso](http://arxiv.org/abs/2610.25346v1) (2026-10-18)
 *   [Secure Quantum Handshakes: Quantum Network Verification Via Simon's Algorithm](http://arxiv.org/abs/2610.12209v1) (2026-10-08)
 *   [CV-QKD with noisy coherent states and realistic displacement receivers](http://arxiv.org/abs/2610.10414v1) (2026-10-07)
 *   [Quantum Machine Learning Protection of Military Quantum Key Distribution Against Cryptographically Camouflaged Attacks](http://arxiv.org/abs/2610.04543v1) (2026-10-03)
-*   [Device-Independent Conference Keys from Parity-Extended Games](http://arxiv.org/abs/2610.01025v1) (2026-10-01)
 
 ### 📰 Latest News
 No telecom-specific news found this week.
