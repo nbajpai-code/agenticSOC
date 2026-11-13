@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-11-06 15:46:28 UTC*
+*Last Updated: 2026-11-13 15:59:05 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks](http://arxiv.org/abs/2611.06412v1) (2026-11-04)
-*   [SenTrojan: Revealing Analog Hardware Trojan Attacks on Sensors](http://arxiv.org/abs/2611.06103v1) (2026-11-04)
-*   [A Security Analysis of Verifiable Credential Verification Pipelines: Attack Surface Arising from JSON-LD/RDFC Canonicalization Compared with SD-JWT VC and mdoc](http://arxiv.org/abs/2611.04461v1) (2026-11-03)
-*   [Black-Box Adversarial Example Attacks on Machine Learning based Election Systems](http://arxiv.org/abs/2611.02166v1) (2026-11-01)
-*   [Adversarial Robustness of Retrieval-Based Fact-Checking: Detecting and Mitigating Evidence Contamination](http://arxiv.org/abs/2611.02139v1) (2026-11-01)
+*   [Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs](http://arxiv.org/abs/2611.17280v1) (2026-11-12)
+*   [NonSense: On the (In)security of FPGA Anti-tamper Sensors](http://arxiv.org/abs/2611.17065v1) (2026-11-12)
+*   [Just AI Governance and the Forbidden-Boundary Principle](http://arxiv.org/abs/2611.13007v1) (2026-11-08)
+*   [Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models](http://arxiv.org/abs/2611.11571v1) (2026-11-08)
+*   [Data Manipulation Attacks Against Machine Learning Integrated Cyber-Physical Systems](http://arxiv.org/abs/2611.11529v1) (2026-11-08)
 
 ### 📰 Latest News
 No related news found this week.
