@@ -1,34 +1,48 @@
 # Security Week: Actionable Insights & Updates
 
-**Last Updated:** 2026-11-09 19:30:42 UTC
+**Last Updated:** 2026-11-16 19:17:19 UTC
 
 This tracker monitors [SecurityWeek](https://www.securityweek.com) for news related to **Agentic SOC**, **Advanced Threats**, and **AI in Cybersecurity**.
 
-## [Amplifon Americas Data Breach Impacts 1.3 Million](https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/)
-**Date:** Mon, 09 Nov 2026 11:20:09 +0000
+## [Cursor Supply Chain Attack Started at Fireworks AI](https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/)
+**Date:** Mon, 16 Nov 2026 15:45:43 +0000
 
-<p>Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems.</p>
-<p>The post <a href="https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/">Amplifon Americas Data Breach Impacts 1.3 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-
----
-## [Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack](https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/)
-**Date:** Mon, 09 Nov 2026 08:35:50 +0000
-
-<p>Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys.</p>
-<p>The post <a href="https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/">Google DeepMind&#8217;s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies.</p>
+<p>The post <a href="https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/">Cursor Supply Chain Attack Started at Fireworks AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
-**Date:** Sun, 08 Nov 2026 12:14:00 +0000
+## [Google Project Zero Sets Course for 30-Day Disclosure Deadline](https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/)
+**Date:** Mon, 16 Nov 2026 15:31:25 +0000
 
-<p>Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses.</p>
-<p>The post <a href="https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/">Brava Security Emerges From Stealth With $15 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028.</p>
+<p>The post <a href="https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/">Google Project Zero Sets Course for 30-Day Disclosure Deadline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
-## [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
-**Date:** Sat, 07 Nov 2026 10:16:23 +0000
+## [Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks](https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/)
+**Date:** Mon, 16 Nov 2026 15:07:32 +0000
 
-<p>CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/">SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks.</p>
+<p>The post <a href="https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/">Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch](https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/)
+**Date:** Mon, 16 Nov 2026 12:48:03 +0000
+
+<p>Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims.</p>
+<p>The post <a href="https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/">Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Recent UnrealIRCd Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/)
+**Date:** Mon, 16 Nov 2026 11:15:48 +0000
+
+<p>Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges.</p>
+<p>The post <a href="https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/">Recent UnrealIRCd Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+
+---
+## [Pentagon Renames CDAO ‘Super Intelligence Office’](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)
+**Date:** Sun, 15 Nov 2026 12:51:33 +0000
+
+<p>The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications.</p>
+<p>The post <a href="https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/">Pentagon Renames CDAO ‘Super Intelligence Office’</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 
 ---
