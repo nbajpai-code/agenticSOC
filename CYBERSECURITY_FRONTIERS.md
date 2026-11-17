@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-11-10 15:58:15 UTC
+**Last Updated:** 2026-11-17 17:15:36 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,21 +10,22 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Brief introduction to post-quantum cryptography in industrial applications](http://arxiv.org/abs/2611.12479v1) (2026-11-09)
-*   [Toward Sustainable Agentic AI: Carbon Tradeoffs Across Iterative Self-Refinement and Tool-Augmented Coding](http://arxiv.org/abs/2611.12128v1) (2026-11-09)
-*   [CRAFT-AI: Capability and Requirement Alignment for Flexible Manufacturing through Agentic AI](http://arxiv.org/abs/2611.12092v1) (2026-11-09)
-*   [A Life of Its Own: How Agentic AI Companions Are Configured, Experienced as Autonomous Others, and Held Accountable](http://arxiv.org/abs/2611.12076v1) (2026-11-09)
-*   [Safeguarding Agentic AI in Radiology Workflows: A Multimodel Evaluation of Rule-based and Large Language Model-based Verification](http://arxiv.org/abs/2611.11541v1) (2026-11-08)
-*   [Advancements in Cloud-Native Systems: A Systematic Mapping Study of Reliability and Scalability across Cloud-Native, Edge-Native and AI-Enabled Systems](http://arxiv.org/abs/2611.11040v1) (2026-11-08)
-*   [PQC-Corpus: A Dataset of Linked Development Histories for Post-Quantum Cryptography](http://arxiv.org/abs/2611.10966v1) (2026-11-07)
-*   [Agents of Chaos: A Systematization of Knowledge (SoK) on Malicious Attacks on Agentic AI Systems](http://arxiv.org/abs/2611.10843v1) (2026-11-07)
-*   [The Devil Wears Markdown: Detecting Malicious Intent Hidden in AI Agent Skill Instructions through Hybrid Static, Dynamic, and Agentic Analysis](http://arxiv.org/abs/2611.10830v1) (2026-11-07)
-*   [An Agentic Multi-Agent Framework for System Log Anomaly Detection](http://arxiv.org/abs/2611.10612v1) (2026-11-07)
-*   [The Limits of Information-Flow Control Enforcement for Agentic Systems](http://arxiv.org/abs/2611.10395v1) (2026-11-07)
-*   [Jais 3: Introducing Arabic-centric Agentic AI](http://arxiv.org/abs/2611.10224v1) (2026-11-06)
-*   [Knowing When to Intervene: Causal Evaluation of AI Agents](http://arxiv.org/abs/2611.09792v1) (2026-11-06)
-*   [What to Delegate, What to Preserve: Human Preferences for Agentic AI Across Everyday Life and Work](http://arxiv.org/abs/2611.09730v1) (2026-11-06)
-*   [Empirical Assessment of Post-Quantum Cryptography Adoption Status in TLS](http://arxiv.org/abs/2611.09707v1) (2026-11-06)
+*   [Quantum-Assisted D-FACTS Scheduling for Moving Target Defense under Switching Limits](http://arxiv.org/abs/2611.21265v1) (2026-11-16)
+*   [Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks](http://arxiv.org/abs/2611.21259v1) (2026-11-16)
+*   [System 1 agents: a method for local, reliable and fast agentic AI](http://arxiv.org/abs/2611.21053v1) (2026-11-16)
+*   [Multi-LLM Agentic AI at the Edge: Joint Agent Scheduling and Resource Allocation](http://arxiv.org/abs/2611.20915v1) (2026-11-16)
+*   [Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project](http://arxiv.org/abs/2611.20187v1) (2026-11-15)
+*   [Steering Bayesian Inference and Decisions through Data Poisoning](http://arxiv.org/abs/2611.19557v1) (2026-11-14)
+*   [We Have All the Cards: Securing Agent Cards at the Operational Trust Boundary of the Agent2Agent Protocol](http://arxiv.org/abs/2611.18887v1) (2026-11-13)
+*   [Agentic AI for Discovering Fault-Tolerant Quantum Circuits](http://arxiv.org/abs/2611.18504v1) (2026-11-13)
+*   [From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration](http://arxiv.org/abs/2611.18484v1) (2026-11-13)
+*   [Space-based Zero-trust Architecture for Securing the Direct-to-Cell Paradigm](http://arxiv.org/abs/2611.17826v1) (2026-11-13)
+*   [Maturity$^2$: Assessing the Maturity of Crypto Agility Maturity Models](http://arxiv.org/abs/2611.17003v1) (2026-11-12)
+*   [From Data to Wisdom: Rethinking AI Through an Epistemic Lens](http://arxiv.org/abs/2611.16726v2) (2026-11-12)
+*   [Scaling public input on AI policy with pluralistic agents](http://arxiv.org/abs/2611.16028v1) (2026-11-11)
+*   [Reward-Driven Collider Physics Challenges for Self-Improving Agentic AI via Reinforcement Learning](http://arxiv.org/abs/2611.15885v1) (2026-11-11)
+*   [Agreement Is Not Assurance: Evidence-Independent Safety Gates for Agentic AI in DER-Rich Distribution Grids](http://arxiv.org/abs/2611.15363v1) (2026-11-11)
 
 ## 📰 Latest Signal (News)
-*   [Over a Dozen Organizations Hit in Qubole Supply Chain Attack](https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/) - *SecurityWeek*
+*   [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/) - *SecurityWeek*
+*   [Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/) - *SecurityWeek*
