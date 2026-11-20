@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-11-13 15:59:05 UTC*
+*Last Updated: 2026-11-20 16:48:46 UTC*
 
 ### 📄 Latest Research (Arxiv)
-*   [Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs](http://arxiv.org/abs/2611.17280v1) (2026-11-12)
-*   [NonSense: On the (In)security of FPGA Anti-tamper Sensors](http://arxiv.org/abs/2611.17065v1) (2026-11-12)
-*   [Just AI Governance and the Forbidden-Boundary Principle](http://arxiv.org/abs/2611.13007v1) (2026-11-08)
-*   [Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models](http://arxiv.org/abs/2611.11571v1) (2026-11-08)
-*   [Data Manipulation Attacks Against Machine Learning Integrated Cyber-Physical Systems](http://arxiv.org/abs/2611.11529v1) (2026-11-08)
+*   [When lies look like noise: certifying untrusted entanglement swapping](http://arxiv.org/abs/2611.26436v1) (2026-11-19)
+*   [SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines](http://arxiv.org/abs/2611.26033v1) (2026-11-19)
+*   [LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids](http://arxiv.org/abs/2611.24765v1) (2026-11-18)
+*   [Weighing the Envelope: Component Weight and Arbitration in Envelope-Layer Defenses for a Single LLM Agent](http://arxiv.org/abs/2611.23844v1) (2026-11-18)
+*   [Plug-and-Play Multi-Licensee Robust Watermarking for Mixture-of-Experts LLMs](http://arxiv.org/abs/2611.23838v1) (2026-11-18)
 
 ### 📰 Latest News
 No related news found this week.
