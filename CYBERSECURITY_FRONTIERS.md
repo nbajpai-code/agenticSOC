@@ -1,6 +1,6 @@
 # Frontiers in Cybersecurity Technology
 
-**Last Updated:** 2026-11-17 17:15:36 UTC
+**Last Updated:** 2026-11-24 19:14:34 UTC
 
 ## 🚀 Key Frontiers (2025-2026)
 *   **Agentic AI & Autonomous SOC**: AI models that plan and execute multi-step security workflows involved in detection, triage, and response.
@@ -10,22 +10,21 @@
 *   **Automated Moving Target Defense (AMTD)**: Dynamic shifting of attack surfaces to confuse adversaries.
 
 ## 📄 Latest Research (Arxiv)
-*   [Quantum-Assisted D-FACTS Scheduling for Moving Target Defense under Switching Limits](http://arxiv.org/abs/2611.21265v1) (2026-11-16)
-*   [Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks](http://arxiv.org/abs/2611.21259v1) (2026-11-16)
-*   [System 1 agents: a method for local, reliable and fast agentic AI](http://arxiv.org/abs/2611.21053v1) (2026-11-16)
-*   [Multi-LLM Agentic AI at the Edge: Joint Agent Scheduling and Resource Allocation](http://arxiv.org/abs/2611.20915v1) (2026-11-16)
-*   [Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project](http://arxiv.org/abs/2611.20187v1) (2026-11-15)
-*   [Steering Bayesian Inference and Decisions through Data Poisoning](http://arxiv.org/abs/2611.19557v1) (2026-11-14)
-*   [We Have All the Cards: Securing Agent Cards at the Operational Trust Boundary of the Agent2Agent Protocol](http://arxiv.org/abs/2611.18887v1) (2026-11-13)
-*   [Agentic AI for Discovering Fault-Tolerant Quantum Circuits](http://arxiv.org/abs/2611.18504v1) (2026-11-13)
-*   [From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration](http://arxiv.org/abs/2611.18484v1) (2026-11-13)
-*   [Space-based Zero-trust Architecture for Securing the Direct-to-Cell Paradigm](http://arxiv.org/abs/2611.17826v1) (2026-11-13)
-*   [Maturity$^2$: Assessing the Maturity of Crypto Agility Maturity Models](http://arxiv.org/abs/2611.17003v1) (2026-11-12)
-*   [From Data to Wisdom: Rethinking AI Through an Epistemic Lens](http://arxiv.org/abs/2611.16726v2) (2026-11-12)
-*   [Scaling public input on AI policy with pluralistic agents](http://arxiv.org/abs/2611.16028v1) (2026-11-11)
-*   [Reward-Driven Collider Physics Challenges for Self-Improving Agentic AI via Reinforcement Learning](http://arxiv.org/abs/2611.15885v1) (2026-11-11)
-*   [Agreement Is Not Assurance: Evidence-Independent Safety Gates for Agentic AI in DER-Rich Distribution Grids](http://arxiv.org/abs/2611.15363v1) (2026-11-11)
+*   [Agentic AI for Intent Management and Control in Autonomous Communication Networks](http://arxiv.org/abs/2611.31223v1) (2026-11-23)
+*   [LiveLoRA: Exact KV Cache Migration Across LoRA Updates for LLM Agents](http://arxiv.org/abs/2611.31105v1) (2026-11-23)
+*   [AI-Assisted Auto-formalization for Trustworthy Scientific Computing: Case Studies and Lessons Learned](http://arxiv.org/abs/2611.31033v1) (2026-11-23)
+*   [Origins of City Reputation: Measuring Trust and Bias in Online Reviews Using Agentic AI and NLP](http://arxiv.org/abs/2611.31009v1) (2026-11-23)
+*   [WorldLeague: Benchmarking Physical Agency](http://arxiv.org/abs/2611.30989v1) (2026-11-23)
+*   [Big Tree Viewer: A high-performance browser-based phylogenetic tree viewer with agentic AI integration](http://arxiv.org/abs/2611.30920v1) (2026-11-23)
+*   [Synapse: An HBM-Coordinated HBF Near-Memory Computing Architecture for Pipelined Agentic AI Execution](http://arxiv.org/abs/2611.29901v1) (2026-11-23)
+*   [QUISA: A Compact, Flexible and Unified Instruction-Set Coprocessor for QR-UOV Signature](http://arxiv.org/abs/2611.28687v1) (2026-11-21)
+*   [Human-in-the-Loop Runbook Improvement with Agentic Support Automation](http://arxiv.org/abs/2611.28441v1) (2026-11-21)
+*   [Post-Quantum Migration in Brownfield 5G Core Networks: Verified Hybrid Key Establishment, Performance, and Rollback](http://arxiv.org/abs/2611.27735v1) (2026-11-20)
+*   [A Cognitive Agentic AI Framework for Interactive Process Analysis and Optimization](http://arxiv.org/abs/2611.27725v1) (2026-11-20)
+*   [Hierarchical Agentic Mid-Band Agility for Reliable Low-Latency Space-Air-Ground Integrated V2X Networks](http://arxiv.org/abs/2611.27659v1) (2026-11-20)
+*   [Bringing AI Assistance to the Beznau Nuclear Power Plant: A Hierarchical System of LLM Agents for Reactor Monitoring](http://arxiv.org/abs/2611.27556v1) (2026-11-20)
+*   [From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation Generation](http://arxiv.org/abs/2611.27483v1) (2026-11-20)
+*   [Learning When to Ask: Advisor-Aware Post-Training for SLM Agents](http://arxiv.org/abs/2611.27443v1) (2026-11-20)
 
 ## 📰 Latest Signal (News)
-*   [Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/) - *SecurityWeek*
-*   [Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/) - *SecurityWeek*
+*   [Anthropic Expands Enterprise Safeguards for Detecting AI Misuse](https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/) - *SecurityWeek*
