@@ -99,7 +99,7 @@ This guide covers security vulnerabilities, defenses, and best practices for cri
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-11-18 16:54:16 UTC*
+*Last Updated: 2026-11-25 18:22:19 UTC*
 
 ### 📄 Latest Research (Arxiv)
 *   [Implementation of a 1D Gaussian-modulated CV-QKD under finite-size parameter estimation](http://arxiv.org/abs/2611.17250v1) (2026-11-12)
