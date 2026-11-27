@@ -61,14 +61,14 @@ This guide serves as a comprehensive reference for three foundational threat mod
 ---
 
 ## 🔄 Weekly Updates (Research & News)
-*Last Updated: 2026-11-20 16:48:46 UTC*
+*Last Updated: 2026-11-27 17:56:38 UTC*
 
 ### 📄 Latest Research (Arxiv)
+*   [From Models to Services: Systematizing Security Assurance for Model-as-a-Service](http://arxiv.org/abs/2611.34623v1) (2026-11-25)
+*   [BODYBENCH: Evaluating Adversarial Image Defenses Against AI Nudification Inpainting](http://arxiv.org/abs/2611.31774v1) (2026-11-24)
+*   [Mjolnir: Finding and Reproducing Vulnerabilities in Root-of-Trust Firmware and RTL with Project-Grounded Agents](http://arxiv.org/abs/2611.27567v1) (2026-11-20)
 *   [When lies look like noise: certifying untrusted entanglement swapping](http://arxiv.org/abs/2611.26436v1) (2026-11-19)
 *   [SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines](http://arxiv.org/abs/2611.26033v1) (2026-11-19)
-*   [LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids](http://arxiv.org/abs/2611.24765v1) (2026-11-18)
-*   [Weighing the Envelope: Component Weight and Arbitration in Envelope-Layer Defenses for a Single LLM Agent](http://arxiv.org/abs/2611.23844v1) (2026-11-18)
-*   [Plug-and-Play Multi-Licensee Robust Watermarking for Mixture-of-Experts LLMs](http://arxiv.org/abs/2611.23838v1) (2026-11-18)
 
 ### 📰 Latest News
 No related news found this week.
